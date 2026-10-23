@@ -1,0 +1,1329 @@
+{
+  "format_version": 1,
+  "content_version": "sample-0.1.0",
+  "source_id": "src-0001",
+  "method": "manual_visual_transcription",
+  "words": [
+    {
+      "id": "w0001",
+      "spelling": "action",
+      "phonetic": "/ˈækʃn/",
+      "source_definition": "n. 行为，行动；功能，作用",
+      "mnemonic": "act（发音类似“爱个他”）+ ion（名词后缀）→如果爱他就不要口头说，要勇敢去追，行动起来→行动。",
+      "group_name": "01 act相关词汇",
+      "pdf_pages": [
+        10
+      ],
+      "printed_pages": [
+        "002"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0001-01",
+          "pos": "n.",
+          "gloss": "行为，行动",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0001-02",
+          "pos": "n.",
+          "gloss": "功能，作用",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0001-01",
+          "sense_id": "s0001-01",
+          "english": "Actions speak louder than words.",
+          "translation": "行胜于言。",
+          "target": "Actions",
+          "target_start": 0,
+          "target_end": 7,
+          "book_label": "例",
+          "pdf_page": 10,
+          "printed_page": "002",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0001-02",
+          "sense_id": "s0001-01",
+          "english": "Prior knowledge and interests influence the subsequent actions we take.",
+          "translation": "先前的知识和兴趣会影响我们接下来采取的行动。",
+          "target": "actions",
+          "target_start": 55,
+          "target_end": 62,
+          "book_label": "真题",
+          "pdf_page": 10,
+          "printed_page": "002",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0002",
+      "spelling": "activate",
+      "phonetic": "/ˈæktɪveɪt/",
+      "source_definition": "v. 使活动；激活",
+      "mnemonic": "",
+      "group_name": "01 act相关词汇",
+      "pdf_pages": [
+        10
+      ],
+      "printed_pages": [
+        "002"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0002-01",
+          "pos": "v.",
+          "gloss": "使活动；激活",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0002-01",
+          "sense_id": "s0002-01",
+          "english": "The burglar alarm is activated by movement.",
+          "translation": "这防盗警报器一动就会响。",
+          "target": "activated",
+          "target_start": 21,
+          "target_end": 30,
+          "book_label": "例",
+          "pdf_page": 10,
+          "printed_page": "002",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0002-02",
+          "sense_id": "s0002-01",
+          "english": "Curiosity activates creative minds.",
+          "translation": "好奇心激发创造性思维。",
+          "target": "activates",
+          "target_start": 10,
+          "target_end": 19,
+          "book_label": "真题",
+          "pdf_page": 10,
+          "printed_page": "002",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0003",
+      "spelling": "active",
+      "phonetic": "/ˈæktɪv/",
+      "source_definition": "adj. 积极的，活跃的；起作用的",
+      "mnemonic": "",
+      "group_name": "01 act相关词汇",
+      "pdf_pages": [
+        10
+      ],
+      "printed_pages": [
+        "002"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0003-01",
+          "pos": "adj.",
+          "gloss": "积极的，活跃的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0003-02",
+          "pos": "adj.",
+          "gloss": "起作用的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0003-01",
+          "sense_id": "s0003-01",
+          "english": "Playing with digital devices discourages kids from active discovery.",
+          "translation": "玩电子设备会阻碍孩子积极探索。",
+          "target": "active",
+          "target_start": 51,
+          "target_end": 57,
+          "book_label": "例",
+          "pdf_page": 10,
+          "printed_page": "002",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0003-02",
+          "sense_id": "s0003-01",
+          "english": "The brain is as active during REM (rapid eye movement) sleep as it is when fully awake.",
+          "translation": "大脑在快速眼动睡眠时与完全清醒时是一样活跃的。",
+          "target": "active",
+          "target_start": 16,
+          "target_end": 22,
+          "book_label": "真题",
+          "pdf_page": 10,
+          "printed_page": "002",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0003-01",
+          "spelling": "activist",
+          "definition": "n. 积极分子",
+          "relation": "derived",
+          "pdf_page": 10,
+          "note": ""
+        },
+        {
+          "id": "r0003-02",
+          "spelling": "actively",
+          "definition": "adv. 积极地；活跃地",
+          "relation": "derived",
+          "pdf_page": 10,
+          "note": ""
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0004",
+      "spelling": "react",
+      "phonetic": "/riˈækt/",
+      "source_definition": "v. 起化学反应；回应，作出反应",
+      "mnemonic": "act（行动）+ re（回）→我们对这个地方采取行动，这个地方的人给我们作出相应的“回应”。",
+      "group_name": "01 act相关词汇",
+      "pdf_pages": [
+        10
+      ],
+      "printed_pages": [
+        "002"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0004-01",
+          "pos": "v.",
+          "gloss": "回应，作出反应",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0004-02",
+          "pos": "v.",
+          "gloss": "起化学反应",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0004-01",
+          "sense_id": "s0004-01",
+          "english": "All students in our university react strongly to the resign of the president.",
+          "translation": "我们学校所有学生对校长辞职的反应很激烈。",
+          "target": "react",
+          "target_start": 31,
+          "target_end": 36,
+          "book_label": "例",
+          "pdf_page": 10,
+          "printed_page": "002",
+          "review_status": "pending",
+          "note": "原书 the resign 用法待核实；不进入学习队列。"
+        },
+        {
+          "id": "e0004-02",
+          "sense_id": "s0004-01",
+          "english": "The stock market reacts positively when companies tie CEO pay to stock prices.",
+          "translation": "当公司把股价和首席执行官的工资挂钩时，股市会作出积极反应。",
+          "target": "reacts",
+          "target_start": 17,
+          "target_end": 23,
+          "book_label": "真题",
+          "pdf_page": 10,
+          "printed_page": "002",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0004-01",
+          "spelling": "reaction",
+          "definition": "n. 反应；反作用力",
+          "relation": "derived",
+          "pdf_page": 10,
+          "note": ""
+        },
+        {
+          "id": "r0004-02",
+          "spelling": "reactor",
+          "definition": "n. 核反应堆",
+          "relation": "derived",
+          "pdf_page": 10,
+          "note": ""
+        }
+      ],
+      "notes": [
+        "原书例句使用 the resign，疑有用词问题；保留原文，例句 e0004-01 暂不用于学习。"
+      ]
+    },
+    {
+      "id": "w0005",
+      "spelling": "exact",
+      "phonetic": "/ɪɡˈzækt/",
+      "source_definition": "adj. 准确的，精确的，严谨的；v. 要求；强迫；强求",
+      "mnemonic": "ex（出去）+ act（行动）→警察集体外出行动时，必须有严谨的计划，精准的安排→严谨的。",
+      "group_name": "01 act相关词汇",
+      "pdf_pages": [
+        10
+      ],
+      "printed_pages": [
+        "002"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0005-01",
+          "pos": "adj.",
+          "gloss": "准确的，精确的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0005-02",
+          "pos": "adj.",
+          "gloss": "严谨的",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0005-03",
+          "pos": "v.",
+          "gloss": "要求；强迫；强求",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0005-01",
+          "sense_id": "s0005-01",
+          "english": "The colours were an almost exact match.",
+          "translation": "这些颜色几乎完全匹配。",
+          "target": "exact",
+          "target_start": 27,
+          "target_end": 32,
+          "book_label": "例",
+          "pdf_page": 10,
+          "printed_page": "002",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0005-02",
+          "sense_id": "s0005-01",
+          "english": "You should make shopping lists for your ingredients in their exact quantities.",
+          "translation": "你列购买原料的清单时，应当列出它们准确的数量。",
+          "target": "exact",
+          "target_start": 61,
+          "target_end": 66,
+          "book_label": "真题",
+          "pdf_page": 10,
+          "printed_page": "002",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0005-01",
+          "spelling": "exactly",
+          "definition": "adv. 精确地，准确地",
+          "relation": "derived",
+          "pdf_page": 10,
+          "note": "派生词例句未计入 exact 的掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0006",
+      "spelling": "actual",
+      "phonetic": "/ˈæktʃuəl/",
+      "source_definition": "adj. 实际的；真正的；真实的",
+      "mnemonic": "我们要行动（act）起来，才能解决实际的（actual）问题。",
+      "group_name": "01 act相关词汇",
+      "pdf_pages": [
+        10,
+        11
+      ],
+      "printed_pages": [
+        "002",
+        "003"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0006-01",
+          "pos": "adj.",
+          "gloss": "实际的；真正的；真实的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0006-01",
+          "sense_id": "s0006-01",
+          "english": "The actual cost was higher than we expected.",
+          "translation": "实际成本比我们预料的要高。",
+          "target": "actual",
+          "target_start": 4,
+          "target_end": 10,
+          "book_label": "例",
+          "pdf_page": 11,
+          "printed_page": "003",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0006-02",
+          "sense_id": "s0006-01",
+          "english": "Their methods do not attempt to estimate the actual biomass.",
+          "translation": "他们的方法不是尝试去估算实际的生物量。",
+          "target": "actual",
+          "target_start": 45,
+          "target_end": 51,
+          "book_label": "真题",
+          "pdf_page": 11,
+          "printed_page": "003",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0006-01",
+          "spelling": "actually",
+          "definition": "adv. 实际上；事实上",
+          "relation": "derived",
+          "pdf_page": 11,
+          "note": "派生词例句未计入 actual 的掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0007",
+      "spelling": "interact",
+      "phonetic": "/ˌɪntərˈækt/",
+      "source_definition": "v. 交流，沟通；相互影响，相互作用",
+      "mnemonic": "inter（中间，之间）+ act（行动）→两个事物之间不断地有行动→相互作用。",
+      "group_name": "01 act相关词汇",
+      "pdf_pages": [
+        11
+      ],
+      "printed_pages": [
+        "003"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0007-01",
+          "pos": "v.",
+          "gloss": "交流，沟通",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0007-02",
+          "pos": "v.",
+          "gloss": "相互影响，相互作用",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0007-01",
+          "sense_id": "s0007-01",
+          "english": "He interacts very well with other children.",
+          "translation": "他和其他孩子交往得很好。",
+          "target": "interacts",
+          "target_start": 3,
+          "target_end": 12,
+          "book_label": "例",
+          "pdf_page": 11,
+          "printed_page": "003",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0007-01",
+          "spelling": "interaction",
+          "definition": "n. 互动，交流；相互作用",
+          "relation": "derived",
+          "pdf_page": 11,
+          "note": "原书真题使用 interactions，单独保留在转录文本中。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0008",
+      "spelling": "behave",
+      "phonetic": "/bɪˈheɪv/",
+      "source_definition": "v. 举止得体；表现",
+      "mnemonic": "",
+      "group_name": "02 行为相关词汇",
+      "pdf_pages": [
+        11
+      ],
+      "printed_pages": [
+        "003"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0008-01",
+          "pos": "v.",
+          "gloss": "举止得体",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0008-02",
+          "pos": "v.",
+          "gloss": "表现",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0008-01",
+          "sense_id": "s0008-01",
+          "english": "She doesn’t know how to behave in public.",
+          "translation": "她在公共场合举止无措。",
+          "target": "behave",
+          "target_start": 24,
+          "target_end": 30,
+          "book_label": "例",
+          "pdf_page": 11,
+          "printed_page": "003",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0008-01",
+          "spelling": "behaviour",
+          "definition": "n. 行为，举止；态度",
+          "relation": "derived",
+          "pdf_page": 11,
+          "note": "美式拼写 behavior；原书真题使用 behavior。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0009",
+      "spelling": "conduct",
+      "phonetic": null,
+      "source_definition": "/kənˈdʌkt/ v. 组织，安排；实施，执行；指挥；引导；传导；/ˈkɒndʌkt/ n. 行为；举止",
+      "mnemonic": "con（共同）+ duct（引导；带来）→引导大家共同做→指挥。",
+      "group_name": "02 行为相关词汇",
+      "pdf_pages": [
+        11
+      ],
+      "printed_pages": [
+        "003"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0009-01",
+          "pos": "n.",
+          "gloss": "行为；举止",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0009-02",
+          "pos": "v.",
+          "gloss": "组织，安排",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0009-03",
+          "pos": "v.",
+          "gloss": "实施，执行",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0009-04",
+          "pos": "v.",
+          "gloss": "指挥；引导",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0009-05",
+          "pos": "v.",
+          "gloss": "传导",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0009-01",
+          "sense_id": "s0009-01",
+          "english": "The sport has a strict code of conduct.",
+          "translation": "这种体育运动有严格的行为规范。",
+          "target": "conduct",
+          "target_start": 31,
+          "target_end": 38,
+          "book_label": "例",
+          "pdf_page": 11,
+          "printed_page": "003",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0009-02",
+          "sense_id": "s0009-02",
+          "english": "The school board is responsible for conducting public hearings.",
+          "translation": "校董会负责组织公开的听证会。",
+          "target": "conducting",
+          "target_start": 36,
+          "target_end": 46,
+          "book_label": "真题",
+          "pdf_page": 11,
+          "printed_page": "003",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0009-01",
+          "spelling": "conductor",
+          "definition": "n. 指挥；售票员，检票员；导体",
+          "relation": "derived",
+          "pdf_page": 11,
+          "note": ""
+        },
+        {
+          "id": "r0009-02",
+          "spelling": "semiconductor",
+          "definition": "n. 半导体",
+          "relation": "derived",
+          "pdf_page": 11,
+          "note": "派生词例句单独保存。"
+        }
+      ],
+      "notes": [
+        "按词性保留两组读音，暂放在原书释义字段，不合并为一个音标。"
+      ]
+    },
+    {
+      "id": "w0010",
+      "spelling": "direct",
+      "phonetic": "/dəˈrekt/",
+      "source_definition": "v. 指导，指挥；adj. 直接的",
+      "mnemonic": "发音类似“得绕开它”→前面有一个障碍物，不能“直接”通过，得绕开它→听着指挥走→指导，指挥。",
+      "group_name": "02 行为相关词汇",
+      "pdf_pages": [
+        11
+      ],
+      "printed_pages": [
+        "003"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0010-01",
+          "pos": "v.",
+          "gloss": "指导，指挥",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0010-02",
+          "pos": "adj.",
+          "gloss": "直接的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0010-01",
+          "sense_id": "s0010-01",
+          "english": "The project managers direct the day-to-day operations of the project.",
+          "translation": "项目经理指导项目的日常运作。",
+          "target": "direct",
+          "target_start": 21,
+          "target_end": 27,
+          "book_label": "例",
+          "pdf_page": 11,
+          "printed_page": "003",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0010-01",
+          "spelling": "directly",
+          "definition": "adv. 直接地",
+          "relation": "derived",
+          "pdf_page": 12,
+          "note": "派生内容跨页，例句单独保留。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0011",
+      "spelling": "ambition",
+      "phonetic": "/æmˈbɪʃn/",
+      "source_definition": "n. 野心，雄心，抱负",
+      "mnemonic": "发音类似“俺必胜”→我有必胜的决心→抱负，雄心。",
+      "group_name": "03 action与ambition",
+      "pdf_pages": [
+        12
+      ],
+      "printed_pages": [
+        "004"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0011-01",
+          "pos": "n.",
+          "gloss": "野心，雄心，抱负",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0011-01",
+          "sense_id": "s0011-01",
+          "english": "His burning ambition was to study medicine.",
+          "translation": "他梦寐以求的是学医。",
+          "target": "ambition",
+          "target_start": 12,
+          "target_end": 20,
+          "book_label": "例",
+          "pdf_page": 12,
+          "printed_page": "004",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0011-02",
+          "sense_id": "s0011-01",
+          "english": "He left the bank in 2005 with ambitions to be a CEO.",
+          "translation": "他一心想当总裁，在2005年离开了银行。",
+          "target": "ambitions",
+          "target_start": 30,
+          "target_end": 39,
+          "book_label": "真题",
+          "pdf_page": 12,
+          "printed_page": "004",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0011-01",
+          "spelling": "ambitious",
+          "definition": "adj. 有抱负的；有雄心的",
+          "relation": "derived",
+          "pdf_page": 12,
+          "note": ""
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0012",
+      "spelling": "ancient",
+      "phonetic": "/ˈeɪnʃənt/",
+      "source_definition": "adj. 古代的；古老的",
+      "mnemonic": "",
+      "group_name": "04 旧、新相关词汇",
+      "pdf_pages": [
+        12
+      ],
+      "printed_pages": [
+        "004"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0012-01",
+          "pos": "adj.",
+          "gloss": "古代的；古老的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0012-01",
+          "sense_id": "s0012-01",
+          "english": "The pyramids were built in ancient times.",
+          "translation": "金字塔建造于古代。",
+          "target": "ancient",
+          "target_start": 27,
+          "target_end": 34,
+          "book_label": "例",
+          "pdf_page": 12,
+          "printed_page": "004",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0012-02",
+          "sense_id": "s0012-01",
+          "english": "The town is notable for its ancient harbour.",
+          "translation": "这座小镇因其古老的港口而出名。",
+          "target": "ancient",
+          "target_start": 28,
+          "target_end": 35,
+          "book_label": "例",
+          "pdf_page": 12,
+          "printed_page": "004",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0013",
+      "spelling": "stale",
+      "phonetic": "/steɪl/",
+      "source_definition": "adj. 不新鲜的；（空气）污浊的；陈腐的；没有新意的；厌倦的",
+      "mnemonic": "s（蛇）+ tale（故事）→蛇的故事→关于蛇的故事太多了，如果我再讲，那就是“没有新意的”了。",
+      "group_name": "04 旧、新相关词汇",
+      "pdf_pages": [
+        12
+      ],
+      "printed_pages": [
+        "004"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0013-01",
+          "pos": "adj.",
+          "gloss": "不新鲜的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0013-02",
+          "pos": "adj.",
+          "gloss": "陈腐的；没有新意的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0013-03",
+          "pos": "adj.",
+          "gloss": "（空气）污浊的",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0013-04",
+          "pos": "adj.",
+          "gloss": "厌倦的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0013-01",
+          "sense_id": "s0013-01",
+          "english": "They starved but only could eat a piece of stale bread every day.",
+          "translation": "他们饿了，但每天只能吃一块不新鲜的面包。",
+          "target": "stale",
+          "target_start": 43,
+          "target_end": 48,
+          "book_label": "例",
+          "pdf_page": 12,
+          "printed_page": "004",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0013-02",
+          "sense_id": "s0013-02",
+          "english": "You need to do some self-assessment to determine where you have become stale in your thinking.",
+          "translation": "你需要做一些自我评估，以确定你的思考模式中的哪些地方已经变得陈旧。",
+          "target": "stale",
+          "target_start": 71,
+          "target_end": 76,
+          "book_label": "例",
+          "pdf_page": 12,
+          "printed_page": "004",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0014",
+      "spelling": "refresh",
+      "phonetic": "/rɪˈfreʃ/",
+      "source_definition": "v. （使）精神振作，（使）精力恢复",
+      "mnemonic": "re（再）+ fresh（新鲜的）→再一次新鲜的→振作精神，恢复精力。",
+      "group_name": "04 旧、新相关词汇",
+      "pdf_pages": [
+        12
+      ],
+      "printed_pages": [
+        "004"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0014-01",
+          "pos": "v.",
+          "gloss": "（使）精神振作，（使）精力恢复",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0014-01",
+          "sense_id": "s0014-01",
+          "english": "The following morning she awoke refreshed.",
+          "translation": "第二天早上，她醒来时精神焕发。",
+          "target": "refreshed",
+          "target_start": 32,
+          "target_end": 41,
+          "book_label": "例",
+          "pdf_page": 12,
+          "printed_page": "004",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": [
+        "refreshed 是原书 refresh 词条下的分词用法；refreshing air 的句子保留为关联素材，未当成相同词义。"
+      ]
+    },
+    {
+      "id": "w0015",
+      "spelling": "flesh",
+      "phonetic": "/fleʃ/",
+      "source_definition": "n. 肉；果肉；肉体；皮肤",
+      "mnemonic": "这些果肉（flesh）看起来非常新鲜（fresh）。",
+      "group_name": "04 旧、新相关词汇",
+      "pdf_pages": [
+        12
+      ],
+      "printed_pages": [
+        "004"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0015-01",
+          "pos": "n.",
+          "gloss": "果肉",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0015-02",
+          "pos": "n.",
+          "gloss": "肉；肉体；皮肤",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0015-01",
+          "sense_id": "s0015-01",
+          "english": "The flesh of the peach is sweet and juicy.",
+          "translation": "桃子的果肉甜而多汁。",
+          "target": "flesh",
+          "target_start": 4,
+          "target_end": 9,
+          "book_label": "例",
+          "pdf_page": 12,
+          "printed_page": "004",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0015-02",
+          "sense_id": "s0015-01",
+          "english": "The flesh of this apple is fresh.",
+          "translation": "这个苹果的果肉很新鲜。",
+          "target": "flesh",
+          "target_start": 4,
+          "target_end": 9,
+          "book_label": "例",
+          "pdf_page": 12,
+          "printed_page": "004",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0016",
+      "spelling": "renew",
+      "phonetic": "/rɪˈnjuː/",
+      "source_definition": "v. 更新；重新开始",
+      "mnemonic": "",
+      "group_name": "04 旧、新相关词汇",
+      "pdf_pages": [
+        12,
+        13
+      ],
+      "printed_pages": [
+        "004",
+        "005"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0016-01",
+          "pos": "v.",
+          "gloss": "重新开始",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0016-02",
+          "pos": "v.",
+          "gloss": "更新",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0016-01",
+          "sense_id": "s0016-01",
+          "english": "We have to renew our efforts to attract young players.",
+          "translation": "我们只好重新开始努力吸引年轻队员。",
+          "target": "renew",
+          "target_start": 11,
+          "target_end": 16,
+          "book_label": "例",
+          "pdf_page": 12,
+          "printed_page": "004",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0016-02",
+          "sense_id": "s0016-02",
+          "english": "These labels encourage style-conscious consumers to see clothes as disposable and to renew their wardrobe every few weeks.",
+          "translation": "这些品牌鼓励那些有时尚意识的消费者把衣服看作一次性的消费品，并且鼓励他们每隔几周就更新他们的衣柜。",
+          "target": "renew",
+          "target_start": 85,
+          "target_end": 90,
+          "book_label": "真题",
+          "pdf_page": 13,
+          "printed_page": "005",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0017",
+      "spelling": "restore",
+      "phonetic": "/rɪˈstɔː(r)/",
+      "source_definition": "v. 恢复，修复；归还",
+      "mnemonic": "病人休息（rest）得好，才能慢慢恢复（restore）身体。",
+      "group_name": "04 旧、新相关词汇",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        "005"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0017-01",
+          "pos": "v.",
+          "gloss": "恢复，修复",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0017-02",
+          "pos": "v.",
+          "gloss": "归还",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0017-01",
+          "sense_id": "s0017-01",
+          "english": "The operation restored his sight.",
+          "translation": "手术使他恢复了视力。",
+          "target": "restored",
+          "target_start": 14,
+          "target_end": 22,
+          "book_label": "例",
+          "pdf_page": 13,
+          "printed_page": "005",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0017-02",
+          "sense_id": "s0017-01",
+          "english": "Trust is easily destroyed and hugely expensive to restore.",
+          "translation": "信任很容易被摧毁，但是恢复需要花费巨大的代价。",
+          "target": "restore",
+          "target_start": 50,
+          "target_end": 57,
+          "book_label": "真题",
+          "pdf_page": 13,
+          "printed_page": "005",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0017-01",
+          "spelling": "restoration",
+          "definition": "n. 整修；恢复，归还",
+          "relation": "derived",
+          "pdf_page": 13,
+          "note": "派生词例句单独保留。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0018",
+      "spelling": "storage",
+      "phonetic": "/ˈstɔːrɪdʒ/",
+      "source_definition": "n. 贮藏（空间），贮存",
+      "mnemonic": "",
+      "group_name": "04 旧、新相关词汇",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        "005"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0018-01",
+          "pos": "n.",
+          "gloss": "贮藏（空间），贮存",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0018-01",
+          "sense_id": "s0018-01",
+          "english": "There’s a lot of storage space in the loft.",
+          "translation": "阁楼上有很大的存储空间。",
+          "target": "storage",
+          "target_start": 17,
+          "target_end": 24,
+          "book_label": "例",
+          "pdf_page": 13,
+          "printed_page": "005",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0018-02",
+          "sense_id": "s0018-01",
+          "english": "But a boost in the storage capacity of batteries is making their ability to keep power flowing around the clock more likely.",
+          "translation": "但是，电池存储容量的提升正使其更有可能能够昼夜不停地持续供电。",
+          "target": "storage",
+          "target_start": 19,
+          "target_end": 26,
+          "book_label": "真题",
+          "pdf_page": 13,
+          "printed_page": "005",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0018-01",
+          "spelling": "store",
+          "definition": "n. 商店；仓库；v. 贮藏，贮存",
+          "relation": "extension",
+          "pdf_page": 13,
+          "note": "原书标记为“拓展”，不是派生。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0019",
+      "spelling": "renovate",
+      "phonetic": "/ˈrenəveɪt/",
+      "source_definition": "v. 修复，翻新；重新粉刷",
+      "mnemonic": "re（再）+ nov（=new“新的”）+ ate（动词后缀）→再次使它变成“新的”→翻新。",
+      "group_name": "04 旧、新相关词汇",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        "005"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0019-01",
+          "pos": "v.",
+          "gloss": "修复，翻新",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0019-02",
+          "pos": "v.",
+          "gloss": "重新粉刷",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0019-01",
+          "sense_id": "s0019-01",
+          "english": "They spent the summer renovating the farmhouse.",
+          "translation": "他们花了一个夏天翻新农舍。",
+          "target": "renovating",
+          "target_start": 22,
+          "target_end": 32,
+          "book_label": "例",
+          "pdf_page": 13,
+          "printed_page": "005",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0019-01",
+          "spelling": "renovation",
+          "definition": "n. 整修，翻新",
+          "relation": "derived",
+          "pdf_page": 13,
+          "note": ""
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0020",
+      "spelling": "innovate",
+      "phonetic": "/ˈɪnəveɪt/",
+      "source_definition": "v. 创新；革新",
+      "mnemonic": "in（表加强）+ nov（=new“新的”）+ ate（动词后缀）→使它变得新一些→创新；革新。",
+      "group_name": "04 旧、新相关词汇",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        "005"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0020-01",
+          "pos": "v.",
+          "gloss": "创新；革新",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0020-01",
+          "sense_id": "s0020-01",
+          "english": "The company can once again innovate its way out of tough economic times.",
+          "translation": "该公司可以再次创新，走出经济困难时期。",
+          "target": "innovate",
+          "target_start": 27,
+          "target_end": 35,
+          "book_label": "例",
+          "pdf_page": 13,
+          "printed_page": "005",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0020-01",
+          "spelling": "innovation",
+          "definition": "n. 创造；创新；改革",
+          "relation": "derived",
+          "pdf_page": 13,
+          "note": "原书真题的目标是 innovation，不直接作为 innovate 的学习例句。"
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "policy": "释义原文保留在 source_definition；senses 为编辑按语境拆分，非原书逐项分类。音标为视觉转录并统一重音符号，未作外部词典复核。无音频。"
+}

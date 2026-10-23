@@ -1,0 +1,29 @@
+{
+  "method":"manual_visual_transcription",
+  "note":"PDF24–38的派生、拓展与隔离素材；原书标签未核实真题年份。与主词学习队列分开。",
+  "items":[
+    {"word":"influential","pdf_page":25,"label":"例","english":"She is one of the most influential figures in local politics.","translation":"她是本地政坛举足轻重的人物。"},
+    {"word":"democracy","pdf_page":25,"label":"真题","english":"In a direct democracy, citizens take turns governing themselves.","translation":"在直接民主政体中，公民轮流自治。"},
+    {"word":"denial","pdf_page":26,"label":"例","english":"She shook her head in denial.","translation":"她摇头表示否认。"},
+    {"word":"jealousy","pdf_page":27,"label":"例","english":"Jealousy is not part of his make-up.","translation":"嫉妒不是他的天性。"},
+    {"word":"dramatically","pdf_page":27,"label":"真题","status":"quarantined","english":"The bodies playing major professional sports have changed dramatically over the years.","translation":"多年来，从事主要职业运动的运动员身材发生了巨大的变化。","reason":"原书bodies指代和译文疑似不匹配，需回原文核对。"},
+    {"word":"drastic measures/changes","pdf_page":27,"label":"拓展","definition":"严厉的措施/剧烈的变化"},
+    {"word":"The Declaration of Independence","pdf_page":28,"label":"拓展","definition":"《独立宣言》"},
+    {"word":"an online advertisement","pdf_page":28,"label":"拓展","definition":"在线广告"},
+    {"word":"exhausted","pdf_page":28,"continuation_pages":[29],"label":"真题","english":"They worked until exhausted, lived with few protections and died young.","translation":"他们工作到筋疲力尽，生活几乎没有保障，年纪轻轻就命丧黄泉。","reason":"exhausted为形容词用法，不作为exhaust动词的学习卡。"},
+    {"word":"humour","pdf_page":31,"label":"真题","status":"quarantined","english":"You may have a circle of friends who provide constant good humor, help and companionship.","translation":"你可能有很多朋友，他们总是给你带来幽默、帮助和陪伴。","reason":"good humor更接近愉快心情，原译与主词义匹配待核对；不直接计作幽默词义。"},
+    {"word":"faulty","pdf_page":31,"label":"例","english":"They might be faulty products.","translation":"它们可能是有缺陷的产品。"},
+    {"word":"default","pdf_page":31,"label":"真题","status":"quarantined","english":"Most people stick with default settings.","translation":"大多数人都坚持着默认设定。","reason":"default作定语，原书只列n.和v.；未挂到名词或动词进度，待补独立用法。"},
+    {"word":"absence","pdf_page":32,"label":"例","english":"We did not receive any news during his long absence.","translation":"我们在他长期离开的时候没有得到一点消息。"},
+    {"word":"presence","pdf_page":32,"label":"例","english":"He hardly seemed to notice my presence.","translation":"他似乎没有注意到我在场。"},
+    {"word":"sharply","pdf_page":33,"label":"真题","english":"Starting around 2012, requests for the visas rose sharply.","translation":"从2012年左右开始，签证申请急剧增加。"},
+    {"word":"frankly","pdf_page":33,"label":"真题","english":"They frankly dislike the RSC’s actors.","translation":"坦白地讲，他们不喜欢皇家剧团的演员。"},
+    {"word":"plenty of","pdf_page":35,"label":"拓展","definition":"大量；很多"},
+    {"word":"luxurious","pdf_page":36,"label":"例","english":"The car felt luxurious.","translation":"这辆车感觉很是豪华阔气。"},
+    {"word":"additional","pdf_page":36,"label":"真题","english":"Additional social stresses may also occur because of the population explosion.","translation":"由于人口激增，其他的社会压力也会产生。"},
+    {"word":"multiple","pdf_page":37,"label":"真题","english":"A century ago, few people regularly brushed their teeth multiple times a day.","translation":"一个世纪前，很少有人习惯性地每天刷牙数次。"},
+    {"word":"a host of","pdf_page":37,"label":"拓展","definition":"许多的，大量的"},
+    {"word":"hostility","pdf_page":37,"label":"真题","english":"All around the world, lawyers generate more hostility than the members of any other profession.","translation":"整个世界范围内，律师引起的敌意比任何其他的职业都要多。"},
+    {"word":"orderly","pdf_page":38,"label":"例","english":"Everything was neat and orderly.","translation":"一切都整洁有序。"}
+  ]
+}

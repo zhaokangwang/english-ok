@@ -1,0 +1,29 @@
+{
+ "method":"manual_visual_transcription",
+ "note":"PDF59–74的派生、拓展素材。未直接计入主词进度；真题年份题号未核实。",
+ "items":[
+  {"word":"of little/no avail","pdf_page":59,"label":"拓展","definition":"没有什么用处；没有用"},
+  {"word":"available","pdf_page":59,"label":"真题","english":"Local officials are using the levers that are available to them to safeguard residents health in the face of a serious threat.","translation":"面对严重的威胁，地方官员正在利用他们可用的手段来保护居民的健康。","status":"quarantined","reason":"原书residents health疑缺所有格，待核对原文。"},
+  {"word":"modesty","pdf_page":60,"label":"真题","english":"In his autobiography, Darwin himself speaks of his intellectual powers with extraordinary modesty.","translation":"在他的自传中，达尔文本人非常谦虚地评价了自己的智力。"},
+  {"word":"alternate","pdf_page":60,"label":"例","english":"They believed that the earth’s climate alternated between periods of extreme cold and warm.","translation":"他们认为地球的气候在极度冷和极度温暖之间交替变化。","status":"quarantined","reason":"extreme cold and warm名词/形容词并列疑点，待核对。"},
+  {"word":"switch on","pdf_page":61,"label":"拓展","definition":"开启，接通（=turn on）"},
+  {"word":"switch off","pdf_page":61,"label":"拓展","definition":"切断，关掉（=turn off）"},
+  {"word":"moderate views/policies","pdf_page":61,"label":"拓展","definition":"温和的见解/政策"},
+  {"word":"illustration","pdf_page":62,"label":"例","english":"He produced illustrations for children’s books.","translation":"他为儿童书籍制作插图。"},
+  {"word":"implication","pdf_page":63,"continuation_pages":[64],"label":"真题","english":"The Supreme Court’s decisions on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering.","translation":"最高法院关于医生协助自杀的裁决，对医学如何寻求减轻垂死病人的痛苦具有重要意义。"},
+  {"word":"invention","pdf_page":64,"label":"例","english":"Fax machines were a wonderful invention at the time.","translation":"传真机在当时是一项了不起的发明。"},
+  {"word":"start-up investor","pdf_page":64,"label":"拓展","definition":"创业投资者"},
+  {"word":"investment","pdf_page":64,"label":"例","english":"To encourage innovation and competition, the report calls for increased investment in research.","translation":"为了鼓励创新和竞争，报告呼吁增加对研究的投资。"},
+  {"word":"investigation","pdf_page":65,"label":"真题","english":"Starting next year, any guaranteed bonus of top executives could be delayed 10 years if their banks are under investigation for wrongdoing.","translation":"从明年开始，如果银行因不法行为而受到调查，那么任何承诺给银行高管的奖金会推迟十年发放。"},
+  {"word":"delivery","pdf_page":66,"label":"例","english":"The service guarantees next day delivery.","translation":"这项服务保证第二天交货。"},
+  {"word":"organisation","pdf_page":66,"label":"例","english":"He’s the president of a large international organisation.","translation":"他是一个大型国际组织的主席。"},
+  {"word":"disorganized","pdf_page":66,"label":"真题","english":"If you are talking to a group of managers, you may refer to the disorganized methods of their secretaries.","translation":"如果你在和一群经理谈话，你就可以提及他们秘书杂乱无章的工作方法。"},
+  {"word":"part and parcel of something","pdf_page":67,"label":"拓展","definition":"重要部分；基本部分"},
+  {"word":"part and parcel","pdf_page":67,"label":"真题","english":"If the study of law is beginning to establish itself as part and parcel of a general education, its aims and methods should appeal directly to journalism educators.","translation":"如果法律学习正在成为普通教育的重要组成部分，那么它的目的和方法应该会立即引起新闻教育者的兴趣。"},
+  {"word":"health/medical insurance","pdf_page":68,"label":"拓展","definition":"健康/医疗保险"},
+  {"word":"conquest","pdf_page":69,"label":"例","english":"He continued to expand his kingdom by conquest.","translation":"他通过征服手段继续扩张他的王国。"},
+  {"word":"defender","pdf_page":70,"label":"真题","english":"The attacks on ambition are many and come from various angles; its public defenders are few and unimpressive.","translation":"对野心的攻击有很多，而且来自不同的角度；它的公开辩护人很少，也不引人注目。"},
+  {"word":"comparative","pdf_page":71,"label":"例","english":"The company is a comparative newcomer to the software market.","translation":"就软件市场来说，这家公司相对而言就是新手了。"},
+  {"word":"by comparison","pdf_page":71,"label":"拓展","definition":"（尤用于句首）比较起来，较之"}
+ ]
+}

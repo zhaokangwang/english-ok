@@ -1,0 +1,15 @@
+{
+  "method": "manual_visual_transcription",
+  "note": "选中词条中的派生例句与不同用法单独留存；未作为主词义学习卡。并非逐页完整原始OCR。",
+  "items": [
+    {"word":"exactly","pdf_page":10,"label":"真题","english":"This year marks exactly two centuries since its publication.","translation":"这一年正好是它出版200年。"},
+    {"word":"actually","pdf_page":11,"label":"真题","english":"A new study suggests that people are actually more stressed at home than at work.","translation":"一项新的研究表明，实际上人们待在家里比上班压力要大。"},
+    {"word":"interaction","pdf_page":11,"label":"真题","english":"The human systems and the landscapes we live on are linked, and the interactions go both ways.","translation":"人类系统与我们赖以生存的地景是相互联系的，并且双方是相互作用的。"},
+    {"word":"behaviour","pdf_page":11,"label":"真题","english":"There’s no doubt that our peer groups exert enormous influence on our behavior.","translation":"毫无疑问，同龄人对我们的行为会产生巨大的影响。"},
+    {"word":"semiconductor","pdf_page":11,"label":"例","english":"Semiconductor industry had been taken over by foreign enterprises.","translation":"半导体行业已被外国公司接管。"},
+    {"word":"directly","pdf_page":12,"label":"例","english":"Instead of directly saying no to your boss, you should find out what is in your boss’s mind.","translation":"不要直接对老板说不，你应该了解老板的想法。"},
+    {"word":"refresh","target":"refreshing","pdf_page":12,"label":"真题","english":"It was specifically to provide city dwellers with spaces for leisure where they could experience “a refreshing air”.","translation":"它专门为城市居民提供休闲空间，在那里他们可以体验“清新的空气”。","note":"refreshing 的形容词用法待独立整理，不能默认等同 refresh 的动词词义。"},
+    {"word":"restoration","pdf_page":13,"label":"例","english":"The palace is closed for restoration.","translation":"王宫因整修而停止开放。"},
+    {"word":"innovation","pdf_page":13,"label":"真题","english":"The first thing needed for innovation is a fascination with wonder.","translation":"创新需要的第一件事是对未知的着迷。"}
+  ]
+}

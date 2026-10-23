@@ -1,0 +1,292 @@
+{
+  "source_id": "src-0001",
+  "source_sha256": "ce735354542374bf39479773e1ca2ce79456292cb310f9fcea61b1ff42a783d5",
+  "front_matter": {
+    "pages": [
+      1,
+      9
+    ],
+    "status": "excluded_pending_final_inventory"
+  },
+  "batches": [
+    {
+      "id": "batch-001",
+      "file": "content/sample.json",
+      "associated_file": "content/associated-material.json",
+      "owner_pages": [
+        10,
+        13
+      ],
+      "context_pages": [
+        10,
+        13
+      ],
+      "status": "imported",
+      "coverage": "20词样本；13页recur未收录，由batch-002补齐；派生材料另存。"
+    },
+    {
+      "id": "batch-002",
+      "file": "content/batches/batch-002.json",
+      "associated_file": "content/batches/batch-002-associated.json",
+      "owner_pages": [
+        14,
+        23
+      ],
+      "context_pages": [
+        13,
+        24
+      ],
+      "extra_owned_words": [
+        "recur"
+      ],
+      "status": "imported",
+      "coverage": "recur及14–23页起始的全部60个主词条，draft续文读取至24页；派生、拓展另存。"
+    },
+    {
+      "id": "batch-003",
+      "file": "content/batches/batch-003.json",
+      "associated_file": "content/batches/batch-003-associated.json",
+      "owner_pages": [
+        24,
+        38
+      ],
+      "context_pages": [
+        24,
+        39
+      ],
+      "status": "imported",
+      "coverage": "从sketch到hasty的85个主要词条；第24页draft已归第二批；第39页确认第二单元扉页，不在本批导入。",
+      "quality_notes": [
+        "dense第一例that point原译疑似时空错配、drastic残片、redundant workers原译和multitude句法疑点：标pending不学习。",
+        "default定语用法、humour好心情语义和dramatically原译疑点：关联文件隔离。",
+        "人工视觉转录，音标未作外部词典复核。"
+      ]
+    },
+    {
+      "id": "batch-004",
+      "file": "content/batches/batch-004.json",
+      "associated_file": "content/batches/batch-004-associated.json",
+      "owner_pages": [
+        39,
+        58
+      ],
+      "context_pages": [
+        39,
+        59
+      ],
+      "status": "imported",
+      "coverage": "第二单元agent至prevail共104个新主词，PDF40–58为正文，第39页为扉页；prevail及其派生续文读到59页，下一批从avail开始。",
+      "quality_notes": [
+        "drag原句缺所有格、brand时间表达和considerable主谓一致疑点：pending不学习。",
+        "agitated状态用法、transfer适用语义、refer指的是语义：待独立复核映射，保留原文不学习。",
+        "be convinced of和polished work先隔离；stunning等派生/形容词用法另存关联素材。",
+        "leanest放大核对为正确最高级，按贫乏不景气词义收录。",
+        "人工视觉转录，音标未外部词典复核；第二单元尚未全部导入。"
+      ]
+    },
+    {
+      "id": "batch-005",
+      "file": "content/batches/batch-005.json",
+      "associated_file": "content/batches/batch-005-associated.json",
+      "owner_pages": [
+        59,
+        74
+      ],
+      "context_pages": [
+        59,
+        75
+      ],
+      "status": "imported",
+      "coverage": "avail至stare共76个主词；第74页第二单元收尾，第75页第三单元扉页为边界证据，提前按单元结束本批。",
+      "quality_notes": [
+        "manner短语残片、investigate单复数/所有格疑点及implied、organising、alleged、brain-scan词性映射待复核；共6例pending不进入学习。",
+        "available所有格疑点、alternate并列词性疑点隔离于关联素材。",
+        "人工视觉转录，音标未作外部词典复核；第二单元主词已收录完整，派生素材另存。"
+      ]
+    },
+    {
+      "id": "batch-006",
+      "owner_pages": [
+        75,
+        94
+      ],
+      "context_pages": [
+        74,
+        95
+      ],
+      "status": "draft",
+      "boundary": "边界未查看，不能视为正文或完整词表。",
+      "coverage": "仅76–81页34词草稿，未进入正式词库。"
+    },
+    {
+      "id": "batch-007",
+      "file": "content/batches/batch-007.json",
+      "associated_file": "content/batches/batch-007-associated.json",
+      "owner_pages": [
+        95,
+        114
+      ],
+      "context_pages": [
+        94,
+        115
+      ],
+      "status": "partially_imported",
+      "imported_word_ids": [
+        "w1000",
+        "w1001"
+      ],
+      "reviewed_pdf_pages": [
+        95
+      ],
+      "coverage": "仅PDF95的coordinate、subordinate两个主词试导入；该页其他词及第七批余页未处理，下一词cancel仍在95页。第六批保留未导入缺口。",
+      "quality_notes": [
+        "两词完整内容在PDF95；4条例句对应4个可学习词义，另外2个词义缺例句不入队。",
+        "第三单元仅有这2词，complete=false；音标未外部词典复核。",
+        "ID从w1000开始，保留第六批草稿w0346起的身份；ID空隙不代表已导入词条。"
+      ]
+    },
+    {
+      "id": "batch-008",
+      "owner_pages": [
+        115,
+        134
+      ],
+      "context_pages": [
+        114,
+        135
+      ],
+      "status": "planned_unreviewed",
+      "boundary": "边界未查看，不能视为正文或完整词表。"
+    },
+    {
+      "id": "batch-009",
+      "owner_pages": [
+        135,
+        154
+      ],
+      "context_pages": [
+        134,
+        155
+      ],
+      "status": "planned_unreviewed",
+      "boundary": "边界未查看，不能视为正文或完整词表。"
+    },
+    {
+      "id": "batch-010",
+      "owner_pages": [
+        155,
+        174
+      ],
+      "context_pages": [
+        154,
+        175
+      ],
+      "status": "planned_unreviewed",
+      "boundary": "边界未查看，不能视为正文或完整词表。"
+    },
+    {
+      "id": "batch-011",
+      "owner_pages": [
+        175,
+        194
+      ],
+      "context_pages": [
+        174,
+        195
+      ],
+      "status": "planned_unreviewed",
+      "boundary": "边界未查看，不能视为正文或完整词表。"
+    },
+    {
+      "id": "batch-012",
+      "owner_pages": [
+        195,
+        214
+      ],
+      "context_pages": [
+        194,
+        215
+      ],
+      "status": "planned_unreviewed",
+      "boundary": "边界未查看，不能视为正文或完整词表。"
+    },
+    {
+      "id": "batch-013",
+      "owner_pages": [
+        215,
+        234
+      ],
+      "context_pages": [
+        214,
+        235
+      ],
+      "status": "planned_unreviewed",
+      "boundary": "边界未查看，不能视为正文或完整词表。"
+    },
+    {
+      "id": "batch-014",
+      "owner_pages": [
+        235,
+        254
+      ],
+      "context_pages": [
+        234,
+        255
+      ],
+      "status": "planned_unreviewed",
+      "boundary": "边界未查看，不能视为正文或完整词表。"
+    },
+    {
+      "id": "batch-015",
+      "owner_pages": [
+        255,
+        274
+      ],
+      "context_pages": [
+        254,
+        275
+      ],
+      "status": "planned_unreviewed",
+      "boundary": "边界未查看，不能视为正文或完整词表。"
+    },
+    {
+      "id": "batch-016",
+      "owner_pages": [
+        275,
+        294
+      ],
+      "context_pages": [
+        274,
+        295
+      ],
+      "status": "planned_unreviewed",
+      "boundary": "边界未查看，不能视为正文或完整词表。"
+    },
+    {
+      "id": "batch-017",
+      "owner_pages": [
+        295,
+        314
+      ],
+      "context_pages": [
+        294,
+        315
+      ],
+      "status": "planned_unreviewed",
+      "boundary": "边界未查看，不能视为正文或完整词表。"
+    },
+    {
+      "id": "batch-018",
+      "owner_pages": [
+        315,
+        332
+      ],
+      "context_pages": [
+        314,
+        332
+      ],
+      "status": "planned_unreviewed",
+      "boundary": "边界未查看，不能视为正文或完整词表。"
+    }
+  ]
+}

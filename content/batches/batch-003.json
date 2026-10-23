@@ -1,0 +1,5584 @@
+{
+  "format_version": 1,
+  "content_version": "batch-003-v1",
+  "source_id": "src-0001",
+  "method": "manual_visual_transcription",
+  "words": [
+    {
+      "id": "w0081",
+      "spelling": "sketch",
+      "phonetic": "/sketʃ/",
+      "source_definition": "n. 素描，速写；草图",
+      "mnemonic": "",
+      "group_name": "17 float相关近义词及形近词",
+      "pdf_pages": [
+        24
+      ],
+      "printed_pages": [
+        "016"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0081-01",
+          "pos": "n.",
+          "gloss": "素描，速写",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0081-02",
+          "pos": "n.",
+          "gloss": "草图",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0081-01",
+          "sense_id": "s0081-01",
+          "english": "The artist is making sketches for his next painting.",
+          "translation": "画家正为他的下一幅作品画素描。",
+          "target": "sketches",
+          "target_start": 21,
+          "target_end": 29,
+          "book_label": "例",
+          "pdf_page": 24,
+          "printed_page": "016",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0081-02",
+          "sense_id": "s0081-02",
+          "english": "She drew a sketch map of the area to show us the way.",
+          "translation": "她画了一幅这个地区的略图，用来给我们指路。",
+          "target": "sketch",
+          "target_start": 11,
+          "target_end": 17,
+          "book_label": "例",
+          "pdf_page": 24,
+          "printed_page": "016",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0082",
+      "spelling": "bill",
+      "phonetic": "/bɪl/",
+      "source_definition": "n. 账单，议案，法案；传单；票据；清单",
+      "mnemonic": "发音类似“币哦”→币就是钱啊，要花钱的就是“账单”。",
+      "group_name": "17 float相关近义词及形近词",
+      "pdf_pages": [
+        24
+      ],
+      "printed_pages": [
+        "016"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0082-01",
+          "pos": "n.",
+          "gloss": "账单",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0082-02",
+          "pos": "n.",
+          "gloss": "议案，法案；传单；票据；清单",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0082-01",
+          "sense_id": "s0082-01",
+          "english": "She always pays her bills on time.",
+          "translation": "她总是按时支付账单。",
+          "target": "bills",
+          "target_start": 20,
+          "target_end": 25,
+          "book_label": "例",
+          "pdf_page": 24,
+          "printed_page": "016",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0082-02",
+          "sense_id": "s0082-01",
+          "english": "Worse, the crucial income to feed yourself and your family and pay the bills has disappeared.",
+          "translation": "更糟的是，养活你自己和家人以及支付账单的关键收入已经消失。",
+          "target": "bills",
+          "target_start": 71,
+          "target_end": 76,
+          "book_label": "真题",
+          "pdf_page": 24,
+          "printed_page": "016",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0083",
+      "spelling": "dense",
+      "phonetic": "/dens/",
+      "source_definition": "adj. 密集的，稠密的；难懂的",
+      "mnemonic": "",
+      "group_name": "18 dense相关形近词",
+      "pdf_pages": [
+        24
+      ],
+      "printed_pages": [
+        "016"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0083-01",
+          "pos": "adj.",
+          "gloss": "密集的，稠密的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0083-02",
+          "pos": "adj.",
+          "gloss": "难懂的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0083-01",
+          "sense_id": "s0083-01",
+          "english": "The forest is quite dense at that point.",
+          "translation": "那时森林相当茂密。",
+          "target": "dense",
+          "target_start": 20,
+          "target_end": 25,
+          "book_label": "例",
+          "pdf_page": 24,
+          "printed_page": "016",
+          "review_status": "pending",
+          "note": "that point 原书译“那时”，空间语境疑似错译；保留原文待核对。"
+        },
+        {
+          "id": "e0083-02",
+          "sense_id": "s0083-01",
+          "english": "The colonists’ first glimpse of the new land was a sight of dense woods.",
+          "translation": "首先映入这些殖民者眼帘的是新大陆的大片茂密树林。",
+          "target": "dense",
+          "target_start": 60,
+          "target_end": 65,
+          "book_label": "真题",
+          "pdf_page": 24,
+          "printed_page": "016",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0083-01",
+          "spelling": "density",
+          "definition": "n. 密度",
+          "relation": "derived",
+          "pdf_page": 24,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": [
+        "第一例that point原书译“那时”，空间语境与译文疑似不符，待核对。",
+        "that point 原书译“那时”，空间语境疑似错译；保留原文待核对。"
+      ]
+    },
+    {
+      "id": "w0084",
+      "spelling": "condense",
+      "phonetic": "/kənˈdens/",
+      "source_definition": "v. 压缩，简缩；浓缩；冷凝，凝结",
+      "mnemonic": "con（所有）+ dense（稠密）→使所有的部分变得稠密→压缩。",
+      "group_name": "18 dense相关形近词",
+      "pdf_pages": [
+        24
+      ],
+      "printed_pages": [
+        "016"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0084-01",
+          "pos": "v.",
+          "gloss": "压缩，简缩；浓缩",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0084-02",
+          "pos": "v.",
+          "gloss": "冷凝，凝结",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0084-01",
+          "sense_id": "s0084-01",
+          "english": "The article was condensed into just two pages.",
+          "translation": "这篇文章被简缩成仅两页。",
+          "target": "condensed",
+          "target_start": 16,
+          "target_end": 25,
+          "book_label": "例",
+          "pdf_page": 24,
+          "printed_page": "016",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0084-02",
+          "sense_id": "s0084-02",
+          "english": "Steam condenses into water when it cools.",
+          "translation": "蒸汽冷却时凝结为水。",
+          "target": "condenses",
+          "target_start": 6,
+          "target_end": 15,
+          "book_label": "例",
+          "pdf_page": 24,
+          "printed_page": "016",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0085",
+      "spelling": "compact",
+      "phonetic": "/ˈkɒmpækt/",
+      "source_definition": "adj. 紧凑的，紧密的；小型的；简洁的；v. 压紧；n. 合约；协定",
+      "mnemonic": "com（一起）+ pact（=pack，压紧）→一起压紧→紧凑的，简洁的。",
+      "group_name": "18 dense相关形近词",
+      "pdf_pages": [
+        24
+      ],
+      "printed_pages": [
+        "016"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0085-01",
+          "pos": "adj.",
+          "gloss": "紧凑的，紧密的；小型的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0085-02",
+          "pos": "n.",
+          "gloss": "合约；协定",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0085-03",
+          "pos": "adj.",
+          "gloss": "简洁的",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0085-04",
+          "pos": "v.",
+          "gloss": "压紧",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0085-01",
+          "sense_id": "s0085-01",
+          "english": "The kitchen was compact but well equipped.",
+          "translation": "这间厨房虽然空间小，但设备齐全。",
+          "target": "compact",
+          "target_start": 16,
+          "target_end": 23,
+          "book_label": "例",
+          "pdf_page": 24,
+          "printed_page": "016",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0085-02",
+          "sense_id": "s0085-02",
+          "english": "The government has signed a compact of free association.",
+          "translation": "政府已经签署了一份自由联合协定。",
+          "target": "compact",
+          "target_start": 28,
+          "target_end": 35,
+          "book_label": "例",
+          "pdf_page": 24,
+          "printed_page": "016",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": [
+        "原书只印一组音标，不同词性读音尚待专项复核。"
+      ]
+    },
+    {
+      "id": "w0086",
+      "spelling": "impact",
+      "phonetic": "/ˈɪmpækt/",
+      "source_definition": "n. 碰撞；巨大影响；v. 撞击；冲击；影响",
+      "mnemonic": "发音类似“硬拍可疼”→硬拍的冲击力很强，能造成很大的“影响”。",
+      "group_name": "19 影响相关词汇",
+      "pdf_pages": [
+        24,
+        25
+      ],
+      "printed_pages": [
+        "016",
+        "017"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0086-01",
+          "pos": "n.",
+          "gloss": "巨大影响",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0086-02",
+          "pos": "n.",
+          "gloss": "碰撞",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0086-03",
+          "pos": "v.",
+          "gloss": "撞击；冲击；影响",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0086-01",
+          "sense_id": "s0086-01",
+          "english": "Her speech made a profound impact on everyone.",
+          "translation": "她的讲话对每个人都有深远的影响。",
+          "target": "impact",
+          "target_start": 27,
+          "target_end": 33,
+          "book_label": "例",
+          "pdf_page": 24,
+          "printed_page": "016",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0086-02",
+          "sense_id": "s0086-01",
+          "english": "Scientists tell us this can backfire and actually have a negative impact on our well-being.",
+          "translation": "科学家告诉我们，这可能会适得其反，实际上会对我们的幸福产生负面影响。",
+          "target": "impact",
+          "target_start": 66,
+          "target_end": 72,
+          "book_label": "真题",
+          "pdf_page": 25,
+          "printed_page": "017",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0087",
+      "spelling": "influence",
+      "phonetic": "/ˈɪnfluəns/",
+      "source_definition": "n. 影响，影响力；有影响的人或物；v. 影响；作用",
+      "mnemonic": "",
+      "group_name": "19 影响相关词汇",
+      "pdf_pages": [
+        25
+      ],
+      "printed_pages": [
+        "017"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0087-01",
+          "pos": "v.",
+          "gloss": "影响；作用",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0087-02",
+          "pos": "n.",
+          "gloss": "影响，影响力",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0087-03",
+          "pos": "n.",
+          "gloss": "有影响的人或物",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0087-01",
+          "sense_id": "s0087-01",
+          "english": "His writings have influenced the lives of millions.",
+          "translation": "他的作品影响了数百万人的生活。",
+          "target": "influenced",
+          "target_start": 18,
+          "target_end": 28,
+          "book_label": "例",
+          "pdf_page": 25,
+          "printed_page": "017",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0087-02",
+          "sense_id": "s0087-02",
+          "english": "It now appears that they also have an important influence on the geophysical processes.",
+          "translation": "现在看来，它们好像还对地球物理过程有重要影响。",
+          "target": "influence",
+          "target_start": 48,
+          "target_end": 57,
+          "book_label": "真题",
+          "pdf_page": 25,
+          "printed_page": "017",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0087-01",
+          "spelling": "influential",
+          "definition": "adj. 有影响的，有势力的",
+          "relation": "derived",
+          "pdf_page": 25,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0088",
+      "spelling": "exert",
+      "phonetic": "/ɪɡˈzɜːt/",
+      "source_definition": "v. 运用，施加",
+      "mnemonic": "",
+      "group_name": "19 影响相关词汇",
+      "pdf_pages": [
+        25
+      ],
+      "printed_pages": [
+        "017"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0088-01",
+          "pos": "v.",
+          "gloss": "运用，施加",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0088-01",
+          "sense_id": "s0088-01",
+          "english": "He exerted all his authority to make them accept the plan.",
+          "translation": "他利用他的所有权力让他们接受这个计划。",
+          "target": "exerted",
+          "target_start": 3,
+          "target_end": 10,
+          "book_label": "例",
+          "pdf_page": 25,
+          "printed_page": "017",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0088-02",
+          "sense_id": "s0088-01",
+          "english": "There’s no doubt that our peer groups exert enormous influence on our behavior.",
+          "translation": "毫无疑问，我们的同龄人群体对我们的行为产生了巨大的影响。",
+          "target": "exert",
+          "target_start": 38,
+          "target_end": 43,
+          "book_label": "真题",
+          "pdf_page": 25,
+          "printed_page": "017",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0089",
+      "spelling": "powerful",
+      "phonetic": "/ˈpaʊəfl/",
+      "source_definition": "adj. 有权力的，有权势的；强大的，有影响力的",
+      "mnemonic": "",
+      "group_name": "19 影响相关词汇",
+      "pdf_pages": [
+        25
+      ],
+      "printed_pages": [
+        "017"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0089-01",
+          "pos": "adj.",
+          "gloss": "有权力的，有权势的；强大的，有影响力的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0089-01",
+          "sense_id": "s0089-01",
+          "english": "Fortunately we have some powerful allies.",
+          "translation": "幸运的是，我们有一些强大的盟友。",
+          "target": "powerful",
+          "target_start": 25,
+          "target_end": 33,
+          "book_label": "例",
+          "pdf_page": 25,
+          "printed_page": "017",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0089-02",
+          "sense_id": "s0089-01",
+          "english": "But Mauna Kea is also home to some of the world’s most powerful telescopes.",
+          "translation": "但莫纳克亚山也是世界上一些最强大望远镜的坐落之地。",
+          "target": "powerful",
+          "target_start": 55,
+          "target_end": 63,
+          "book_label": "真题",
+          "pdf_page": 25,
+          "printed_page": "017",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0090",
+      "spelling": "fluctuate",
+      "phonetic": "/ˈflʌktʃueɪt/",
+      "source_definition": "v. 波动，起伏",
+      "mnemonic": "流感（flu）的爆发随着季节波动（fluctuate）。",
+      "group_name": "19 影响相关词汇",
+      "pdf_pages": [
+        25
+      ],
+      "printed_pages": [
+        "017"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0090-01",
+          "pos": "v.",
+          "gloss": "波动，起伏",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0090-01",
+          "sense_id": "s0090-01",
+          "english": "My mood seems to fluctuate from day to day.",
+          "translation": "我的情绪似乎天天在变。",
+          "target": "fluctuate",
+          "target_start": 17,
+          "target_end": 26,
+          "book_label": "例",
+          "pdf_page": 25,
+          "printed_page": "017",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0090-02",
+          "sense_id": "s0090-01",
+          "english": "Scientists believe that intelligence can expand and fluctuate according to mental effort.",
+          "translation": "科学家认为，智力可以通过脑力训练来提升和变动。",
+          "target": "fluctuate",
+          "target_start": 52,
+          "target_end": 61,
+          "book_label": "真题",
+          "pdf_page": 25,
+          "printed_page": "017",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0090-01",
+          "spelling": "fluctuation",
+          "definition": "n. 波动；起伏",
+          "relation": "derived",
+          "pdf_page": 25,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0091",
+      "spelling": "democratic",
+      "phonetic": "/ˌdeməˈkrætɪk/",
+      "source_definition": "adj. 民主的；民主政体的；民主制度的；（美国）民主党的",
+      "mnemonic": "demo（人民）+ crat（管理）+ ic（形容词后缀）→由人民进行管理的→民主的。",
+      "group_name": "20 -rat-相关词汇",
+      "pdf_pages": [
+        25
+      ],
+      "printed_pages": [
+        "017"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0091-01",
+          "pos": "adj.",
+          "gloss": "民主的；民主政体的；民主制度的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0091-02",
+          "pos": "adj.",
+          "gloss": "（美国）民主党的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0091-01",
+          "sense_id": "s0091-01",
+          "english": "Exercise your democratic right to vote.",
+          "translation": "行使你的民主选举权。",
+          "target": "democratic",
+          "target_start": 14,
+          "target_end": 24,
+          "book_label": "例",
+          "pdf_page": 25,
+          "printed_page": "017",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0091-02",
+          "sense_id": "s0091-01",
+          "english": "They are aiming to make the institutions of the EU truly democratic.",
+          "translation": "他们的目标是使欧盟的机构真正民主。",
+          "target": "democratic",
+          "target_start": 57,
+          "target_end": 67,
+          "book_label": "例",
+          "pdf_page": 25,
+          "printed_page": "017",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0091-01",
+          "spelling": "democracy",
+          "definition": "n. 民主",
+          "relation": "derived",
+          "pdf_page": 25,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0092",
+      "spelling": "scratch",
+      "phonetic": "/skrætʃ/",
+      "source_definition": "n. 划痕；抓痕；v. 抓，挠；划破",
+      "mnemonic": "sc（谐音“四个”）+ rat（老鼠）+ ch（谐音“吃”）→四个老鼠想去谷仓偷吃粮食，把谷仓外边“抓”出很多“划痕”。",
+      "group_name": "20 -rat-相关词汇",
+      "pdf_pages": [
+        26
+      ],
+      "printed_pages": [
+        "018"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0092-01",
+          "pos": "v.",
+          "gloss": "抓，挠",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0092-02",
+          "pos": "n.",
+          "gloss": "划痕；抓痕",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0092-03",
+          "pos": "v.",
+          "gloss": "划破",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0092-01",
+          "sense_id": "s0092-01",
+          "english": "The dog scratched itself behind the ear.",
+          "translation": "狗用爪子挠挠耳后。",
+          "target": "scratched",
+          "target_start": 8,
+          "target_end": 17,
+          "book_label": "例",
+          "pdf_page": 26,
+          "printed_page": "018",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0092-02",
+          "sense_id": "s0092-02",
+          "english": "Her hands were covered in scratches from the brambles.",
+          "translation": "她手上布满了荆棘划的口子。",
+          "target": "scratches",
+          "target_start": 26,
+          "target_end": 35,
+          "book_label": "例",
+          "pdf_page": 26,
+          "printed_page": "018",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0093",
+      "spelling": "harness",
+      "phonetic": "/ˈhɑːnɪs/",
+      "source_definition": "v. 控制，利用；n. 马具；背带",
+      "mnemonic": "",
+      "group_name": "21 控制情绪",
+      "pdf_pages": [
+        26
+      ],
+      "printed_pages": [
+        "018"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0093-01",
+          "pos": "v.",
+          "gloss": "控制，利用",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0093-02",
+          "pos": "n.",
+          "gloss": "马具；背带",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0093-01",
+          "sense_id": "s0093-01",
+          "english": "They are attempting to harness the power of the sun.",
+          "translation": "他们在试图利用太阳能。",
+          "target": "harness",
+          "target_start": 23,
+          "target_end": 30,
+          "book_label": "例",
+          "pdf_page": 26,
+          "printed_page": "018",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0093-02",
+          "sense_id": "s0093-01",
+          "english": "We must harness the skill and creativity of our workforce.",
+          "translation": "我们必须发挥全体职工的技能和创造力。",
+          "target": "harness",
+          "target_start": 8,
+          "target_end": 15,
+          "book_label": "例",
+          "pdf_page": 26,
+          "printed_page": "018",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0094",
+      "spelling": "vote",
+      "phonetic": "/vəʊt/",
+      "source_definition": "n. 票；选票，投票；表决；v. 选举，投票；表决",
+      "mnemonic": "发音类似“我投”→这次选班长，我投了他一票→投票；票。",
+      "group_name": "22 投票相关词汇",
+      "pdf_pages": [
+        26
+      ],
+      "printed_pages": [
+        "018"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0094-01",
+          "pos": "n.",
+          "gloss": "票；选票，投票；表决",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0094-02",
+          "pos": "v.",
+          "gloss": "选举，投票；表决",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0094-01",
+          "sense_id": "s0094-01",
+          "english": "You can cast your vote at the local polling station.",
+          "translation": "你可以在当地的投票站投票。",
+          "target": "vote",
+          "target_start": 18,
+          "target_end": 22,
+          "book_label": "例",
+          "pdf_page": 26,
+          "printed_page": "018",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0094-02",
+          "sense_id": "s0094-01",
+          "english": "On a five to three vote, the Supreme Court knocked out much of Arizona’s immigration law Monday.",
+          "translation": "周一，最高法院以五比三的投票结果否决了亚利桑那州移民法的主要内容。",
+          "target": "vote",
+          "target_start": 19,
+          "target_end": 23,
+          "book_label": "真题",
+          "pdf_page": 26,
+          "printed_page": "018",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0095",
+      "spelling": "veto",
+      "phonetic": "/ˈviːtəʊ/",
+      "source_definition": "n. & v. 否决（权）；禁止",
+      "mnemonic": "发音类似“未投”→没有给他投票，就是“否决”他→否决（权）。",
+      "group_name": "22 投票相关词汇",
+      "pdf_pages": [
+        26
+      ],
+      "printed_pages": [
+        "018"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0095-01",
+          "pos": "v.",
+          "gloss": "否决；禁止",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0095-02",
+          "pos": "n.",
+          "gloss": "否决（权）；禁止",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0095-01",
+          "sense_id": "s0095-01",
+          "english": "The president effectively vetoed this measure.",
+          "translation": "总统实际上否决了这项措施。",
+          "target": "vetoed",
+          "target_start": 26,
+          "target_end": 32,
+          "book_label": "例",
+          "pdf_page": 26,
+          "printed_page": "018",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0095-02",
+          "sense_id": "s0095-01",
+          "english": "In theory, a girl may veto the spouse her parents have chosen.",
+          "translation": "从理论上讲，一个女孩可以否决其父母选择的配偶。",
+          "target": "veto",
+          "target_start": 22,
+          "target_end": 26,
+          "book_label": "真题",
+          "pdf_page": 26,
+          "printed_page": "018",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0096",
+      "spelling": "deny",
+      "phonetic": "/dɪˈnaɪ/",
+      "source_definition": "v. 否认，否定；拒绝承认",
+      "mnemonic": "发音类似“抵赖”→抵赖不就是“否认”做过的事情吗？",
+      "group_name": "22 投票相关词汇",
+      "pdf_pages": [
+        26
+      ],
+      "printed_pages": [
+        "018"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0096-01",
+          "pos": "v.",
+          "gloss": "否认，否定；拒绝承认",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0096-01",
+          "sense_id": "s0096-01",
+          "english": "He has denied any involvement in the incident.",
+          "translation": "他否认与该事件有任何牵连。",
+          "target": "denied",
+          "target_start": 7,
+          "target_end": 13,
+          "book_label": "例",
+          "pdf_page": 26,
+          "printed_page": "018",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0096-02",
+          "sense_id": "s0096-01",
+          "english": "The department denies responsibility for what occurred.",
+          "translation": "这个部门拒绝为所发生的事承担责任。",
+          "target": "denies",
+          "target_start": 15,
+          "target_end": 21,
+          "book_label": "例",
+          "pdf_page": 26,
+          "printed_page": "018",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0096-01",
+          "spelling": "denial",
+          "definition": "n. 否认，否定",
+          "relation": "derived",
+          "pdf_page": 26,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0097",
+      "spelling": "levy",
+      "phonetic": "/ˈlevi/",
+      "source_definition": "n. 征收额；税款；v. 征收（税等）",
+      "mnemonic": "发音类似“来为”→税务局来此地是为了依法“征收”“税款”。",
+      "group_name": "23 envy相关形近词及近义词",
+      "pdf_pages": [
+        26,
+        27
+      ],
+      "printed_pages": [
+        "018",
+        "019"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0097-01",
+          "pos": "v.",
+          "gloss": "征收（税等）",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0097-02",
+          "pos": "n.",
+          "gloss": "征收额；税款",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0097-01",
+          "sense_id": "s0097-01",
+          "english": "It was a local tax levied by the council on the occupiers of land and buildings.",
+          "translation": "这是当地议会对土地和建筑物占用者征收的地方税。",
+          "target": "levied",
+          "target_start": 19,
+          "target_end": 25,
+          "book_label": "例",
+          "pdf_page": 27,
+          "printed_page": "019",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0097-02",
+          "sense_id": "s0097-01",
+          "english": "A judge has now overruled the city’s decision to stop levying fines, ordering them reinstated.",
+          "translation": "一名法官现在驳回了该市停止征收罚款的决定，下令恢复罚款。",
+          "target": "levying",
+          "target_start": 54,
+          "target_end": 61,
+          "book_label": "真题",
+          "pdf_page": 27,
+          "printed_page": "019",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0098",
+      "spelling": "envy",
+      "phonetic": "/ˈenvi/",
+      "source_definition": "n. & v. 嫉妒，妒忌；羡慕",
+      "mnemonic": "发音类似“安慰”→安慰自己，不要动不动“羡慕”别人。",
+      "group_name": "23 envy相关形近词及近义词",
+      "pdf_pages": [
+        27
+      ],
+      "printed_pages": [
+        "019"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0098-01",
+          "pos": "n.",
+          "gloss": "嫉妒，妒忌；羡慕",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0098-02",
+          "pos": "v.",
+          "gloss": "嫉妒，妒忌；羡慕",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0098-01",
+          "sense_id": "s0098-01",
+          "english": "They looked with envy at her latest purchase.",
+          "translation": "他们羡慕地看着她最近买到的东西。",
+          "target": "envy",
+          "target_start": 17,
+          "target_end": 21,
+          "book_label": "例",
+          "pdf_page": 27,
+          "printed_page": "019",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0098-01",
+          "spelling": "envious",
+          "definition": "adj. 羡慕的；忌妒的",
+          "relation": "derived",
+          "pdf_page": 27,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0099",
+      "spelling": "jealous",
+      "phonetic": "/ˈdʒeləs/",
+      "source_definition": "adj. 妒羡的；忌妒的",
+      "mnemonic": "",
+      "group_name": "23 envy相关形近词及近义词",
+      "pdf_pages": [
+        27
+      ],
+      "printed_pages": [
+        "019"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0099-01",
+          "pos": "adj.",
+          "gloss": "妒羡的；忌妒的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0099-01",
+          "sense_id": "s0099-01",
+          "english": "She’s jealous of my success.",
+          "translation": "她忌妒我的成功。",
+          "target": "jealous",
+          "target_start": 6,
+          "target_end": 13,
+          "book_label": "例",
+          "pdf_page": 27,
+          "printed_page": "019",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0099-01",
+          "spelling": "jealousy",
+          "definition": "n. 嫉妒，羡慕",
+          "relation": "derived",
+          "pdf_page": 27,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0100",
+      "spelling": "drama",
+      "phonetic": "/ˈdrɑːmə/",
+      "source_definition": "n. 戏；戏剧；戏剧性事件",
+      "mnemonic": "发音类似“抓妈”→他想抓个人来当自己的妈妈，这也太戏剧性了吧→戏剧性事件。",
+      "group_name": "24 drama相关词汇",
+      "pdf_pages": [
+        27
+      ],
+      "printed_pages": [
+        "019"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0100-01",
+          "pos": "n.",
+          "gloss": "戏；戏剧",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0100-02",
+          "pos": "n.",
+          "gloss": "戏剧性事件",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0100-01",
+          "sense_id": "s0100-01",
+          "english": "He knew nothing of Greek drama.",
+          "translation": "他对希腊戏剧一无所知。",
+          "target": "drama",
+          "target_start": 25,
+          "target_end": 30,
+          "book_label": "例",
+          "pdf_page": 27,
+          "printed_page": "019",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0100-02",
+          "sense_id": "s0100-01",
+          "english": "A native literary drama had been created.",
+          "translation": "一种本土的文学戏剧已然形成。",
+          "target": "drama",
+          "target_start": 18,
+          "target_end": 23,
+          "book_label": "真题",
+          "pdf_page": 27,
+          "printed_page": "019",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0100-01",
+          "spelling": "dramatist",
+          "definition": "n. 剧作家",
+          "relation": "derived",
+          "pdf_page": 27,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0101",
+      "spelling": "dramatic",
+      "phonetic": "/drəˈmætɪk/",
+      "source_definition": "adj. 戏剧性的；引人注目的；巨大的",
+      "mnemonic": "",
+      "group_name": "24 drama相关词汇",
+      "pdf_pages": [
+        27
+      ],
+      "printed_pages": [
+        "019"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0101-01",
+          "pos": "adj.",
+          "gloss": "引人注目的；巨大的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0101-02",
+          "pos": "adj.",
+          "gloss": "戏剧性的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0101-01",
+          "sense_id": "s0101-01",
+          "english": "The announcement had a dramatic effect on house prices.",
+          "translation": "这项通告对房屋价格产生了巨大的影响。",
+          "target": "dramatic",
+          "target_start": 23,
+          "target_end": 31,
+          "book_label": "例",
+          "pdf_page": 27,
+          "printed_page": "019",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0101-02",
+          "sense_id": "s0101-02",
+          "english": "Poems can be dramatic, funny, beautiful, moving and inspiring.",
+          "translation": "诗歌可以是戏剧性的、有趣的、美丽的、感人的和鼓舞人心的。",
+          "target": "dramatic",
+          "target_start": 13,
+          "target_end": 21,
+          "book_label": "真题",
+          "pdf_page": 27,
+          "printed_page": "019",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0101-01",
+          "spelling": "dramatically",
+          "definition": "adv. 戏剧性地；引人注目地",
+          "relation": "derived",
+          "pdf_page": 27,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0102",
+      "spelling": "drastic",
+      "phonetic": "/ˈdræstɪk/",
+      "source_definition": "adj. 极端的；急剧的；严厉的；猛烈的",
+      "mnemonic": "dra（谐音“抓”）+ stic（联想成stick“棍子”）→他动不动就抓起棍子想要打人，真的太极端了→极端的。",
+      "group_name": "24 drama相关词汇",
+      "pdf_pages": [
+        27
+      ],
+      "printed_pages": [
+        "019"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0102-01",
+          "pos": "adj.",
+          "gloss": "急剧的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0102-02",
+          "pos": "adj.",
+          "gloss": "极端的；严厉的；猛烈的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0102-01",
+          "sense_id": "s0102-01",
+          "english": "There is a drastic reduction in their standard of living.",
+          "translation": "他们的生活水平急剧下降。",
+          "target": "drastic",
+          "target_start": 11,
+          "target_end": 18,
+          "book_label": "例",
+          "pdf_page": 27,
+          "printed_page": "019",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0102-02",
+          "sense_id": "s0102-01",
+          "english": "against a backdrop of drastic changes in economy and population structure",
+          "translation": "在经济和人口结构发生巨大变化的背景下",
+          "target": "drastic",
+          "target_start": 22,
+          "target_end": 29,
+          "book_label": "真题",
+          "pdf_page": 27,
+          "printed_page": "019",
+          "review_status": "pending",
+          "note": "原书真题为介词短语残片，缺完整句子；保留但不作为学习卡。"
+        }
+      ],
+      "related": [],
+      "notes": [
+        "原书真题为介词短语残片，缺完整句子；保留但不作为学习卡。"
+      ]
+    },
+    {
+      "id": "w0103",
+      "spelling": "tragedy",
+      "phonetic": "/ˈtrædʒədi/",
+      "source_definition": "n. 悲剧；灾难；不幸",
+      "mnemonic": "有些人的人生像喜剧（comedy），有些人的人生像悲剧（tragedy）。",
+      "group_name": "24 drama相关词汇",
+      "pdf_pages": [
+        28
+      ],
+      "printed_pages": [
+        "020"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0103-01",
+          "pos": "n.",
+          "gloss": "灾难；不幸",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0103-02",
+          "pos": "n.",
+          "gloss": "悲剧",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0103-01",
+          "sense_id": "s0103-01",
+          "english": "The whole affair ended in tragedy.",
+          "translation": "整个事件以悲剧而告终。",
+          "target": "tragedy",
+          "target_start": 26,
+          "target_end": 33,
+          "book_label": "例",
+          "pdf_page": 28,
+          "printed_page": "020",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0103-02",
+          "sense_id": "s0103-02",
+          "english": "Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy.",
+          "translation": "欧洲正见证着宗教剧的消亡，以及在古典悲剧和喜剧启发之下新型戏剧形式的诞生。",
+          "target": "tragedy",
+          "target_start": 121,
+          "target_end": 128,
+          "book_label": "真题",
+          "pdf_page": 28,
+          "printed_page": "020",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0103-01",
+          "spelling": "tragic",
+          "definition": "adj. 悲惨的",
+          "relation": "derived",
+          "pdf_page": 28,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0104",
+      "spelling": "comedy",
+      "phonetic": "/ˈkɒmədi/",
+      "source_definition": "n. 喜剧（片）；滑稽",
+      "mnemonic": "come（来）+ dy（谐音“抖音”）→来抖音看搞笑视频→看喜剧→喜剧。",
+      "group_name": "24 drama相关词汇",
+      "pdf_pages": [
+        28
+      ],
+      "printed_pages": [
+        "020"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0104-01",
+          "pos": "n.",
+          "gloss": "喜剧（片）",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0104-02",
+          "pos": "n.",
+          "gloss": "滑稽",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0104-01",
+          "sense_id": "s0104-01",
+          "english": "The movie is a romantic comedy.",
+          "translation": "这部电影是个浪漫喜剧。",
+          "target": "comedy",
+          "target_start": 24,
+          "target_end": 30,
+          "book_label": "例",
+          "pdf_page": 28,
+          "printed_page": "020",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0104-02",
+          "sense_id": "s0104-01",
+          "english": "The show combines theatre with the best of stand-up and sketch comedy.",
+          "translation": "这场演出将戏剧与最好的单口喜剧和小品喜剧结合在一起。",
+          "target": "comedy",
+          "target_start": 63,
+          "target_end": 69,
+          "book_label": "例",
+          "pdf_page": 28,
+          "printed_page": "020",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0104-01",
+          "spelling": "comic",
+          "definition": "adj. 喜剧的；滑稽的",
+          "relation": "derived",
+          "pdf_page": 28,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0105",
+      "spelling": "declare",
+      "phonetic": "/dɪˈkleə(r)/",
+      "source_definition": "v. 公布；宣布；宣告；表明；宣称；断言",
+      "mnemonic": "发音类似“弟可累了”→弟弟可累了，“宣布”不干了。",
+      "group_name": "25 declare相关近义词",
+      "pdf_pages": [
+        28
+      ],
+      "printed_pages": [
+        "020"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0105-01",
+          "pos": "v.",
+          "gloss": "公布；宣布；宣告",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0105-02",
+          "pos": "v.",
+          "gloss": "表明；宣称；断言",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0105-01",
+          "sense_id": "s0105-01",
+          "english": "He will probably have to declare bankruptcy.",
+          "translation": "他可能不得不宣布破产。",
+          "target": "declare",
+          "target_start": 25,
+          "target_end": 32,
+          "book_label": "例",
+          "pdf_page": 28,
+          "printed_page": "020",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0105-02",
+          "sense_id": "s0105-01",
+          "english": "The order also declared that state and local governments couldn’t regulate broadband providers either.",
+          "translation": "该命令还宣布，州和地方政府也不能监管宽带提供商。",
+          "target": "declared",
+          "target_start": 15,
+          "target_end": 23,
+          "book_label": "真题",
+          "pdf_page": 28,
+          "printed_page": "020",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0105-01",
+          "spelling": "declaration",
+          "definition": "n. 宣布，声明；宣言",
+          "relation": "derived",
+          "pdf_page": 28,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0106",
+      "spelling": "advertise",
+      "phonetic": "/ˈædvətaɪz/",
+      "source_definition": "v. 登广告；公布；宣传",
+      "mnemonic": "",
+      "group_name": "25 declare相关近义词",
+      "pdf_pages": [
+        28
+      ],
+      "printed_pages": [
+        "020"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0106-01",
+          "pos": "v.",
+          "gloss": "登广告；公布；宣传",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0106-01",
+          "sense_id": "s0106-01",
+          "english": "If you want to attract customers, you need to advertise.",
+          "translation": "如果你想吸引顾客，你需要打广告。",
+          "target": "advertise",
+          "target_start": 46,
+          "target_end": 55,
+          "book_label": "例",
+          "pdf_page": 28,
+          "printed_page": "020",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0106-02",
+          "sense_id": "s0106-01",
+          "english": "Skin moisturizers are advertised as part of morning beauty rituals.",
+          "translation": "抹润肤霜被广告宣传为早晨美容程序的一部分。",
+          "target": "advertised",
+          "target_start": 22,
+          "target_end": 32,
+          "book_label": "真题",
+          "pdf_page": 28,
+          "printed_page": "020",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0106-01",
+          "spelling": "advertisement",
+          "definition": "n. 广告",
+          "relation": "derived",
+          "pdf_page": 28,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0107",
+      "spelling": "advertiser",
+      "phonetic": "/ˈædvətaɪzə(r)/",
+      "source_definition": "n. 广告商；广告人员；广告公司；登广告者",
+      "mnemonic": "",
+      "group_name": "25 declare相关近义词",
+      "pdf_pages": [
+        28
+      ],
+      "printed_pages": [
+        "020"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0107-01",
+          "pos": "n.",
+          "gloss": "广告商；广告人员；广告公司；登广告者",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0107-01",
+          "sense_id": "s0107-01",
+          "english": "It is not yet clear how advertisers will respond.",
+          "translation": "广告商会如何回应尚不清楚。",
+          "target": "advertisers",
+          "target_start": 24,
+          "target_end": 35,
+          "book_label": "真题",
+          "pdf_page": 28,
+          "printed_page": "020",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0108",
+      "spelling": "exhaust",
+      "phonetic": "/ɪɡˈzɔːst/",
+      "source_definition": "v. 使筋疲力尽；用光，耗尽；n. 废气",
+      "mnemonic": "",
+      "group_name": "26 疲劳相关词汇",
+      "pdf_pages": [
+        28,
+        29
+      ],
+      "printed_pages": [
+        "020",
+        "021"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0108-01",
+          "pos": "v.",
+          "gloss": "用光，耗尽",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0108-02",
+          "pos": "v.",
+          "gloss": "使筋疲力尽",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0108-03",
+          "pos": "n.",
+          "gloss": "废气",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0108-01",
+          "sense_id": "s0108-01",
+          "english": "Within three days they had exhausted their supply of food.",
+          "translation": "他们在三天之内就把所有粮食吃光了。",
+          "target": "exhausted",
+          "target_start": 27,
+          "target_end": 36,
+          "book_label": "例",
+          "pdf_page": 28,
+          "printed_page": "020",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0108-01",
+          "spelling": "exhausted",
+          "definition": "adj. 筋疲力尽的",
+          "relation": "derived",
+          "pdf_page": 29,
+          "note": "关联资料，未自动计入主词进度。"
+        },
+        {
+          "id": "r0108-02",
+          "spelling": "exhausting",
+          "definition": "adj. 令人疲惫不堪的",
+          "relation": "derived",
+          "pdf_page": 29,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": [
+        "本词原书真题中的exhausted是形容词用法，移至关联素材，不计作动词例句。"
+      ]
+    },
+    {
+      "id": "w0109",
+      "spelling": "fatigue",
+      "phonetic": "/fəˈtiːɡ/",
+      "source_definition": "n. 疲劳；劳累",
+      "mnemonic": "fat（胖的）+ i（我）+ gue（谐音“哥”），我哥有点胖，稍微一活动就感觉很“疲劳”。",
+      "group_name": "26 疲劳相关词汇",
+      "pdf_pages": [
+        29
+      ],
+      "printed_pages": [
+        "021"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0109-01",
+          "pos": "n.",
+          "gloss": "疲劳；劳累",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0109-01",
+          "sense_id": "s0109-01",
+          "english": "Driver fatigue was to blame for the accident.",
+          "translation": "这个事故是驾驶员疲劳所致。",
+          "target": "fatigue",
+          "target_start": 7,
+          "target_end": 14,
+          "book_label": "例",
+          "pdf_page": 29,
+          "printed_page": "021",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0109-02",
+          "sense_id": "s0109-01",
+          "english": "I was dropping with fatigue and could not keep my eyes open.",
+          "translation": "我快要累倒了，眼睛也睁不开了。",
+          "target": "fatigue",
+          "target_start": 20,
+          "target_end": 27,
+          "book_label": "例",
+          "pdf_page": 29,
+          "printed_page": "021",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0110",
+      "spelling": "weary",
+      "phonetic": "/ˈwɪəri/",
+      "source_definition": "adj. 疲劳的，疲倦的；令人厌烦的；v. （使）疲劳；疲倦",
+      "mnemonic": "wear（穿）+ y（衣服）→有时候冬天穿的衣服又多又沉，会让人感觉很疲劳→疲劳的；（使）疲劳。",
+      "group_name": "26 疲劳相关词汇",
+      "pdf_pages": [
+        29
+      ],
+      "printed_pages": [
+        "021"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0110-01",
+          "pos": "adj.",
+          "gloss": "疲劳的，疲倦的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0110-02",
+          "pos": "adj.",
+          "gloss": "令人厌烦的",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0110-03",
+          "pos": "v.",
+          "gloss": "（使）疲劳；疲倦",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0110-01",
+          "sense_id": "s0110-01",
+          "english": "She suddenly felt old and weary.",
+          "translation": "她突然感到了衰老和疲倦。",
+          "target": "weary",
+          "target_start": 26,
+          "target_end": 31,
+          "book_label": "例",
+          "pdf_page": 29,
+          "printed_page": "021",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0110-02",
+          "sense_id": "s0110-01",
+          "english": "This weary traveller is about to collapse from thirst.",
+          "translation": "这个疲惫的旅行者快要渴死了。",
+          "target": "weary",
+          "target_start": 5,
+          "target_end": 10,
+          "book_label": "例",
+          "pdf_page": 29,
+          "printed_page": "021",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0110-01",
+          "spelling": "weariness",
+          "definition": "n. 很累的感觉",
+          "relation": "derived",
+          "pdf_page": 29,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0111",
+      "spelling": "render",
+      "phonetic": "/ˈrendə(r)/",
+      "source_definition": "v. 使成为；使变得；给予；提供；回报",
+      "mnemonic": "发音类似“润的”→重庆潮湿的天气使你的皮肤变得润润的→使变得。",
+      "group_name": "27 润相关词汇",
+      "pdf_pages": [
+        29
+      ],
+      "printed_pages": [
+        "021"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0111-01",
+          "pos": "v.",
+          "gloss": "给予；提供",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0111-02",
+          "pos": "v.",
+          "gloss": "使成为；使变得",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0111-03",
+          "pos": "v.",
+          "gloss": "回报",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0111-01",
+          "sense_id": "s0111-01",
+          "english": "They rendered assistance to the disaster victims.",
+          "translation": "他们给灾民提供了援助。",
+          "target": "rendered",
+          "target_start": 5,
+          "target_end": 13,
+          "book_label": "例",
+          "pdf_page": 29,
+          "printed_page": "021",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0111-02",
+          "sense_id": "s0111-02",
+          "english": "Suffering is inevitable, but the courage to fight it renders life worth living.",
+          "translation": "痛苦是不可避免的，但与之抗争的勇气正是生活的意义所在。",
+          "target": "renders",
+          "target_start": 53,
+          "target_end": 60,
+          "book_label": "真题",
+          "pdf_page": 29,
+          "printed_page": "021",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0112",
+      "spelling": "moist",
+      "phonetic": "/mɔɪst/",
+      "source_definition": "adj. 潮湿的，湿润的",
+      "mnemonic": "发音类似“摸衣湿的”→天气太潮湿了，一摸衣服居然有点湿了→潮湿的。",
+      "group_name": "27 润相关词汇",
+      "pdf_pages": [
+        29
+      ],
+      "printed_pages": [
+        "021"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0112-01",
+          "pos": "adj.",
+          "gloss": "潮湿的，湿润的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0112-01",
+          "sense_id": "s0112-01",
+          "english": "The warm moist air is perfect for growing fruit trees.",
+          "translation": "温暖湿润的空气最适于果树生长。",
+          "target": "moist",
+          "target_start": 9,
+          "target_end": 14,
+          "book_label": "例",
+          "pdf_page": 29,
+          "printed_page": "021",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0112-02",
+          "sense_id": "s0112-01",
+          "english": "Water the plants regularly to keep the soil moist.",
+          "translation": "定时浇灌植物以保持土壤湿润。",
+          "target": "moist",
+          "target_start": 44,
+          "target_end": 49,
+          "book_label": "例",
+          "pdf_page": 29,
+          "printed_page": "021",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0112-01",
+          "spelling": "moisture",
+          "definition": "n. 潮气；水汽；水分",
+          "relation": "derived",
+          "pdf_page": 29,
+          "note": "关联资料，未自动计入主词进度。"
+        },
+        {
+          "id": "r0112-02",
+          "spelling": "moisturizer",
+          "definition": "n. 润肤膏",
+          "relation": "derived",
+          "pdf_page": 29,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0113",
+      "spelling": "damp",
+      "phonetic": "/dæmp/",
+      "source_definition": "adj. 潮湿的；n. 潮湿；潮气；v. 使潮湿",
+      "mnemonic": "dam（大坝）+ p（联想成place“地方”）→有大坝的地方一般比较“潮湿”→潮湿的。",
+      "group_name": "27 润相关词汇",
+      "pdf_pages": [
+        29
+      ],
+      "printed_pages": [
+        "021"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0113-01",
+          "pos": "n.",
+          "gloss": "潮湿；潮气",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0113-02",
+          "pos": "adj.",
+          "gloss": "潮湿的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0113-03",
+          "pos": "v.",
+          "gloss": "使潮湿",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0113-01",
+          "sense_id": "s0113-01",
+          "english": "The old house smells of damp.",
+          "translation": "这座老房子散发出一股潮气。",
+          "target": "damp",
+          "target_start": 24,
+          "target_end": 28,
+          "book_label": "例",
+          "pdf_page": 29,
+          "printed_page": "021",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0113-02",
+          "sense_id": "s0113-02",
+          "english": "The cottage was cold and damp.",
+          "translation": "这个小屋又冷又湿。",
+          "target": "damp",
+          "target_start": 25,
+          "target_end": 29,
+          "book_label": "例",
+          "pdf_page": 29,
+          "printed_page": "021",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0113-01",
+          "spelling": "dampen",
+          "definition": "v. 抑制，控制，减弱（感情、反应等）；弄湿",
+          "relation": "derived",
+          "pdf_page": 29,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0114",
+      "spelling": "dump",
+      "phonetic": "/dʌmp/",
+      "source_definition": "n. 垃圾场；废物堆；邋遢场所；v. 扔掉；倾倒；丢弃",
+      "mnemonic": "单词发音类似“当铺”。我把不经常用的东西拿到当铺里当点钱，总比“扔掉”更好→扔掉；丢弃。",
+      "group_name": "27 润相关词汇",
+      "pdf_pages": [
+        30
+      ],
+      "printed_pages": [
+        "022"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0114-01",
+          "pos": "n.",
+          "gloss": "邋遢场所",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0114-02",
+          "pos": "v.",
+          "gloss": "扔掉；倾倒；丢弃",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0114-03",
+          "pos": "n.",
+          "gloss": "垃圾场；废物堆",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0114-01",
+          "sense_id": "s0114-01",
+          "english": "How can you live in this dump?",
+          "translation": "你怎么会住在这种肮脏的地方？",
+          "target": "dump",
+          "target_start": 25,
+          "target_end": 29,
+          "book_label": "例",
+          "pdf_page": 30,
+          "printed_page": "022",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0114-02",
+          "sense_id": "s0114-02",
+          "english": "Any vessel dumping at sea without a licence will be prosecuted.",
+          "translation": "任何船只未经许可在海上倾倒会被起诉。",
+          "target": "dumping",
+          "target_start": 11,
+          "target_end": 18,
+          "book_label": "例",
+          "pdf_page": 30,
+          "printed_page": "022",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0115",
+      "spelling": "humid",
+      "phonetic": "/ˈhjuːmɪd/",
+      "source_definition": "adj. 温暖潮湿的；湿热的",
+      "mnemonic": "热带地区的很多人（human）长期生活在湿热的（humid）天气里。",
+      "group_name": "27 润相关词汇",
+      "pdf_pages": [
+        30
+      ],
+      "printed_pages": [
+        "022"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0115-01",
+          "pos": "adj.",
+          "gloss": "温暖潮湿的；湿热的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0115-01",
+          "sense_id": "s0115-01",
+          "english": "The island is hot and humid in the summer.",
+          "translation": "这个岛在夏季又热又潮湿。",
+          "target": "humid",
+          "target_start": 22,
+          "target_end": 27,
+          "book_label": "例",
+          "pdf_page": 30,
+          "printed_page": "022",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0115-02",
+          "sense_id": "s0115-01",
+          "english": "They were not prepared for the humid heat of the tropical forest.",
+          "translation": "他们没有为热带森林的湿热做好准备。",
+          "target": "humid",
+          "target_start": 31,
+          "target_end": 36,
+          "book_label": "例",
+          "pdf_page": 30,
+          "printed_page": "022",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0116",
+      "spelling": "humiliate",
+      "phonetic": "/hjuːˈmɪlieɪt/",
+      "source_definition": "v. 羞辱；使丧失尊严",
+      "mnemonic": "humi（联想成human“人类”）+ liate（联想成late“迟到”）→作为一个人类，我总是迟到，这让我感到很“丧失尊严”→使丧失尊严。",
+      "group_name": "28 humiliate相关形近词",
+      "pdf_pages": [
+        30
+      ],
+      "printed_pages": [
+        "022"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0116-01",
+          "pos": "v.",
+          "gloss": "羞辱；使丧失尊严",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0116-01",
+          "sense_id": "s0116-01",
+          "english": "I didn’t want to humiliate her in front of her colleagues.",
+          "translation": "我不想当着她同事们的面令她难堪。",
+          "target": "humiliate",
+          "target_start": 17,
+          "target_end": 26,
+          "book_label": "例",
+          "pdf_page": 30,
+          "printed_page": "022",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0116-02",
+          "sense_id": "s0116-01",
+          "english": "How could I humiliate myself like this?",
+          "translation": "我怎么能这样羞辱自己呢？",
+          "target": "humiliate",
+          "target_start": 12,
+          "target_end": 21,
+          "book_label": "例",
+          "pdf_page": 30,
+          "printed_page": "022",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0116-01",
+          "spelling": "humiliating",
+          "definition": "adj. 羞辱性的",
+          "relation": "derived",
+          "pdf_page": 30,
+          "note": "关联资料，未自动计入主词进度。"
+        },
+        {
+          "id": "r0116-02",
+          "spelling": "humiliation",
+          "definition": "n. 羞辱；蒙羞",
+          "relation": "derived",
+          "pdf_page": 30,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0117",
+      "spelling": "humanity",
+      "phonetic": "/hjuːˈmænəti/",
+      "source_definition": "n. 人类；人性，人道",
+      "mnemonic": "",
+      "group_name": "28 humiliate相关形近词",
+      "pdf_pages": [
+        30
+      ],
+      "printed_pages": [
+        "022"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0117-01",
+          "pos": "n.",
+          "gloss": "人性，人道",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0117-02",
+          "pos": "n.",
+          "gloss": "人类",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0117-01",
+          "sense_id": "s0117-01",
+          "english": "The judge was praised for his courage and humanity.",
+          "translation": "法官的勇气和人道受到称赞。",
+          "target": "humanity",
+          "target_start": 42,
+          "target_end": 50,
+          "book_label": "例",
+          "pdf_page": 30,
+          "printed_page": "022",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0117-02",
+          "sense_id": "s0117-02",
+          "english": "Only when humanity began to get its food in a more productive way was there time for other things.",
+          "translation": "只有当人类开始以一种更高效的方式获取食物时，才有时间做其他的事情。",
+          "target": "humanity",
+          "target_start": 10,
+          "target_end": 18,
+          "book_label": "真题",
+          "pdf_page": 30,
+          "printed_page": "022",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0118",
+      "spelling": "humane",
+      "phonetic": "/hjuːˈmeɪn/",
+      "source_definition": "adj. 善良的；仁慈的；人道的",
+      "mnemonic": "",
+      "group_name": "28 humiliate相关形近词",
+      "pdf_pages": [
+        30
+      ],
+      "printed_pages": [
+        "022"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0118-01",
+          "pos": "adj.",
+          "gloss": "善良的；仁慈的；人道的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0118-01",
+          "sense_id": "s0118-01",
+          "english": "The animals must be reared in humane conditions.",
+          "translation": "这些动物必须在人性化的环境中饲养。",
+          "target": "humane",
+          "target_start": 30,
+          "target_end": 36,
+          "book_label": "例",
+          "pdf_page": 30,
+          "printed_page": "022",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0118-02",
+          "sense_id": "s0118-01",
+          "english": "Laboratory animals receive humane care.",
+          "translation": "实验室里的动物获得了人道关怀。",
+          "target": "humane",
+          "target_start": 27,
+          "target_end": 33,
+          "book_label": "真题",
+          "pdf_page": 30,
+          "printed_page": "022",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0118-01",
+          "spelling": "inhumane",
+          "definition": "adj. 残忍的；不人道的",
+          "relation": "derived",
+          "pdf_page": 30,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0119",
+      "spelling": "humble",
+      "phonetic": "/ˈhʌmbl/",
+      "source_definition": "adj. 谦虚的，谦卑的；没有特别之处的",
+      "mnemonic": "",
+      "group_name": "28 humiliate相关形近词",
+      "pdf_pages": [
+        30,
+        31
+      ],
+      "printed_pages": [
+        "022",
+        "023"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0119-01",
+          "pos": "adj.",
+          "gloss": "谦虚的，谦卑的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0119-02",
+          "pos": "adj.",
+          "gloss": "没有特别之处的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0119-01",
+          "sense_id": "s0119-01",
+          "english": "Be humble enough to learn from your mistakes.",
+          "translation": "要虚心地从自己的错误中学习。",
+          "target": "humble",
+          "target_start": 3,
+          "target_end": 9,
+          "book_label": "例",
+          "pdf_page": 30,
+          "printed_page": "022",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0119-02",
+          "sense_id": "s0119-02",
+          "english": "As a nation, we may be overfunding the quest for unlikely cures while underfunding research on humbler therapies that could improve people’s lives.",
+          "translation": "作为一个国家，我们可能在寻求不太可能的治疗方法方面投入了过多的资金，而在研究能够改善人们生活的较普通的疗法方面却投入的资金不足。",
+          "target": "humbler",
+          "target_start": 95,
+          "target_end": 102,
+          "book_label": "真题",
+          "pdf_page": 30,
+          "printed_page": "022",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": [
+        "第二句及译文由PDF30–31页拼接，定位以英文起始页30为准。"
+      ]
+    },
+    {
+      "id": "w0120",
+      "spelling": "humour",
+      "phonetic": "/ˈhjuːmə/",
+      "source_definition": "n. 幽默，幽默感",
+      "mnemonic": "接地气儿的才是真正的“幽默”。汉语“幽默”就是从英语humour音译而来。",
+      "group_name": "28 humiliate相关形近词",
+      "pdf_pages": [
+        31
+      ],
+      "printed_pages": [
+        "023"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0120-01",
+          "pos": "n.",
+          "gloss": "幽默，幽默感",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0120-01",
+          "sense_id": "s0120-01",
+          "english": "I can’t stand people with no sense of humor.",
+          "translation": "我不能忍受没有幽默感的人。",
+          "target": "humor",
+          "target_start": 38,
+          "target_end": 43,
+          "book_label": "例",
+          "pdf_page": 31,
+          "printed_page": "023",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0120-01",
+          "spelling": "humorous",
+          "definition": "adj. 富有幽默感的，滑稽的",
+          "relation": "derived",
+          "pdf_page": 31,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": [
+        "原书标美式humor；关联材料保留good humor句子，因语境更接近好心情，未默认归入幽默词义。"
+      ]
+    },
+    {
+      "id": "w0121",
+      "spelling": "error",
+      "phonetic": "/ˈerə(r)/",
+      "source_definition": "n. 错误；差错",
+      "mnemonic": "发音类似“哎哟”→哎哟，我犯了一个“错误”。",
+      "group_name": "29 错误相关词汇",
+      "pdf_pages": [
+        31
+      ],
+      "printed_pages": [
+        "023"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0121-01",
+          "pos": "n.",
+          "gloss": "错误；差错",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0121-01",
+          "sense_id": "s0121-01",
+          "english": "There are too many errors in your work.",
+          "translation": "你的工作失误太多。",
+          "target": "errors",
+          "target_start": 19,
+          "target_end": 25,
+          "book_label": "例",
+          "pdf_page": 31,
+          "printed_page": "023",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0121-02",
+          "sense_id": "s0121-01",
+          "english": "Good writing most often occurs when you are in hot pursuit of an idea rather than in a nervous search for errors.",
+          "translation": "好的文章通常出现在你狂热追求一个想法之时，而不是在紧张地寻找错误的时候。",
+          "target": "errors",
+          "target_start": 106,
+          "target_end": 112,
+          "book_label": "真题",
+          "pdf_page": 31,
+          "printed_page": "023",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0121-01",
+          "spelling": "erroneous",
+          "definition": "adj. 错误的，不正确的",
+          "relation": "extension",
+          "pdf_page": 31,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0122",
+      "spelling": "fault",
+      "phonetic": "/fɔːlt/",
+      "source_definition": "n. 责任；过错；弱点；缺点；过失",
+      "mnemonic": "发音类似“for（为）了（l）他（t）”。为了他，我曾经犯了很多“错误”。",
+      "group_name": "29 错误相关词汇",
+      "pdf_pages": [
+        31
+      ],
+      "printed_pages": [
+        "023"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0122-01",
+          "pos": "n.",
+          "gloss": "责任；过错；过失",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0122-02",
+          "pos": "n.",
+          "gloss": "弱点；缺点",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0122-01",
+          "sense_id": "s0122-01",
+          "english": "It’s your own fault for being careless.",
+          "translation": "你粗心大意是你自己的过失。",
+          "target": "fault",
+          "target_start": 14,
+          "target_end": 19,
+          "book_label": "例",
+          "pdf_page": 31,
+          "printed_page": "023",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0122-02",
+          "sense_id": "s0122-02",
+          "english": "I think my worst fault is impatience.",
+          "translation": "我认为我最大的缺点是不耐烦。",
+          "target": "fault",
+          "target_start": 17,
+          "target_end": 22,
+          "book_label": "例",
+          "pdf_page": 31,
+          "printed_page": "023",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0122-01",
+          "spelling": "faulty",
+          "definition": "adj. 有错误的，有缺陷的",
+          "relation": "derived",
+          "pdf_page": 31,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0123",
+      "spelling": "default",
+      "phonetic": "/dɪˈfɔːlt/",
+      "source_definition": "n. & v. 违约；默认",
+      "mnemonic": "de（表加强）+ fault（错误）→这家公司犯了一个严重的错误，“违约”了。",
+      "group_name": "29 错误相关词汇",
+      "pdf_pages": [
+        31
+      ],
+      "printed_pages": [
+        "023"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0123-01",
+          "pos": "n.",
+          "gloss": "违约",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0123-02",
+          "pos": "n.",
+          "gloss": "默认",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0123-03",
+          "pos": "v.",
+          "gloss": "违约；默认",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0123-01",
+          "sense_id": "s0123-01",
+          "english": "Mortgage defaults have risen in the last year.",
+          "translation": "按揭贷款违约在近一年里呈上升趋势。",
+          "target": "defaults",
+          "target_start": 9,
+          "target_end": 17,
+          "book_label": "例",
+          "pdf_page": 31,
+          "printed_page": "023",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": [
+        "原书default settings例句为定语用法，原书未列adj.，先放关联材料待独立整理。"
+      ]
+    },
+    {
+      "id": "w0124",
+      "spelling": "absent",
+      "phonetic": "/ˈæbsənt/",
+      "source_definition": "adj. 缺席的；不存在的，心不在焉的",
+      "mnemonic": "ab（表示否定）+ sent（存在）→不存在的→缺席的。",
+      "group_name": "30 -sent相关词汇",
+      "pdf_pages": [
+        31,
+        32
+      ],
+      "printed_pages": [
+        "023",
+        "024"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0124-01",
+          "pos": "adj.",
+          "gloss": "缺席的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0124-02",
+          "pos": "adj.",
+          "gloss": "不存在的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0124-03",
+          "pos": "adj.",
+          "gloss": "心不在焉的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0124-01",
+          "sense_id": "s0124-01",
+          "english": "She was absent for nine consecutive days.",
+          "translation": "她一连缺席了九天。",
+          "target": "absent",
+          "target_start": 8,
+          "target_end": 14,
+          "book_label": "例",
+          "pdf_page": 31,
+          "printed_page": "023",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0124-02",
+          "sense_id": "s0124-02",
+          "english": "Love was totally absent from his childhood.",
+          "translation": "他童年时没有得到丝毫关爱。",
+          "target": "absent",
+          "target_start": 17,
+          "target_end": 23,
+          "book_label": "例",
+          "pdf_page": 32,
+          "printed_page": "024",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0124-01",
+          "spelling": "absence",
+          "definition": "n. 缺席；不在",
+          "relation": "derived",
+          "pdf_page": 32,
+          "note": "关联资料，未自动计入主词进度。"
+        },
+        {
+          "id": "r0124-02",
+          "spelling": "absently",
+          "definition": "adv. 心不在焉地；出神地",
+          "relation": "derived",
+          "pdf_page": 32,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0125",
+      "spelling": "present",
+      "phonetic": null,
+      "source_definition": "/ˈpreznt/ n. 礼物；目前；现在；adj. 现存的；当前的；出现的；在场的；/prɪˈzent/ v. 颁发；授予；显示，表现；提出，提交",
+      "mnemonic": "妈妈送了我一个礼物（present），希望我在当前的（present）比赛中好好表现（present）自己。",
+      "group_name": "30 -sent相关词汇",
+      "pdf_pages": [
+        32
+      ],
+      "printed_pages": [
+        "024"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0125-01",
+          "pos": "adj.",
+          "gloss": "现存的；当前的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0125-02",
+          "pos": "adj.",
+          "gloss": "出现的；在场的",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0125-03",
+          "pos": "n.",
+          "gloss": "礼物；目前；现在",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0125-04",
+          "pos": "v.",
+          "gloss": "颁发；授予；显示，表现；提出，提交",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0125-01",
+          "sense_id": "s0125-01",
+          "english": "I am not satisfied with the present situation.",
+          "translation": "我对现状不满意。",
+          "target": "present",
+          "target_start": 28,
+          "target_end": 35,
+          "book_label": "例",
+          "pdf_page": 32,
+          "printed_page": "024",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0125-02",
+          "sense_id": "s0125-01",
+          "english": "We have no one else to blame for our present condition except ourselves.",
+          "translation": "对于我们目前的状况，除了我们自己，我们不能责怪任何人。",
+          "target": "present",
+          "target_start": 37,
+          "target_end": 44,
+          "book_label": "真题",
+          "pdf_page": 32,
+          "printed_page": "024",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0125-01",
+          "spelling": "presence",
+          "definition": "n. 出席，在场；存在；出现",
+          "relation": "derived",
+          "pdf_page": 32,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0126",
+      "spelling": "represent",
+      "phonetic": "/ˌreprɪˈzent/",
+      "source_definition": "v. 代表，代理；展示，描绘",
+      "mnemonic": "re（阿姨）+ present（出席）→这次会议我生病了，阿姨作为“代表”，替我出席。",
+      "group_name": "30 -sent相关词汇",
+      "pdf_pages": [
+        32
+      ],
+      "printed_pages": [
+        "024"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0126-01",
+          "pos": "v.",
+          "gloss": "代表，代理",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0126-02",
+          "pos": "v.",
+          "gloss": "展示，描绘",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0126-01",
+          "sense_id": "s0126-01",
+          "english": "The competition attracted over 500 contestants representing eight different countries.",
+          "translation": "这场比赛吸引了代表八个不同国家的500多名参赛者。",
+          "target": "representing",
+          "target_start": 47,
+          "target_end": 59,
+          "book_label": "例",
+          "pdf_page": 32,
+          "printed_page": "024",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0126-01",
+          "spelling": "representation",
+          "definition": "n. 代表；描绘；描写",
+          "relation": "derived",
+          "pdf_page": 32,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0127",
+      "spelling": "representative",
+      "phonetic": "/ˌreprɪˈzentətɪv/",
+      "source_definition": "n. 代表，典型人物；adj. 典型的，有代表性的",
+      "mnemonic": "",
+      "group_name": "30 -sent相关词汇",
+      "pdf_pages": [
+        32
+      ],
+      "printed_pages": [
+        "024"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0127-01",
+          "pos": "adj.",
+          "gloss": "典型的，有代表性的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0127-02",
+          "pos": "n.",
+          "gloss": "代表，典型人物",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0127-01",
+          "sense_id": "s0127-01",
+          "english": "The painting is not representative of his work of the period.",
+          "translation": "这幅画不是他在那个时期的代表作。",
+          "target": "representative",
+          "target_start": 20,
+          "target_end": 34,
+          "book_label": "例",
+          "pdf_page": 32,
+          "printed_page": "024",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0127-02",
+          "sense_id": "s0127-02",
+          "english": "The ruling reinforces the need for citizens and their elected representatives.",
+          "translation": "该裁决强化了公民和他们选出的代表的需要。",
+          "target": "representatives",
+          "target_start": 62,
+          "target_end": 77,
+          "book_label": "真题",
+          "pdf_page": 32,
+          "printed_page": "024",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0127-01",
+          "spelling": "unrepresentative",
+          "definition": "adj. 不典型的；无代表性的",
+          "relation": "derived",
+          "pdf_page": 32,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0128",
+      "spelling": "resent",
+      "phonetic": "/rɪˈzent/",
+      "source_definition": "v. 愤恨，怨恨",
+      "mnemonic": "re（表示“反对”）+ sent（感觉）→总是对他有反对的感觉→愤恨；怨恨。",
+      "group_name": "30 -sent相关词汇",
+      "pdf_pages": [
+        32
+      ],
+      "printed_pages": [
+        "024"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0128-01",
+          "pos": "v.",
+          "gloss": "愤恨，怨恨",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0128-01",
+          "sense_id": "s0128-01",
+          "english": "I deeply resented her criticism.",
+          "translation": "我对她的批评感到非常气愤。",
+          "target": "resented",
+          "target_start": 9,
+          "target_end": 17,
+          "book_label": "例",
+          "pdf_page": 32,
+          "printed_page": "024",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0128-02",
+          "sense_id": "s0128-01",
+          "english": "She resented him making all the decisions.",
+          "translation": "她讨厌什么事都要听他的。",
+          "target": "resented",
+          "target_start": 4,
+          "target_end": 12,
+          "book_label": "例",
+          "pdf_page": 32,
+          "printed_page": "024",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0128-01",
+          "spelling": "resentful",
+          "definition": "adj. 愤慨的，怨恨的",
+          "relation": "derived",
+          "pdf_page": 32,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0129",
+      "spelling": "resentment",
+      "phonetic": "/rɪˈzentmənt/",
+      "source_definition": "n. 怨恨，愤恨",
+      "mnemonic": "",
+      "group_name": "30 -sent相关词汇",
+      "pdf_pages": [
+        32,
+        33
+      ],
+      "printed_pages": [
+        "024",
+        "025"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0129-01",
+          "pos": "n.",
+          "gloss": "怨恨，愤恨",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0129-01",
+          "sense_id": "s0129-01",
+          "english": "In the Internet age, it is particularly easy to see the resentment that has always been hidden within American society.",
+          "translation": "在互联网时代，特别容易看到一直隐藏在美国社会中的怨恨。",
+          "target": "resentment",
+          "target_start": 56,
+          "target_end": 66,
+          "book_label": "真题",
+          "pdf_page": 32,
+          "printed_page": "024",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0130",
+      "spelling": "consent",
+      "phonetic": "/kənˈsent/",
+      "source_definition": "v. & n. 同意；准许；允许",
+      "mnemonic": "con（所有）+ sent（感觉）→所有人都有同样的感觉→同意；赞同。",
+      "group_name": "30 -sent相关词汇",
+      "pdf_pages": [
+        33
+      ],
+      "printed_pages": [
+        "025"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0130-01",
+          "pos": "v.",
+          "gloss": "同意；准许；允许",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0130-02",
+          "pos": "n.",
+          "gloss": "同意；准许；允许",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0130-01",
+          "sense_id": "s0130-01",
+          "english": "He reluctantly consented to the proposal.",
+          "translation": "他勉强同意了这个提议。",
+          "target": "consented",
+          "target_start": 15,
+          "target_end": 24,
+          "book_label": "例",
+          "pdf_page": 33,
+          "printed_page": "025",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0130-02",
+          "sense_id": "s0130-02",
+          "english": "There are lessons about informed patient consent to learn.",
+          "translation": "在患者知情同意方面，有很多教训可以汲取。",
+          "target": "consent",
+          "target_start": 41,
+          "target_end": 48,
+          "book_label": "真题",
+          "pdf_page": 33,
+          "printed_page": "025",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0131",
+      "spelling": "sharp",
+      "phonetic": "/ʃɑːp/",
+      "source_definition": "adj. 锋利的；清晰的；急剧的；敏锐的",
+      "mnemonic": "鲨鱼（shark）的牙齿是锋利的（sharp）。",
+      "group_name": "31 sharp相关反义词和近义词",
+      "pdf_pages": [
+        33
+      ],
+      "printed_pages": [
+        "025"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0131-01",
+          "pos": "adj.",
+          "gloss": "锋利的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0131-02",
+          "pos": "adj.",
+          "gloss": "敏锐的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0131-03",
+          "pos": "adj.",
+          "gloss": "清晰的；急剧的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0131-01",
+          "sense_id": "s0131-01",
+          "english": "Be careful—it has a sharp edge.",
+          "translation": "小心点——它的边缘很锋利。",
+          "target": "sharp",
+          "target_start": 20,
+          "target_end": 25,
+          "book_label": "例",
+          "pdf_page": 33,
+          "printed_page": "025",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0131-02",
+          "sense_id": "s0131-02",
+          "english": "His mind is as sharp as ever.",
+          "translation": "他思维敏锐，一如既往。",
+          "target": "sharp",
+          "target_start": 15,
+          "target_end": 20,
+          "book_label": "例",
+          "pdf_page": 33,
+          "printed_page": "025",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0131-01",
+          "spelling": "sharply",
+          "definition": "adv. 尖刻地；急剧地；敏锐地",
+          "relation": "derived",
+          "pdf_page": 33,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0132",
+      "spelling": "blunt",
+      "phonetic": "/blʌnt/",
+      "source_definition": "adj. 不锋利的，钝的；率直的；v. 使减弱；使变钝",
+      "mnemonic": "发音类似“不烂它”→拿刀切肉，剁了半天也没有剁烂，刀子是“钝的”。",
+      "group_name": "31 sharp相关反义词和近义词",
+      "pdf_pages": [
+        33
+      ],
+      "printed_pages": [
+        "025"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0132-01",
+          "pos": "adj.",
+          "gloss": "不锋利的，钝的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0132-02",
+          "pos": "v.",
+          "gloss": "使减弱；使变钝",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0132-03",
+          "pos": "adj.",
+          "gloss": "率直的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0132-01",
+          "sense_id": "s0132-01",
+          "english": "The police said he had been hit with a blunt instrument.",
+          "translation": "警方说他遭到了钝器袭击。",
+          "target": "blunt",
+          "target_start": 39,
+          "target_end": 44,
+          "book_label": "例",
+          "pdf_page": 33,
+          "printed_page": "025",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0132-02",
+          "sense_id": "s0132-02",
+          "english": "It is an ambitious attempt to blunt the sharpest edges of globalization.",
+          "translation": "这是一项雄心勃勃的尝试，旨在钝化全球化最尖锐的棱角。",
+          "target": "blunt",
+          "target_start": 30,
+          "target_end": 35,
+          "book_label": "真题",
+          "pdf_page": 33,
+          "printed_page": "025",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0133",
+      "spelling": "blunder",
+      "phonetic": "/ˈblʌndə(r)/",
+      "source_definition": "n. 愚蠢（或粗心）的错误；v. 犯愚蠢（或粗心）的错误",
+      "mnemonic": "发音类似“不拦的”→现在不拦住他，以后他会酿成大错的→犯愚蠢（或粗心）的错误。",
+      "group_name": "31 sharp相关反义词和近义词",
+      "pdf_pages": [
+        33
+      ],
+      "printed_pages": [
+        "025"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0133-01",
+          "pos": "n.",
+          "gloss": "愚蠢（或粗心）的错误",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0133-02",
+          "pos": "v.",
+          "gloss": "犯愚蠢（或粗心）的错误",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0133-01",
+          "sense_id": "s0133-01",
+          "english": "She cast a sidelong glance at Eric to see if he had noticed her blunder.",
+          "translation": "她斜眼看了埃里克一眼，看他有没有留意到她的错误。",
+          "target": "blunder",
+          "target_start": 64,
+          "target_end": 71,
+          "book_label": "例",
+          "pdf_page": 33,
+          "printed_page": "025",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0133-02",
+          "sense_id": "s0133-02",
+          "english": "He had blundered in his handling of the affair.",
+          "translation": "他在这件事的处理上犯了大错。",
+          "target": "blundered",
+          "target_start": 7,
+          "target_end": 16,
+          "book_label": "例",
+          "pdf_page": 33,
+          "printed_page": "025",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0134",
+      "spelling": "frank",
+      "phonetic": "/fræŋk/",
+      "source_definition": "adj. 坦率的，直率的；直言不讳的",
+      "mnemonic": "弗兰克（Frank）是一个坦率的（frank）孩子。",
+      "group_name": "31 sharp相关反义词和近义词",
+      "pdf_pages": [
+        33
+      ],
+      "printed_pages": [
+        "025"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0134-01",
+          "pos": "adj.",
+          "gloss": "坦率的，直率的；直言不讳的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0134-01",
+          "sense_id": "s0134-01",
+          "english": "To be frank with you, I think your son has little chance of passing the exam.",
+          "translation": "坦诚相告，我认为你的儿子不大可能通过考试。",
+          "target": "frank",
+          "target_start": 6,
+          "target_end": 11,
+          "book_label": "例",
+          "pdf_page": 33,
+          "printed_page": "025",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0134-01",
+          "spelling": "frankly",
+          "definition": "adv. 坦率地；直率地",
+          "relation": "derived",
+          "pdf_page": 33,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0135",
+      "spelling": "sincere",
+      "phonetic": "/sɪnˈsɪə(r)/",
+      "source_definition": "adj. 真诚的，诚恳的",
+      "mnemonic": "",
+      "group_name": "31 sharp相关反义词和近义词",
+      "pdf_pages": [
+        34
+      ],
+      "printed_pages": [
+        "026"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0135-01",
+          "pos": "adj.",
+          "gloss": "真诚的，诚恳的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0135-01",
+          "sense_id": "s0135-01",
+          "english": "Please accept our sincere thanks.",
+          "translation": "请接受我们诚挚的谢意。",
+          "target": "sincere",
+          "target_start": 18,
+          "target_end": 25,
+          "book_label": "例",
+          "pdf_page": 34,
+          "printed_page": "026",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0135-01",
+          "spelling": "sincerely",
+          "definition": "adv. 真诚地；诚实地",
+          "relation": "derived",
+          "pdf_page": 34,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0136",
+      "spelling": "giant",
+      "phonetic": "/ˈdʒaɪənt/",
+      "source_definition": "n. 大公司；巨人；伟人；巨兽；adj. 庞大的，巨大的",
+      "mnemonic": "",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        34
+      ],
+      "printed_pages": [
+        "026"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0136-01",
+          "pos": "adj.",
+          "gloss": "庞大的，巨大的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0136-02",
+          "pos": "n.",
+          "gloss": "大公司",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0136-03",
+          "pos": "n.",
+          "gloss": "巨人；伟人；巨兽",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0136-01",
+          "sense_id": "s0136-01",
+          "english": "The match was shown on a giant screen outside the town hall.",
+          "translation": "这场比赛在市政厅外的大屏幕上播放。",
+          "target": "giant",
+          "target_start": 25,
+          "target_end": 30,
+          "book_label": "例",
+          "pdf_page": 34,
+          "printed_page": "026",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0136-02",
+          "sense_id": "s0136-02",
+          "english": "The power and ambition of the giants of the digital economy is astonishing.",
+          "translation": "数字经济巨头的实力和野心令人瞠目结舌。",
+          "target": "giants",
+          "target_start": 30,
+          "target_end": 36,
+          "book_label": "真题",
+          "pdf_page": 34,
+          "printed_page": "026",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0137",
+      "spelling": "gigantic",
+      "phonetic": "/dʒaɪˈɡæntɪk/",
+      "source_definition": "adj. 巨大的，巨人般的",
+      "mnemonic": "泰坦尼克（Titanic）是一艘巨大的（gigantic）游轮。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        34
+      ],
+      "printed_pages": [
+        "026"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0137-01",
+          "pos": "adj.",
+          "gloss": "巨大的，巨人般的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0137-01",
+          "sense_id": "s0137-01",
+          "english": "The bomb caused a gigantic explosion.",
+          "translation": "炸弹引起了巨大的爆炸。",
+          "target": "gigantic",
+          "target_start": 18,
+          "target_end": 26,
+          "book_label": "例",
+          "pdf_page": 34,
+          "printed_page": "026",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0137-02",
+          "sense_id": "s0137-01",
+          "english": "Small choices now may turn out to have gigantic consequences later.",
+          "translation": "现在的微小的选择可能会在以后产生巨大的后果。",
+          "target": "gigantic",
+          "target_start": 39,
+          "target_end": 47,
+          "book_label": "真题",
+          "pdf_page": 34,
+          "printed_page": "026",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0138",
+      "spelling": "immense",
+      "phonetic": "/ɪˈmens/",
+      "source_definition": "adj. 极大的，巨大的",
+      "mnemonic": "i（我）+ mense（发音类似“闷死”）→重庆就像一个“巨大的”火炉，快把我闷死了。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        34
+      ],
+      "printed_pages": [
+        "026"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0138-01",
+          "pos": "adj.",
+          "gloss": "极大的，巨大的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0138-01",
+          "sense_id": "s0138-01",
+          "english": "The benefits are immense.",
+          "translation": "效益是极大的。",
+          "target": "immense",
+          "target_start": 17,
+          "target_end": 24,
+          "book_label": "例",
+          "pdf_page": 34,
+          "printed_page": "026",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0138-02",
+          "sense_id": "s0138-01",
+          "english": "Thus, the anthropological concept of “culture” is an abstract concept which makes possible immense amounts of concrete research and understanding.",
+          "translation": "因此，人类学的“文化”概念是一个抽象的概念，它使大量的具体研究和理解成为可能。",
+          "target": "immense",
+          "target_start": 91,
+          "target_end": 98,
+          "book_label": "真题",
+          "pdf_page": 34,
+          "printed_page": "026",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0138-01",
+          "spelling": "immensely",
+          "definition": "adv. 极大地；极端地；非常",
+          "relation": "derived",
+          "pdf_page": 34,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0139",
+      "spelling": "tremendous",
+      "phonetic": "/trəˈmendəs/",
+      "source_definition": "adj. 极大的，巨大的；精彩的",
+      "mnemonic": "tre（发音类似tree“树”）+ men（发音类似“门”）+ d（发音类似“的”）+ ous（形容词后缀）→这家门边有一棵“巨大的”树。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        34
+      ],
+      "printed_pages": [
+        "026"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0139-01",
+          "pos": "adj.",
+          "gloss": "极大的，巨大的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0139-02",
+          "pos": "adj.",
+          "gloss": "精彩的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0139-01",
+          "sense_id": "s0139-01",
+          "english": "A tremendous amount of work has gone into the project.",
+          "translation": "大量的工作已投入到这项工程。",
+          "target": "tremendous",
+          "target_start": 2,
+          "target_end": 12,
+          "book_label": "例",
+          "pdf_page": 34,
+          "printed_page": "026",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0139-02",
+          "sense_id": "s0139-02",
+          "english": "It was a tremendous experience.",
+          "translation": "这是个了不起的经历。",
+          "target": "tremendous",
+          "target_start": 9,
+          "target_end": 19,
+          "book_label": "例",
+          "pdf_page": 34,
+          "printed_page": "026",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0140",
+      "spelling": "enormous",
+      "phonetic": "/ɪˈnɔːməs/",
+      "source_definition": "adj. 巨大的；庞大的；极大的",
+      "mnemonic": "e（向外；超出）+ norm（规范，基准）+ ous（形容词后缀）→超出基准大小的→巨大的；庞大的。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        34,
+        35
+      ],
+      "printed_pages": [
+        "026",
+        "027"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0140-01",
+          "pos": "adj.",
+          "gloss": "巨大的；庞大的；极大的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0140-01",
+          "sense_id": "s0140-01",
+          "english": "The cost of the work was enormous.",
+          "translation": "这项工作的成本是巨大的。",
+          "target": "enormous",
+          "target_start": 25,
+          "target_end": 33,
+          "book_label": "例",
+          "pdf_page": 34,
+          "printed_page": "026",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0140-02",
+          "sense_id": "s0140-01",
+          "english": "These designers came to exert enormous influence on the course of American architecture.",
+          "translation": "这些设计师对美国的建筑业的发展产生了巨大的影响。",
+          "target": "enormous",
+          "target_start": 30,
+          "target_end": 38,
+          "book_label": "真题",
+          "pdf_page": 34,
+          "printed_page": "026",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0140-01",
+          "spelling": "enormously",
+          "definition": "adv. 极其地，非常地",
+          "relation": "derived",
+          "pdf_page": 35,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0141",
+      "spelling": "abnormal",
+      "phonetic": "/æbˈnɔːml/",
+      "source_definition": "adj. 反常的，异常的，不正常的",
+      "mnemonic": "ab（表示“否定”）+ norm（标准）+ al（形容词后缀）→不标准的，就是“反常的”。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        35
+      ],
+      "printed_pages": [
+        "027"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0141-01",
+          "pos": "adj.",
+          "gloss": "反常的，异常的，不正常的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0141-01",
+          "sense_id": "s0141-01",
+          "english": "They thought his behaviour was abnormal.",
+          "translation": "他们认为他的行为反常。",
+          "target": "abnormal",
+          "target_start": 31,
+          "target_end": 39,
+          "book_label": "例",
+          "pdf_page": 35,
+          "printed_page": "027",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0141-02",
+          "sense_id": "s0141-01",
+          "english": "The accidents were due to abnormal weather conditions.",
+          "translation": "事故是由于异常的天气情况造成的。",
+          "target": "abnormal",
+          "target_start": 26,
+          "target_end": 34,
+          "book_label": "例",
+          "pdf_page": 35,
+          "printed_page": "027",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0142",
+      "spelling": "numerous",
+      "phonetic": "/ˈnjuːmərəs/",
+      "source_definition": "adj. 众多的；许多的",
+      "mnemonic": "numer（联想成number“数字；数量”）+ ous（形容词后缀）→数量多的→许多的。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        35
+      ],
+      "printed_pages": [
+        "027"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0142-01",
+          "pos": "adj.",
+          "gloss": "众多的；许多的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0142-01",
+          "sense_id": "s0142-01",
+          "english": "Numerous studies have shown this to be true.",
+          "translation": "大量研究表明这是真的。",
+          "target": "Numerous",
+          "target_start": 0,
+          "target_end": 8,
+          "book_label": "例",
+          "pdf_page": 35,
+          "printed_page": "027",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0142-02",
+          "sense_id": "s0142-01",
+          "english": "This scale took numerous factors into consideration.",
+          "translation": "这个量表考虑了许多因素。",
+          "target": "numerous",
+          "target_start": 16,
+          "target_end": 24,
+          "book_label": "真题",
+          "pdf_page": 35,
+          "printed_page": "027",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0143",
+      "spelling": "plentiful",
+      "phonetic": "/ˈplentɪfl/",
+      "source_definition": "adj. 许多的，大量的，丰富的",
+      "mnemonic": "",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        35
+      ],
+      "printed_pages": [
+        "027"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0143-01",
+          "pos": "adj.",
+          "gloss": "许多的，大量的，丰富的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0143-01",
+          "sense_id": "s0143-01",
+          "english": "Fish are plentiful in the lake.",
+          "translation": "这个湖里鱼很多。",
+          "target": "plentiful",
+          "target_start": 9,
+          "target_end": 18,
+          "book_label": "例",
+          "pdf_page": 35,
+          "printed_page": "027",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0143-02",
+          "sense_id": "s0143-01",
+          "english": "In those days jobs were plentiful.",
+          "translation": "那个时期工作岗位多得很。",
+          "target": "plentiful",
+          "target_start": 24,
+          "target_end": 33,
+          "book_label": "例",
+          "pdf_page": 35,
+          "printed_page": "027",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0144",
+      "spelling": "flock",
+      "phonetic": "/flɒk/",
+      "source_definition": "n. 一群；一大群；信众；追随者；v. 群集，蜂拥",
+      "mnemonic": "f（封）+ lock（锁）→道路被封锁了，聚集了一群人→一群。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        35
+      ],
+      "printed_pages": [
+        "027"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0144-01",
+          "pos": "n.",
+          "gloss": "一群；一大群",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0144-02",
+          "pos": "v.",
+          "gloss": "群集，蜂拥",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0144-03",
+          "pos": "n.",
+          "gloss": "信众；追随者",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0144-01",
+          "sense_id": "s0144-01",
+          "english": "A flock of patients were waiting for the doctor to come.",
+          "translation": "一大批病人在等待医生的到来。",
+          "target": "flock",
+          "target_start": 2,
+          "target_end": 7,
+          "book_label": "例",
+          "pdf_page": 35,
+          "printed_page": "027",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0144-02",
+          "sense_id": "s0144-02",
+          "english": "Thousands of people flocked to the beach this weekend.",
+          "translation": "这个周末有好几千人蜂拥到了海滩。",
+          "target": "flocked",
+          "target_start": 20,
+          "target_end": 27,
+          "book_label": "例",
+          "pdf_page": 35,
+          "printed_page": "027",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0145",
+      "spelling": "abundant",
+      "phonetic": "/əˈbʌndənt/",
+      "source_definition": "adj. 大量的，充裕的，丰富的",
+      "mnemonic": "a（一）+ bund（发音类似“帮的”）+ ant（蚂蚁）→那一帮的蚂蚁是不是很多？→大量的。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        35
+      ],
+      "printed_pages": [
+        "027"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0145-01",
+          "pos": "adj.",
+          "gloss": "大量的，充裕的，丰富的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0145-01",
+          "sense_id": "s0145-01",
+          "english": "We have abundant evidence to prove his guilt.",
+          "translation": "我们有充分的证据证明他有罪。",
+          "target": "abundant",
+          "target_start": 8,
+          "target_end": 16,
+          "book_label": "例",
+          "pdf_page": 35,
+          "printed_page": "027",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0145-02",
+          "sense_id": "s0145-01",
+          "english": "Here was abundant fuel and lumber.",
+          "translation": "这里有丰富的燃料和木材。",
+          "target": "abundant",
+          "target_start": 9,
+          "target_end": 17,
+          "book_label": "真题",
+          "pdf_page": 35,
+          "printed_page": "027",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0145-01",
+          "spelling": "abundance",
+          "definition": "n. 丰富，充裕",
+          "relation": "derived",
+          "pdf_page": 35,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0146",
+      "spelling": "redundant",
+      "phonetic": "/rɪˈdʌndənt/",
+      "source_definition": "adj. 被裁减的；多余的，不需要的",
+      "mnemonic": "re（只，再）+ dundant（可联想成abundant“大量的”）→又是大量的，肯定就是“多余的”。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        35
+      ],
+      "printed_pages": [
+        "027"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0146-01",
+          "pos": "adj.",
+          "gloss": "多余的，不需要的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0146-02",
+          "pos": "adj.",
+          "gloss": "被裁减的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0146-01",
+          "sense_id": "s0146-01",
+          "english": "The picture has too much redundant detail.",
+          "translation": "这幅画中不必要的细节太多。",
+          "target": "redundant",
+          "target_start": 25,
+          "target_end": 34,
+          "book_label": "例",
+          "pdf_page": 35,
+          "printed_page": "027",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0146-02",
+          "sense_id": "s0146-02",
+          "english": "The programme organizes training for redundant workers.",
+          "translation": "该方案为多余的工人组织培训。",
+          "target": "redundant",
+          "target_start": 37,
+          "target_end": 46,
+          "book_label": "例",
+          "pdf_page": 35,
+          "printed_page": "027",
+          "review_status": "pending",
+          "note": "redundant workers原书译“多余的工人”，与被裁减的词义不一致；待核实译文。"
+        }
+      ],
+      "related": [],
+      "notes": [
+        "redundant workers原书译“多余的工人”，与被裁减的词义不一致；待核实译文。"
+      ]
+    },
+    {
+      "id": "w0147",
+      "spelling": "superfluous",
+      "phonetic": "/suːˈpɜːfluəs/",
+      "source_definition": "adj. 多余的；不必要的；过剩的",
+      "mnemonic": "super（超过）+ flu（发音类似“福”）+ ous（形容词后缀）→他觉得有福已经很好了，给他超过的东西就是不必要的→多余的；不必要的。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        35,
+        36
+      ],
+      "printed_pages": [
+        "027",
+        "028"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0147-01",
+          "pos": "adj.",
+          "gloss": "多余的；不必要的；过剩的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0147-01",
+          "sense_id": "s0147-01",
+          "english": "She gave him a look that made words superfluous.",
+          "translation": "她看了他一眼，这已表明一切，无须多言了。",
+          "target": "superfluous",
+          "target_start": 36,
+          "target_end": 47,
+          "book_label": "例",
+          "pdf_page": 36,
+          "printed_page": "028",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0147-02",
+          "sense_id": "s0147-01",
+          "english": "Of course, it is precisely these superfluous things that define human culture and ultimately what it is to be human.",
+          "translation": "当然，正是这些额外事物定义了人类文化，并最终定义了什么是人。",
+          "target": "superfluous",
+          "target_start": 33,
+          "target_end": 44,
+          "book_label": "真题",
+          "pdf_page": 36,
+          "printed_page": "028",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0148",
+      "spelling": "extravagant",
+      "phonetic": "/ɪkˈstrævəɡənt/",
+      "source_definition": "adj. 奢侈的，浪费的；过于昂贵的",
+      "mnemonic": "extra（额外的）+ vagant（发音类似“围巾”）→要买额外的围巾就是“奢侈的，浪费的”。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        36
+      ],
+      "printed_pages": [
+        "028"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0148-01",
+          "pos": "adj.",
+          "gloss": "奢侈的，浪费的；过于昂贵的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0148-01",
+          "sense_id": "s0148-01",
+          "english": "Fantasies of great wealth often involve visions of fancy cars and extravagant homes.",
+          "translation": "对巨额财富的幻想往往包括对豪华汽车和豪华住宅的幻想。",
+          "target": "extravagant",
+          "target_start": 66,
+          "target_end": 77,
+          "book_label": "真题",
+          "pdf_page": 36,
+          "printed_page": "028",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0148-01",
+          "spelling": "extravagantly",
+          "definition": "adv. 挥霍地；无节制地；过分地",
+          "relation": "derived",
+          "pdf_page": 36,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0149",
+      "spelling": "extravagance",
+      "phonetic": "/ɪkˈstrævəɡəns/",
+      "source_definition": "n. 奢侈品；铺张浪费；奢华",
+      "mnemonic": "",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        36
+      ],
+      "printed_pages": [
+        "028"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0149-01",
+          "pos": "n.",
+          "gloss": "铺张浪费；奢华",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0149-02",
+          "pos": "n.",
+          "gloss": "奢侈品",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0149-01",
+          "sense_id": "s0149-01",
+          "english": "Such extravagance is shameful when there are people starving in the world.",
+          "translation": "世界上还有人在挨饿，这样挥霍太可耻了。",
+          "target": "extravagance",
+          "target_start": 5,
+          "target_end": 17,
+          "book_label": "例",
+          "pdf_page": 36,
+          "printed_page": "028",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0150",
+      "spelling": "luxury",
+      "phonetic": "/ˈlʌkʃəri/",
+      "source_definition": "n. 奢侈；华贵；奢侈品",
+      "mnemonic": "",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        36
+      ],
+      "printed_pages": [
+        "028"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0150-01",
+          "pos": "n.",
+          "gloss": "奢侈；华贵；奢侈品",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0150-01",
+          "sense_id": "s0150-01",
+          "english": "A week by the sea is a luxury they can no longer afford.",
+          "translation": "去海边（度假）一周成了一种奢侈，他们再也负担不起了。",
+          "target": "luxury",
+          "target_start": 23,
+          "target_end": 29,
+          "book_label": "例",
+          "pdf_page": 36,
+          "printed_page": "028",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0150-02",
+          "sense_id": "s0150-01",
+          "english": "It was a luxury if you had a washing machine in those days.",
+          "translation": "那时候有洗衣机就算是奢侈了。",
+          "target": "luxury",
+          "target_start": 9,
+          "target_end": 15,
+          "book_label": "例",
+          "pdf_page": 36,
+          "printed_page": "028",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0150-01",
+          "spelling": "luxurious",
+          "definition": "adj. 奢侈的；豪华的",
+          "relation": "derived",
+          "pdf_page": 36,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0151",
+      "spelling": "surplus",
+      "phonetic": "/ˈsɜːpləs/",
+      "source_definition": "n. 剩余，过剩；adj. 过剩的，剩余的，多余的",
+      "mnemonic": "发音类似：蛇（sur）扑（p）鹿（lu）死（s）→蟒蛇把一头鹿扑死了，一次吃不完啊，所以有了“剩余”。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        36
+      ],
+      "printed_pages": [
+        "028"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0151-01",
+          "pos": "n.",
+          "gloss": "剩余，过剩",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0151-02",
+          "pos": "adj.",
+          "gloss": "过剩的，剩余的，多余的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0151-01",
+          "sense_id": "s0151-01",
+          "english": "After meeting domestic needs, any surplus will be exported.",
+          "translation": "满足国内需求后，所有的剩余产品都将销往国外。",
+          "target": "surplus",
+          "target_start": 34,
+          "target_end": 41,
+          "book_label": "例",
+          "pdf_page": 36,
+          "printed_page": "028",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0151-02",
+          "sense_id": "s0151-02",
+          "english": "If you have surplus vegetables you’ll do a vegetable soup.",
+          "translation": "如果你有多余的蔬菜，你可以做蔬菜汤。",
+          "target": "surplus",
+          "target_start": 12,
+          "target_end": 19,
+          "book_label": "真题",
+          "pdf_page": 36,
+          "printed_page": "028",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0152",
+      "spelling": "addition",
+      "phonetic": "/əˈdɪʃn/",
+      "source_definition": "n. 加法；增加；增加物；扩建部分",
+      "mnemonic": "",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        36
+      ],
+      "printed_pages": [
+        "028"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0152-01",
+          "pos": "n.",
+          "gloss": "增加；增加物",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0152-02",
+          "pos": "n.",
+          "gloss": "加法",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0152-03",
+          "pos": "n.",
+          "gloss": "扩建部分",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0152-01",
+          "sense_id": "s0152-01",
+          "english": "All of these technologies are fairly recent additions.",
+          "translation": "所有这些技术都是最近才加入的。",
+          "target": "additions",
+          "target_start": 44,
+          "target_end": 53,
+          "book_label": "例",
+          "pdf_page": 36,
+          "printed_page": "028",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0152-02",
+          "sense_id": "s0152-01",
+          "english": "We’ve just had an addition to the family.",
+          "translation": "我们家里刚刚添了一个人。",
+          "target": "addition",
+          "target_start": 18,
+          "target_end": 26,
+          "book_label": "例",
+          "pdf_page": 36,
+          "printed_page": "028",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0152-01",
+          "spelling": "additional",
+          "definition": "adj. 额外的，附加的",
+          "relation": "derived",
+          "pdf_page": 36,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0153",
+      "spelling": "multiply",
+      "phonetic": "/ˈmʌltɪplaɪ/",
+      "source_definition": "v. 增加；繁殖；乘",
+      "mnemonic": "multi（表示“多”）+ ply（联想成plus“加”）→多加→增加；繁殖。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        36,
+        37
+      ],
+      "printed_pages": [
+        "028",
+        "029"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0153-01",
+          "pos": "v.",
+          "gloss": "乘",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0153-02",
+          "pos": "v.",
+          "gloss": "增加",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0153-03",
+          "pos": "v.",
+          "gloss": "繁殖",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0153-01",
+          "sense_id": "s0153-01",
+          "english": "The children are already learning to multiply and divide.",
+          "translation": "孩子们已经开始学习乘法和除法了。",
+          "target": "multiply",
+          "target_start": 37,
+          "target_end": 45,
+          "book_label": "例",
+          "pdf_page": 37,
+          "printed_page": "029",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0153-02",
+          "sense_id": "s0153-02",
+          "english": "Cigarette smoking multiplies the risk of cancer.",
+          "translation": "抽烟会大大增加得癌症的风险。",
+          "target": "multiplies",
+          "target_start": 18,
+          "target_end": 28,
+          "book_label": "例",
+          "pdf_page": 37,
+          "printed_page": "029",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0153-01",
+          "spelling": "multiple",
+          "definition": "n. 倍数；adj. 多样的，数量多的",
+          "relation": "derived",
+          "pdf_page": 37,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0154",
+      "spelling": "multitude",
+      "phonetic": "/ˈmʌltɪtjuːd/",
+      "source_definition": "n. 众多；大量；群众；大批百姓；民众",
+      "mnemonic": "",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        37
+      ],
+      "printed_pages": [
+        "029"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0154-01",
+          "pos": "n.",
+          "gloss": "众多；大量",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0154-02",
+          "pos": "n.",
+          "gloss": "群众；大批百姓；民众",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0154-01",
+          "sense_id": "s0154-01",
+          "english": "The library offers a whole multitude of books for young readers.",
+          "translation": "图书馆为年轻读者提供大量书籍。",
+          "target": "multitude",
+          "target_start": 27,
+          "target_end": 36,
+          "book_label": "例",
+          "pdf_page": 37,
+          "printed_page": "029",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0154-02",
+          "sense_id": "s0154-02",
+          "english": "It was an elite that believed his task was to enlighten the multitude.",
+          "translation": "精英人物会认为自己的职责就是启迪群众。",
+          "target": "multitude",
+          "target_start": 60,
+          "target_end": 69,
+          "book_label": "例",
+          "pdf_page": 37,
+          "printed_page": "029",
+          "review_status": "pending",
+          "note": "原书It was an elite that believed his task结构和指代疑似有误；待核对。"
+        }
+      ],
+      "related": [],
+      "notes": [
+        "原书It was an elite that believed his task结构和指代疑似有误；待核对。"
+      ]
+    },
+    {
+      "id": "w0155",
+      "spelling": "host",
+      "phonetic": "/həʊst/",
+      "source_definition": "n. 主人；主持人；主办国（或城市、机构）；v. 主办；主持；作为主人组织（聚会）",
+      "mnemonic": "",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        37
+      ],
+      "printed_pages": [
+        "029"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0155-01",
+          "pos": "n.",
+          "gloss": "主人；主持人",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0155-02",
+          "pos": "v.",
+          "gloss": "主办；主持；作为主人组织（聚会）",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0155-03",
+          "pos": "n.",
+          "gloss": "主办国（或城市、机构）",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0155-01",
+          "sense_id": "s0155-01",
+          "english": "Ian, our host, introduced us to the other guests.",
+          "translation": "主人伊恩把我们介绍给了其他客人。",
+          "target": "host",
+          "target_start": 9,
+          "target_end": 13,
+          "book_label": "例",
+          "pdf_page": 37,
+          "printed_page": "029",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0155-02",
+          "sense_id": "s0155-02",
+          "english": "Simply arranging a meeting, making a phone call, or hosting an event is not an “official act”.",
+          "translation": "仅仅安排一次会议、拨打一个电话或举办一场活动并不是一个“官方行为”。",
+          "target": "hosting",
+          "target_start": 52,
+          "target_end": 59,
+          "book_label": "真题",
+          "pdf_page": 37,
+          "printed_page": "029",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0156",
+      "spelling": "hostile",
+      "phonetic": "/ˈhɒstaɪl/",
+      "source_definition": "adj. 敌意的，敌视的",
+      "mnemonic": "host（主人）+ i（我）+ le（了）→我每次聚会都迟到，主人对我有点“敌意”了→敌意的。",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        37
+      ],
+      "printed_pages": [
+        "029"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0156-01",
+          "pos": "adj.",
+          "gloss": "敌意的，敌视的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0156-01",
+          "sense_id": "s0156-01",
+          "english": "The speaker got a hostile reception from the audience.",
+          "translation": "演讲人遭到了听众喝倒彩。",
+          "target": "hostile",
+          "target_start": 18,
+          "target_end": 25,
+          "book_label": "例",
+          "pdf_page": 37,
+          "printed_page": "029",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0156-02",
+          "sense_id": "s0156-01",
+          "english": "But there are two distinctly separate and increasingly hostile branches.",
+          "translation": "但有两个截然不同且日益敌对的派别。",
+          "target": "hostile",
+          "target_start": 55,
+          "target_end": 62,
+          "book_label": "真题",
+          "pdf_page": 37,
+          "printed_page": "029",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0156-01",
+          "spelling": "hostility",
+          "definition": "n. 敌意，敌对",
+          "relation": "derived",
+          "pdf_page": 37,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0157",
+      "spelling": "folk",
+      "phonetic": "/fəʊk/",
+      "source_definition": "n. 人们；家人，亲属；adj. 传统民间的；民俗的；普通百姓的",
+      "mnemonic": "",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        37
+      ],
+      "printed_pages": [
+        "029"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0157-01",
+          "pos": "adj.",
+          "gloss": "传统民间的；民俗的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0157-02",
+          "pos": "n.",
+          "gloss": "人们",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0157-03",
+          "pos": "n.",
+          "gloss": "家人，亲属",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0157-04",
+          "pos": "adj.",
+          "gloss": "普通百姓的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0157-01",
+          "sense_id": "s0157-01",
+          "english": "We visited an exhibition of folk art.",
+          "translation": "我们参观了一个民间艺术展览。",
+          "target": "folk",
+          "target_start": 28,
+          "target_end": 32,
+          "book_label": "例",
+          "pdf_page": 37,
+          "printed_page": "029",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0157-02",
+          "sense_id": "s0157-02",
+          "english": "The value of work is also driving folks to continue working past retirement.",
+          "translation": "工作的价值也促使人们在退休后继续工作。",
+          "target": "folks",
+          "target_start": 34,
+          "target_end": 39,
+          "book_label": "真题",
+          "pdf_page": 37,
+          "printed_page": "029",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0158",
+      "spelling": "mass",
+      "phonetic": "/mæs/",
+      "source_definition": "n. 大量；许多；团；块；群众，平民百姓；adj. 大批的；数量极多的；广泛的",
+      "mnemonic": "",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        37
+      ],
+      "printed_pages": [
+        "029"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0158-01",
+          "pos": "n.",
+          "gloss": "大量；许多；团；块",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0158-02",
+          "pos": "n.",
+          "gloss": "群众，平民百姓",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0158-03",
+          "pos": "adj.",
+          "gloss": "大批的；数量极多的；广泛的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0158-01",
+          "sense_id": "s0158-01",
+          "english": "The sky was full of dark masses of clouds.",
+          "translation": "天空中乌云密布。",
+          "target": "masses",
+          "target_start": 25,
+          "target_end": 31,
+          "book_label": "例",
+          "pdf_page": 37,
+          "printed_page": "029",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0158-02",
+          "sense_id": "s0158-02",
+          "english": "And history should be the story of the masses.",
+          "translation": "而历史应该是人民大众的历史。",
+          "target": "masses",
+          "target_start": 39,
+          "target_end": 45,
+          "book_label": "真题",
+          "pdf_page": 37,
+          "printed_page": "029",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0158-01",
+          "spelling": "massacre",
+          "definition": "n. 屠杀；残杀",
+          "relation": "extension",
+          "pdf_page": 37,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0159",
+      "spelling": "massive",
+      "phonetic": "/ˈmæsɪv/",
+      "source_definition": "adj. 大量的，巨大的，严重的；大而重的；结实的",
+      "mnemonic": "",
+      "group_name": "32 大相关词汇",
+      "pdf_pages": [
+        37,
+        38
+      ],
+      "printed_pages": [
+        "029",
+        "030"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0159-01",
+          "pos": "adj.",
+          "gloss": "严重的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0159-02",
+          "pos": "adj.",
+          "gloss": "大量的，巨大的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0159-03",
+          "pos": "adj.",
+          "gloss": "大而重的；结实的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0159-01",
+          "sense_id": "s0159-01",
+          "english": "He suffered a massive heart attack.",
+          "translation": "他的心脏病严重发作了。",
+          "target": "massive",
+          "target_start": 14,
+          "target_end": 21,
+          "book_label": "例",
+          "pdf_page": 38,
+          "printed_page": "030",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0159-02",
+          "sense_id": "s0159-02",
+          "english": "This massive investment could change the picture rapidly in coming years.",
+          "translation": "这项大规模投资可能会在未来几年迅速改变局面。",
+          "target": "massive",
+          "target_start": 5,
+          "target_end": 12,
+          "book_label": "真题",
+          "pdf_page": 38,
+          "printed_page": "030",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0160",
+      "spelling": "mess",
+      "phonetic": "/mes/",
+      "source_definition": "n. 肮脏；杂乱；不整洁；v. 弄糟，弄乱",
+      "mnemonic": "",
+      "group_name": "33 混乱相关词汇",
+      "pdf_pages": [
+        38
+      ],
+      "printed_pages": [
+        "030"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0160-01",
+          "pos": "n.",
+          "gloss": "肮脏；杂乱；不整洁",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0160-02",
+          "pos": "v.",
+          "gloss": "弄糟，弄乱",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0160-01",
+          "sense_id": "s0160-01",
+          "english": "The kids made a mess in the bathroom.",
+          "translation": "孩子们把浴室搞得一塌糊涂。",
+          "target": "mess",
+          "target_start": 16,
+          "target_end": 20,
+          "book_label": "例",
+          "pdf_page": 38,
+          "printed_page": "030",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0160-02",
+          "sense_id": "s0160-02",
+          "english": "Careful—you’re messing my hair.",
+          "translation": "小心，你弄乱我的头发了。",
+          "target": "messing",
+          "target_start": 15,
+          "target_end": 22,
+          "book_label": "例",
+          "pdf_page": 38,
+          "printed_page": "030",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0161",
+      "spelling": "chaos",
+      "phonetic": "/ˈkeɪɒs/",
+      "source_definition": "n. 混乱，杂乱；紊乱",
+      "mnemonic": "chao（吵）+ s（死）→家里每天都吵死了→混乱。",
+      "group_name": "33 混乱相关词汇",
+      "pdf_pages": [
+        38
+      ],
+      "printed_pages": [
+        "030"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0161-01",
+          "pos": "n.",
+          "gloss": "混乱，杂乱；紊乱",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0161-01",
+          "sense_id": "s0161-01",
+          "english": "The house was in chaos after the party.",
+          "translation": "聚会后，房子里一片狼藉。",
+          "target": "chaos",
+          "target_start": 17,
+          "target_end": 22,
+          "book_label": "例",
+          "pdf_page": 38,
+          "printed_page": "030",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0161-02",
+          "sense_id": "s0161-01",
+          "english": "Beethoven’s music tends to move from chaos to order.",
+          "translation": "贝多芬的音乐往往是从混乱走向秩序。",
+          "target": "chaos",
+          "target_start": 37,
+          "target_end": 42,
+          "book_label": "真题",
+          "pdf_page": 38,
+          "printed_page": "030",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0161-01",
+          "spelling": "chaotic",
+          "definition": "adj. 混乱的",
+          "relation": "derived",
+          "pdf_page": 38,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0162",
+      "spelling": "disorder",
+      "phonetic": "/dɪsˈɔːdə(r)/",
+      "source_definition": "n. 混乱；杂乱；失调；紊乱；疾病",
+      "mnemonic": "",
+      "group_name": "33 混乱相关词汇",
+      "pdf_pages": [
+        38
+      ],
+      "printed_pages": [
+        "030"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0162-01",
+          "pos": "n.",
+          "gloss": "混乱；杂乱",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0162-02",
+          "pos": "n.",
+          "gloss": "失调；紊乱；疾病",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0162-01",
+          "sense_id": "s0162-01",
+          "english": "The room was in a state of disorder.",
+          "translation": "房间凌乱不堪。",
+          "target": "disorder",
+          "target_start": 27,
+          "target_end": 35,
+          "book_label": "例",
+          "pdf_page": 38,
+          "printed_page": "030",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0162-02",
+          "sense_id": "s0162-02",
+          "english": "And home appliances will also become so smart that controlling and operating them will result in the breakout of a new psychological disorder—kitchen rage.",
+          "translation": "家用电器也将会变得如此智能化，以至于控制和操作它们会引发一种新的心理疾病——厨房狂躁症。",
+          "target": "disorder",
+          "target_start": 133,
+          "target_end": 141,
+          "book_label": "真题",
+          "pdf_page": 38,
+          "printed_page": "030",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0162-01",
+          "spelling": "orderly",
+          "definition": "adj. 有秩序的；整洁的；守秩序的",
+          "relation": "extension",
+          "pdf_page": 38,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0163",
+      "spelling": "urge",
+      "phonetic": "/ɜːdʒ/",
+      "source_definition": "v. 主张；催促；敦促；n. 强烈的欲望；冲动",
+      "mnemonic": "发音类似“我急”→我非常着急，所以“催促”大家快点做事。",
+      "group_name": "34 urge相关词汇",
+      "pdf_pages": [
+        38
+      ],
+      "printed_pages": [
+        "030"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0163-01",
+          "pos": "v.",
+          "gloss": "催促；敦促",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0163-02",
+          "pos": "n.",
+          "gloss": "强烈的欲望；冲动",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0163-03",
+          "pos": "v.",
+          "gloss": "主张",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0163-01",
+          "sense_id": "s0163-01",
+          "english": "The authorities urged residents to stay indoors.",
+          "translation": "当局敦促居民待在室内。",
+          "target": "urged",
+          "target_start": 16,
+          "target_end": 21,
+          "book_label": "例",
+          "pdf_page": 38,
+          "printed_page": "030",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0163-02",
+          "sense_id": "s0163-02",
+          "english": "Self-expression is a basic human urge.",
+          "translation": "自我表达是人类的一种基本欲望。",
+          "target": "urge",
+          "target_start": 33,
+          "target_end": 37,
+          "book_label": "真题",
+          "pdf_page": 38,
+          "printed_page": "030",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0163-01",
+          "spelling": "urgent",
+          "definition": "adj. 迫切的，紧急的",
+          "relation": "derived",
+          "pdf_page": 38,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0164",
+      "spelling": "haste",
+      "phonetic": "/heɪst/",
+      "source_definition": "n. 急速；匆忙；仓促",
+      "mnemonic": "发音类似：恨死他→既然那么恨他，就赶紧离开他吧→急速；匆忙。",
+      "group_name": "34 urge相关词汇",
+      "pdf_pages": [
+        38
+      ],
+      "printed_pages": [
+        "030"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0164-01",
+          "pos": "n.",
+          "gloss": "急速；匆忙；仓促",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0164-01",
+          "sense_id": "s0164-01",
+          "english": "The letter had clearly been written in haste.",
+          "translation": "这封信明显是在匆忙中写的。",
+          "target": "haste",
+          "target_start": 39,
+          "target_end": 44,
+          "book_label": "例",
+          "pdf_page": 38,
+          "printed_page": "030",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0164-01",
+          "spelling": "hasten",
+          "definition": "v. 急忙进行；赶紧说（或做）；促进；使加快",
+          "relation": "derived",
+          "pdf_page": 38,
+          "note": "关联资料，未自动计入主词进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0165",
+      "spelling": "hasty",
+      "phonetic": "/ˈheɪsti/",
+      "source_definition": "adj. 匆忙的，草率的",
+      "mnemonic": "",
+      "group_name": "34 urge相关词汇",
+      "pdf_pages": [
+        38
+      ],
+      "printed_pages": [
+        "030"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0165-01",
+          "pos": "adj.",
+          "gloss": "匆忙的，草率的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0165-01",
+          "sense_id": "s0165-01",
+          "english": "She regretted her hasty words the moment she’d spoken.",
+          "translation": "那些不假思索的话一说出口她便后悔了。",
+          "target": "hasty",
+          "target_start": 18,
+          "target_end": 23,
+          "book_label": "例",
+          "pdf_page": 38,
+          "printed_page": "030",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    }
+  ],
+  "policy": "PDF24–38按扫描图人工视觉转录；词义为编辑拆分；音标尚未外部词典复核。第39页确认单元边界。"
+}

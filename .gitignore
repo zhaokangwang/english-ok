@@ -1,0 +1,6 @@
+node_modules/
+tmp/
+*.pdf
+runtime/
+__pycache__/
+*.pyc

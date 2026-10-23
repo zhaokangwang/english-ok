@@ -1,0 +1,12 @@
+PRAGMA foreign_keys = ON;
+PRAGMA user_version = 1;
+CREATE TABLE metadata (key TEXT PRIMARY KEY, value TEXT NOT NULL);
+CREATE TABLE profiles (id TEXT PRIMARY KEY, name TEXT NOT NULL);
+CREATE TABLE settings (profile_id TEXT PRIMARY KEY REFERENCES profiles(id), daily_new INTEGER NOT NULL CHECK(daily_new BETWEEN 1 AND 100), timezone TEXT NOT NULL);
+CREATE TABLE progress (profile_id TEXT NOT NULL REFERENCES profiles(id), sense_id TEXT NOT NULL, stage INTEGER NOT NULL CHECK(stage BETWEEN 0 AND 6), last_review_at TEXT NOT NULL, due_at TEXT NOT NULL, review_count INTEGER NOT NULL CHECK(review_count > 0), algorithm_version TEXT NOT NULL, PRIMARY KEY(profile_id,sense_id));
+CREATE TABLE review_events (id TEXT PRIMARY KEY, profile_id TEXT NOT NULL REFERENCES profiles(id), sense_id TEXT NOT NULL, example_id TEXT NOT NULL, rating TEXT NOT NULL CHECK(rating IN ('again','hard','good')), reviewed_at TEXT NOT NULL, due_at TEXT NOT NULL, algorithm_version TEXT NOT NULL);
+CREATE TABLE sessions (id TEXT PRIMARY KEY, profile_id TEXT NOT NULL REFERENCES profiles(id), queue_json TEXT NOT NULL, cursor INTEGER NOT NULL CHECK(cursor >= 0), updated_at TEXT NOT NULL);
+CREATE INDEX progress_due ON progress(profile_id,due_at);
+INSERT INTO metadata VALUES ('schema_version','1'),('backup_version','1');
+INSERT INTO profiles VALUES ('local-default','本机用户');
+INSERT INTO settings VALUES ('local-default',10,'Asia/Shanghai');

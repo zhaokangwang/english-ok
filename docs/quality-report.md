@@ -1,0 +1,259 @@
+# 累计质量清单
+
+范围：347个主要词条，不代表全书完整覆盖。
+
+可学习词义：478 个。
+缺可用例句的词义：208 个。
+
+## 待核实例句
+
+- react / e0004-01：原书 the resign 用法待核实；不进入学习队列。
+- steer / e0023-01：原句 keeping the team focus / and steer 并列结构疑似有误，暂不进入学习。
+- blush / e0065-01：原书第一例将 blushed furiously 译为“气得满脸通红”，情绪解读需复核；该例暂不学习。
+- dense / e0083-01：that point 原书译“那时”，空间语境疑似错译；保留原文待核对。
+- drastic / e0102-02：原书真题为介词短语残片，缺完整句子；保留但不作为学习卡。
+- redundant / e0146-02：redundant workers原书译“多余的工人”，与被裁减的词义不一致；待核实译文。
+- multitude / e0154-02：原书It was an elite that believed his task结构和指代疑似有误；待核对。
+- drag / e0215-02：原书Americans economic缺所有格标记，待核对原句，保留原文不学习。
+- brand / e0219-02：原书a decade or two years ago与译文一二十年前不一致，待核对时间表达。
+- agitate / e0241-01：agitated在本句的形容词状态与被动用法边界不明，原译为激动而非激怒，暂不计入动词词义。
+- considerable / e0247-02：原书real grass require主谓一致疑点，保留原句待核对。
+- transfer / e0259-02：transfer在本句译适用于，未直接对应原书转移搬迁释义，待补独立语境映射。
+- refer / e0261-02：refers to在本句为指的是，不直接等同原书提到谈及，暂不学习。
+- manner / e0272-02：原书为短语残片，缺完整语境，不进入学习队列。
+- imply / e0294-01：implied criticism为形容词/分词定语，未直接作为imply动词学习卡。
+- investigate / e0299-01：原书one class sessions’的单复数及所有格存在疑点，保留原文待核对。
+- organise / e0306-02：organising committee为定语用法，暂不直接计作组织动词义。
+- allege / e0314-02：alleged为所谓的/被指称的定语用法，先保留待独立词性映射。
+- scan / e0336-02：brain-scan为复合定语，扫描检查名词语义需独立复核，暂不计入进度。
+
+## 暂不进入学习队列的词义
+
+- action / s0001-02：功能，作用
+- active / s0003-02：起作用的
+- react / s0004-02：起化学反应
+- exact / s0005-02：严谨的
+- exact / s0005-03：要求；强迫；强求
+- interact / s0007-02：相互影响，相互作用
+- behave / s0008-02：表现
+- conduct / s0009-03：实施，执行
+- conduct / s0009-04：指挥；引导
+- conduct / s0009-05：传导
+- direct / s0010-02：直接的
+- stale / s0013-03：（空气）污浊的
+- stale / s0013-04：厌倦的
+- flesh / s0015-02：肉；肉体；皮肤
+- restore / s0017-02：归还
+- renovate / s0019-02：重新粉刷
+- steer / s0023-01：引导
+- steer / s0023-02：驾驶（船、汽车等）；操纵；控制
+- award / s0024-02：授予
+- reward / s0025-02：奖赏；奖励
+- awkward / s0026-02：难处理的
+- awkward / s0026-03：笨拙的
+- prize / s0028-02：珍视
+- rise / s0029-03：上升；（数字、数量、价值）增加
+- rise / s0029-04：起义，反抗
+- arise / s0030-02：发生；产生；出现
+- arouse / s0031-02：唤醒
+- raise / s0032-03：加薪
+- raise / s0032-04：提及
+- raise / s0032-05：饲养
+- dismay / s0036-02：诧异；惊愕
+- dismay / s0036-03：使失望；使惊愕
+- recreation / s0039-02：再造
+- gamble / s0040-02：冒险，投机；赌博
+- retire / s0042-02：退役；退出
+- fare / s0045-02：成功（或不成功、更好等）
+- welfare / s0048-02：幸福；安康
+- pension / s0049-02：给……发养老金（退休金）
+- allowance / s0050-02：限额
+- allowance / s0050-03：免税额
+- benefit / s0053-03：津贴，救济金
+- profit / s0054-02：获益；得到好处；对……有用（或有益）
+- profound / s0056-02：深奥的
+- foundation / s0057-03：根据
+- foundation / s0057-04：基金会
+- loom / s0058-02：显得突出；赫然耸现
+- loom / s0058-03：织布机
+- boom / s0059-03：隆隆声；激增
+- boom / s0059-04：激增；繁荣
+- bloom / s0060-03：变得健康
+- gloom / s0061-02：幽暗；黑暗；昏暗
+- boost / s0062-02：提高；增长
+- toast / s0064-03：烤，烘
+- toast / s0064-04：祝酒，敬酒
+- blush / s0065-01：脸红
+- blush / s0065-03：羞愧，尴尬
+- flush / s0066-03：脸红；冲洗
+- splash / s0067-03：溅上的液体；溅洒后留下的污渍
+- betray / s0068-02：泄露
+- groan / s0071-03：呻吟声；叹息声；抱怨
+- gross / s0072-02：严重的；粗鲁的
+- gross / s0072-03：毛收入；总收入
+- moan / s0073-03：呼啸
+- moan / s0073-04：呻吟声；呼啸声；抱怨
+- appeal / s0075-03：有吸引力
+- appeal / s0075-04：上诉
+- appeal / s0075-05：呼吁，恳请
+- challenge / s0077-02：质疑
+- challenge / s0077-03：向……挑战；质疑
+- bill / s0082-02：议案，法案；传单；票据；清单
+- dense / s0083-02：难懂的
+- compact / s0085-03：简洁的
+- compact / s0085-04：压紧
+- impact / s0086-02：碰撞
+- impact / s0086-03：撞击；冲击；影响
+- influence / s0087-03：有影响的人或物
+- democratic / s0091-02：（美国）民主党的
+- scratch / s0092-03：划破
+- harness / s0093-02：马具；背带
+- vote / s0094-02：选举，投票；表决
+- veto / s0095-02：否决（权）；禁止
+- levy / s0097-02：征收额；税款
+- envy / s0098-02：嫉妒，妒忌；羡慕
+- drama / s0100-02：戏剧性事件
+- drastic / s0102-02：极端的；严厉的；猛烈的
+- comedy / s0104-02：滑稽
+- declare / s0105-02：表明；宣称；断言
+- exhaust / s0108-02：使筋疲力尽
+- exhaust / s0108-03：废气
+- weary / s0110-02：令人厌烦的
+- weary / s0110-03：（使）疲劳；疲倦
+- render / s0111-03：回报
+- damp / s0113-03：使潮湿
+- dump / s0114-03：垃圾场；废物堆
+- default / s0123-02：默认
+- default / s0123-03：违约；默认
+- absent / s0124-03：心不在焉的
+- present / s0125-02：出现的；在场的
+- present / s0125-03：礼物；目前；现在
+- present / s0125-04：颁发；授予；显示，表现；提出，提交
+- represent / s0126-02：展示，描绘
+- sharp / s0131-03：清晰的；急剧的
+- blunt / s0132-03：率直的
+- giant / s0136-03：巨人；伟人；巨兽
+- flock / s0144-03：信众；追随者
+- redundant / s0146-02：被裁减的
+- extravagance / s0149-02：奢侈品
+- addition / s0152-02：加法
+- addition / s0152-03：扩建部分
+- multiply / s0153-03：繁殖
+- multitude / s0154-02：群众；大批百姓；民众
+- host / s0155-03：主办国（或城市、机构）
+- folk / s0157-03：家人，亲属
+- folk / s0157-04：普通百姓的
+- mass / s0158-03：大批的；数量极多的；广泛的
+- massive / s0159-03：大而重的；结实的
+- urge / s0163-03：主张
+- agent / s0166-02：动因
+- agency / s0167-02：（政府的）专门机构
+- convention / s0173-03：公约
+- rough / s0179-03：粗野的
+- tough / s0182-02：坚强的，不屈不挠的
+- tender / s0183-02：嫩的，柔软的；脆弱的
+- tremble / s0187-03：极担心；焦虑；恐惧
+- lean / s0188-03：瘦的；精干的
+- anxiety / s0190-02：渴望
+- ignorant / s0192-02：无学识的
+- neglect / s0193-03：忽略；忽视；不予重视
+- cheat / s0199-03：欺骗手段；欺诈行为
+- idle / s0204-02：无所事事，虚度
+- adolescent / s0205-02：青少年
+- recruit / s0210-02：新兵，新成员
+- stride / s0212-03：进展
+- crawl / s0214-03：缓慢行进
+- crawl / s0214-04：爬行
+- drag / s0215-02：累赘，拖累
+- drag / s0215-03：令人厌烦的人；乏味无聊的事
+- lag / s0216-02：缓慢移动；发展缓慢
+- label / s0218-02：标签；称谓
+- label / s0218-03：贴标签于
+- brand / s0219-02：类型；烙印
+- faint / s0220-03：（光、声、味）微弱的；不清楚的；可能性不大的
+- stun / s0221-02：打昏
+- stun / s0221-03：给以深刻的印象
+- dizzy / s0222-02：愚蠢的
+- dazzle / s0223-03：（美貌、技能等）使倾倒
+- elegant / s0225-02：精美的
+- disgrace / s0227-02：丢脸的人或事
+- disgrace / s0227-03：使丢脸；使蒙受耻辱
+- glow / s0228-03：微弱稳定的光
+- glow / s0228-04：发热
+- polish / s0230-02：擦亮，磨光
+- polish / s0230-03：亮光剂
+- glitter / s0231-02：灿烂的光辉；闪烁；闪耀
+- literary / s0233-02：有典型文学作品特征的
+- literal / s0234-02：缺乏想象力的
+- literacy / s0235-02：特定领域的知识或技能
+- craft / s0239-02：精心制作
+- thrill / s0240-03：震颤感
+- agitate / s0241-01：激怒，使不安
+- agitate / s0241-02：煽动，鼓动
+- transfer / s0259-02：（使）调动；转职，转学；改变（环境）
+- refer / s0261-02：提到，谈及
+- avail / s0270-02：有帮助；有益；有用
+- manner / s0272-02：方法，方式
+- manner / s0272-03：举止
+- mode / s0273-02：方式；风格；样式
+- alternative / s0279-03：非传统的
+- moderate / s0282-03：温和的
+- rate / s0283-03：比率
+- rate / s0283-04：价格；费用
+- demonstrate / s0286-02：表现；表达；表露
+- demonstrate / s0286-03：示范；演示
+- demonstrate / s0286-04：游行，示威
+- illustrate / s0287-03：加插图于；给（书等）做图表
+- indicate / s0289-03：暗示
+- hint / s0291-03：暗示；提示
+- hint / s0291-04：秘诀
+- imply / s0294-01：暗示，暗指
+- investigate / s0299-01：调查，研究
+- probe / s0300-03：探究；详尽调查
+- survey / s0301-03：勘测
+- survey / s0301-04：勘测
+- deliver / s0303-03：发表，宣布；发布
+- organ / s0304-02：机构，机关
+- organic / s0305-02：有机物的；生物的
+- organic / s0305-03：器官的；器质性的；官能的
+- mute / s0308-03：消音；减音；减弱（尤指乐器）的声音
+- plunge / s0310-03：使突然前冲（或下落）
+- plunge / s0310-04：（数量、价格的）暴跌；猛降，骤减
+- parcel / s0311-02：打包，包
+- wrap / s0313-03：（女用）披肩，围巾，裹巾
+- pledge / s0315-02：保证；诺言；誓言
+- assure / s0316-02：弄清
+- guarantee / s0319-03：保证金；保修单
+- conquer / s0320-03：（尤指比赛、赛跑等中）击败，战胜
+- defeat / s0321-03：失败；战败；挫败；战胜
+- attack / s0324-03：袭击，攻击；抨击
+- contrast / s0328-02：对比；对照
+- keen / s0331-02：思维敏捷的
+- despair / s0334-02：绝望
+- scan / s0336-02：扫描检查
+- scan / s0336-03：细看，审视；扫描
+- scan / s0336-04：浏览
+- glare / s0339-03：怒目而视
+- glare / s0339-04：发出刺眼的光线
+- subordinate / s1001-03：次要的
+- subordinate / s1001-04：使从属于
+
+## 全局复核项
+
+- 音标已按扫描页视觉转录，尚未做外部词典复核。
+- 真题仅保留原书标签，年份题号未核实。
+- 词义拆分为编辑判断，需要你确认拆分粒度。
+- 派生例句在associated-material及批次associated文件中，暂未生成独立学习卡。
+- 原始证据为项目PDF；transcripts内是人工转录初稿，不是OCR。
+
+## 关联素材中隔离的内容
+
+- batch-002 / arouse / PDF 15：原书放在arouse下，但arose是arise过去式；未自动改挂，待编辑确认。
+- batch-002 / recreation / PDF 17：原书将recreation译为再造；结合上下文疑似应为休闲娱乐，保留原译待核实。
+- batch-003 / dramatically / PDF 27：原书bodies指代和译文疑似不匹配，需回原文核对。
+- batch-003 / humour / PDF 31：good humor更接近愉快心情，原译与主词义匹配待核对；不直接计作幽默词义。
+- batch-003 / default / PDF 31：default作定语，原书只列n.和v.；未挂到名词或动词进度，待补独立用法。
+- batch-004 / convince / PDF 41：be convinced of为确信的状态用法；先隔离待独立词义映射，不直接计入使确信动词进度。
+- batch-004 / polish / PDF 51：polished work的精雕细琢为引申形容词义，原书未列；待另行映射。
+- batch-005 / available / PDF 59：原书residents health疑缺所有格，待核对原文。
+- batch-005 / alternate / PDF 60：extreme cold and warm名词/形容词并列疑点，待核对。

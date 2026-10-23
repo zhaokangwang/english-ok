@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="zh-CN">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>English OK · 语境学词</title><link rel="stylesheet" href="style.css">
+<body><main class="app">
+<header class="header"><div><span class="tag">ENGLISH OK</span><h1 id="page-title">语境学词</h1></div><span class="local-label">本地词库</span></header>
+<div id="status" role="status">正在打开本地词库…</div>
+<section id="study-page" class="page study-page" aria-label="学习">
+<div class="study-meta"><span>读懂一句，再记住一个意思</span><span id="position"></span></div>
+<div class="study-scroll" id="study-scroll"><div id="task"></div></div>
+<div class="study-dock"><button id="more-content" class="primary wide" hidden disabled>继续学习新增内容</button><button id="reveal" class="primary" disabled>查看讲解</button><div id="ratings" class="rating-grid" hidden><button data-rating="again" disabled>不会<span>再学一次</span></button><button data-rating="hard" disabled>模糊<span>需要巩固</span></button><button data-rating="good" class="primary" disabled>掌握<span>继续下一个</span></button></div><button id="full-entry" class="text-button" disabled>查看完整词条 →</button></div>
+</section>
+<section id="vocab-page" class="page scroll-page" aria-label="词库" hidden>
+<div id="vocab-list"><p class="muted">按单元快速预览 · 左侧英文，右侧中文</p><div id="unit-list"></div></div><div id="vocab-detail" hidden><button id="back-list" class="text-button">← 返回单词列表</button><button id="back-study" class="text-button" hidden>← 返回当前学习</button><article id="word" class="card"></article></div>
+</section>
+<section id="settings-page" class="page scroll-page" aria-label="设置" hidden>
+<section class="card"><span class="tag">学习记录</span><h2 id="progress"></h2><p class="muted">每次反馈自动保存在当前浏览器，退出后可以继续。</p></section>
+<section class="card"><h2>数据管理</h2><p>换设备、换网址或清理网站数据前，请先导出备份。</p><button id="export" class="primary wide" disabled>导出学习备份</button><button id="import" class="wide" disabled>从备份恢复</button><input id="file" type="file" accept="application/json,.json" hidden><p class="meta">恢复会替换本机学习记录，不会更改词库。请先备份。</p><details><summary>更多数据选项</summary><button id="sqlite" disabled>导出 SQLite 文件</button><h3>最近的学习记录</h3><pre id="history"></pre></details></section>
+<p class="meta about">当前为分批导入的试用词库，复习间隔使用演示规则。尚未提供音频、正式每日任务与离线启动缓存。</p>
+</section>
+<nav class="navigation" aria-label="主导航"><a href="#study" data-page="study" aria-current="page"><span>◉</span>学习</a><a href="#vocab" data-page="vocab"><span>▤</span>词库</a><a href="#settings" data-page="settings"><span>⚙</span>设置</a></nav>
+</main><script src="vendor/sql-wasm.js"></script><script type="module" src="app.mjs"></script></body></html>

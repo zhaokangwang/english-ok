@@ -1,2 +1,72 @@
-# english-ok
-英语学习app
+# English OK · 第一步数据样本
+
+先审核词汇内容，再开发完整学习产品。当前累计导入五批：345个主要词条、680个拆分词义、635条例句，其中474个词义可学习。第一单元165词、第二单元180词主词已收录完整。派生资料和待核实内容另存，音标未作外部词典复核。
+
+## 先看内容
+
+- [累计审阅稿](docs/sample-review.md)：单词、词义、例句、翻译、页码和疑点。
+- [第二批审阅稿](docs/batch-002-review.md)：本轮新增60个主词。
+- [第三批审阅稿](docs/batch-003-review.md)：sketch至hasty，新增85个主词，第一单元收尾。
+- [第四批审阅稿](docs/batch-004-review.md)：第二单元agent至prevail，新增104个主词。
+- [第五批审阅稿](docs/batch-005-review.md)：avail至stare，新增76个主词，第二单元收尾。
+- [批次清单](docs/batch-plan.md)、[导入规则](docs/import-rules.md)、[导入报告](docs/import-report.md)。
+- 结构化输入：[第一批](content/sample.json)、[第二批](content/batches/batch-002.json)、[第三批](content/batches/batch-003.json)、[第四批](content/batches/batch-004.json)，由[批准清单](content/import-plan.json)累计合并。
+- [来源清单](content/source-manifest.json)：原文件SHA256、页数、抽样范围。
+- [关联素材](content/associated-material.json)：派生词例句，未混进主词学习任务。
+- [质量清单](docs/quality-report.md)：待核实内容和缺例句的词义。
+- [架构与限制](docs/architecture.md)：存储实现、迁移和未验证事项。
+- [验证记录](docs/verification.md)：自动检查和桌面浏览器验证范围。
+
+## 本地打开
+
+依赖：Node.js 18+。运行资源已放在 web/vendor，无需公网即可启动：
+
+```powershell
+npm run dev
+```
+
+电脑打开 http://127.0.0.1:5173 。手机同一Wi-Fi测试使用：
+
+```powershell
+npm run dev:lan
+```
+
+打开终端显示的 Phone 地址。如防火墙拦截，仅允许需要的专用网络。按 Ctrl+C 停止。不要同时运行两个同端口服务。
+
+当前不是PWA：没有离线启动缓存，关闭电脑后不能保证网页继续打开。数据本身保存在手机浏览器，程序不会上传。没有发音音频。
+
+## 数据文件
+
+- web/data/vocabulary.sqlite：可重复生成的累计词库，当前345词。
+- web/data/learning.sqlite：空白模板，不能当成用户正在使用的数据库。
+- 实际个人记录：浏览器IndexedDB english-ok-sqlite，页面可导出JSON或SQLite。
+- 不要清除网站数据；换网址或换设备前先导出JSON，再在新环境导入。
+- 导入会替换本地学习记录；不会合并两个设备的记录。
+
+## 重建与检查
+
+首次准备或依赖更新需要联网安装；正常运行无CDN请求：
+
+```powershell
+npm ci
+npm run prepare:web
+```
+
+Python 3.11+与pypdf用于从现有PDF重新生成来源清单和数据库：
+
+```powershell
+python scripts/build_data.py
+npm test
+```
+
+build_data.py读取批准清单中的输入，验证身份和关联后发布累计词库，不会覆盖浏览器个人进度。seed_sample.py与transcribe_batch*.py是最初转录脚本，通常不重新运行，以免覆盖后续人工修改的JSON。原PDF保持不变；渲染图片在tmp/pdfs。
+
+正在学习的旧队列不会自动重排，完成后可点击“继续学习新增内容”。新用户会读取当前全部可学习词义。仍未实现正式按日任务。
+
+导入检查：
+
+```powershell
+python -m unittest discover -s tests -p "test_*.py"
+```
+
+当前测试覆盖SQLite字节重开、事务回滚、备份恢复、坏备份拒绝、内容更新不覆盖进度、演示复习间隔。iPhone和安卓真机需另外验证，不以桌面测试替代。

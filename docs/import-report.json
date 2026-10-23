@@ -1,0 +1,86 @@
+{
+  "content_version": "vocabulary-0.5.1",
+  "source_sha256": "ce735354542374bf39479773e1ca2ce79456292cb310f9fcea61b1ff42a783d5",
+  "totals": {
+    "words": 347,
+    "senses": 686,
+    "examples": 639,
+    "ready_senses": 478,
+    "pending_examples": 19
+  },
+  "batches": [
+    {
+      "id": "batch-001",
+      "file": "content/sample.json",
+      "associated_items": 9,
+      "words": 20,
+      "senses": 39,
+      "examples": 34,
+      "ready_senses": 23,
+      "pending_examples": 1
+    },
+    {
+      "id": "batch-002",
+      "file": "content/batches/batch-002.json",
+      "associated_items": 17,
+      "words": 60,
+      "senses": 132,
+      "examples": 102,
+      "ready_senses": 79,
+      "pending_examples": 2
+    },
+    {
+      "id": "batch-003",
+      "file": "content/batches/batch-003.json",
+      "associated_items": 23,
+      "words": 85,
+      "senses": 164,
+      "examples": 156,
+      "ready_senses": 116,
+      "pending_examples": 4
+    },
+    {
+      "id": "batch-004",
+      "file": "content/batches/batch-004.json",
+      "associated_items": 31,
+      "words": 104,
+      "senses": 188,
+      "examples": 193,
+      "ready_senses": 142,
+      "pending_examples": 6
+    },
+    {
+      "id": "batch-005",
+      "file": "content/batches/batch-005.json",
+      "associated_items": 23,
+      "words": 76,
+      "senses": 157,
+      "examples": 150,
+      "ready_senses": 114,
+      "pending_examples": 6
+    },
+    {
+      "id": "batch-007",
+      "file": "content/batches/batch-007.json",
+      "associated_items": 0,
+      "words": 2,
+      "senses": 6,
+      "examples": 4,
+      "ready_senses": 4,
+      "pending_examples": 0
+    }
+  ],
+  "checks": [
+    "source fingerprint",
+    "unique IDs and normalized spellings",
+    "existing identity preservation",
+    "example-sense and word association",
+    "target substring offsets",
+    "ready sense has checked example",
+    "foreign_key_check"
+  ],
+  "notes": [
+    "学习数据库未读取或修改。",
+    "重复构建是幂等的累计发布，不重复插入。"
+  ]
+}

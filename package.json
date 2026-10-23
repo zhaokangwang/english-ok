@@ -1,0 +1,26 @@
+{
+  "name": "english-ok",
+  "version": "0.1.0",
+  "description": "离线词库与学习进度样本验证",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "dev:lan": "node scripts/serve.mjs --lan",
+    "prepare:web": "node scripts/prepare_web.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaokangwang/english-ok.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaokangwang/english-ok/issues"
+  },
+  "homepage": "https://github.com/zhaokangwang/english-ok#readme",
+  "dependencies": {
+    "sql.js": "1.15.1"
+  },
+  "private": true
+}

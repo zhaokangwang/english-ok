@@ -1,0 +1,3812 @@
+{
+  "format_version": 1,
+  "content_version": "batch-002-v1",
+  "source_id": "src-0001",
+  "method": "manual_visual_transcription",
+  "words": [
+    {
+      "id": "w0021",
+      "spelling": "recur",
+      "phonetic": "/rɪˈkɜː(r)/",
+      "source_definition": "v. 再发生；反复出现",
+      "mnemonic": "re（再次）+ cur（联想成occur“发生”）→再次发生→再发生。",
+      "group_name": "04 旧、新相关词汇",
+      "pdf_pages": [
+        13
+      ],
+      "printed_pages": [
+        "005"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0021-01",
+          "pos": "v.",
+          "gloss": "再发生；反复出现",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0021-01",
+          "sense_id": "s0021-01",
+          "english": "Certain fevers recur at regular intervals.",
+          "translation": "有些发烧会周期性复发。",
+          "target": "recur",
+          "target_start": 15,
+          "target_end": 20,
+          "book_label": "例",
+          "pdf_page": 13,
+          "printed_page": "005",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0021-02",
+          "sense_id": "s0021-01",
+          "english": "Cartwright believes one can exercise conscious control over recurring bad dreams.",
+          "translation": "卡特赖特认为，一个人可以有意识地控制反复出现的噩梦。",
+          "target": "recurring",
+          "target_start": 60,
+          "target_end": 69,
+          "book_label": "真题",
+          "pdf_page": 13,
+          "printed_page": "005",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0022",
+      "spelling": "curb",
+      "phonetic": "/kɜːb/",
+      "source_definition": "n. & v. 控制；抑制",
+      "mnemonic": "cur（联想成occur“发生”）+ b（联想成“不”）→不想让一件事情发生，就要“控制，抑制”它。",
+      "group_name": "05 控制相关词汇",
+      "pdf_pages": [
+        14
+      ],
+      "printed_pages": [
+        "006"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0022-01",
+          "pos": "v.",
+          "gloss": "控制；抑制",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0022-02",
+          "pos": "n.",
+          "gloss": "控制；抑制",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0022-01",
+          "sense_id": "s0022-01",
+          "english": "He needs to learn to curb his temper.",
+          "translation": "他得学着控制自己的脾气。",
+          "target": "curb",
+          "target_start": 21,
+          "target_end": 25,
+          "book_label": "例",
+          "pdf_page": 14,
+          "printed_page": "006",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0022-02",
+          "sense_id": "s0022-02",
+          "english": "Curbs on business-method claims would be a dramatic about-face.",
+          "translation": "对商业方法专利申请的限制将是一个戏剧性的转变。",
+          "target": "Curbs",
+          "target_start": 0,
+          "target_end": 5,
+          "book_label": "真题",
+          "pdf_page": 14,
+          "printed_page": "006",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0023",
+      "spelling": "steer",
+      "phonetic": "/stɪə(r)/",
+      "source_definition": "v. 驾驶（船、汽车等）；操纵；控制；引导",
+      "mnemonic": "st（联想成street“街”）+ ee（联想成“两只眼睛”）+ r →新手“驾驶汽车”上街的时候，一般会两眼紧张地看着前方→驾驶。",
+      "group_name": "05 控制相关词汇",
+      "pdf_pages": [
+        14
+      ],
+      "printed_pages": [
+        "006"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0023-01",
+          "pos": "v.",
+          "gloss": "引导",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0023-02",
+          "pos": "v.",
+          "gloss": "驾驶（船、汽车等）；操纵；控制",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0023-01",
+          "sense_id": "s0023-01",
+          "english": "This growth leader is also responsible for keeping the team focus on moving forward and steer them clear of distractions.",
+          "translation": "这位成长型领导者还负责保持团队专注于向前发展，并使他们摆脱分心的事情。",
+          "target": "steer",
+          "target_start": 88,
+          "target_end": 93,
+          "book_label": "真题",
+          "pdf_page": 14,
+          "printed_page": "006",
+          "review_status": "pending",
+          "note": "原句 keeping the team focus / and steer 并列结构疑似有误，暂不进入学习。"
+        }
+      ],
+      "related": [],
+      "notes": [
+        "原句 keeping the team focus / and steer 并列结构疑似有误，暂不进入学习。"
+      ]
+    },
+    {
+      "id": "w0024",
+      "spelling": "award",
+      "phonetic": "/əˈwɔːd/",
+      "source_definition": "n. 奖，奖品；奖金；v. 授予",
+      "mnemonic": "a（一个）+ ward（联想成word“单词”）→就要下课了，老师再多讲一个单词吧，作为大家认真听课的奖励→奖品。",
+      "group_name": "06 -ward相关词汇",
+      "pdf_pages": [
+        14
+      ],
+      "printed_pages": [
+        "006"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0024-01",
+          "pos": "n.",
+          "gloss": "奖，奖品；奖金",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0024-02",
+          "pos": "v.",
+          "gloss": "授予",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0024-01",
+          "sense_id": "s0024-01",
+          "english": "She was recently honoured with a lifetime achievement award.",
+          "translation": "她最近被授予终身成就奖。",
+          "target": "award",
+          "target_start": 54,
+          "target_end": 59,
+          "book_label": "例",
+          "pdf_page": 14,
+          "printed_page": "006",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0024-02",
+          "sense_id": "s0024-01",
+          "english": "A town of culture award could become an annual event.",
+          "translation": "文化小镇奖可以成为一年一度的活动。",
+          "target": "award",
+          "target_start": 18,
+          "target_end": 23,
+          "book_label": "真题",
+          "pdf_page": 14,
+          "printed_page": "006",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0025",
+      "spelling": "reward",
+      "phonetic": "/rɪˈwɔːd/",
+      "source_definition": "n. 奖励；回报；报酬；v. 奖赏；奖励",
+      "mnemonic": "re（再）+ ward（联想成word“单词”）→老师再多讲一个单词吧，作为大家认真听课的“奖励”。",
+      "group_name": "06 -ward相关词汇",
+      "pdf_pages": [
+        14
+      ],
+      "printed_pages": [
+        "006"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0025-01",
+          "pos": "n.",
+          "gloss": "奖励；回报；报酬",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0025-02",
+          "pos": "v.",
+          "gloss": "奖赏；奖励",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0025-01",
+          "sense_id": "s0025-01",
+          "english": "You deserve a reward for being so helpful.",
+          "translation": "你帮了这么大的忙，理应受到奖励。",
+          "target": "reward",
+          "target_start": 14,
+          "target_end": 20,
+          "book_label": "例",
+          "pdf_page": 14,
+          "printed_page": "006",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0025-02",
+          "sense_id": "s0025-01",
+          "english": "Scientists need journals in which to publish their research, so they will supply the articles without monetary reward.",
+          "translation": "科学家需要一些期刊来发表他们的研究成果，因此他们会无偿提供文章。",
+          "target": "reward",
+          "target_start": 111,
+          "target_end": 117,
+          "book_label": "真题",
+          "pdf_page": 14,
+          "printed_page": "006",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0026",
+      "spelling": "awkward",
+      "phonetic": "/ˈɔːkwəd/",
+      "source_definition": "adj. 令人尴尬的；难处理的；笨拙的；不舒适的",
+      "mnemonic": "发音类似“拗口word”→当你在很多人面前把一个单词读得很拗口时，感觉是很尴尬的→令人尴尬的。",
+      "group_name": "06 -ward相关词汇",
+      "pdf_pages": [
+        14
+      ],
+      "printed_pages": [
+        "006"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0026-01",
+          "pos": "adj.",
+          "gloss": "令人尴尬的；不舒适的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0026-02",
+          "pos": "adj.",
+          "gloss": "难处理的",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0026-03",
+          "pos": "adj.",
+          "gloss": "笨拙的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0026-01",
+          "sense_id": "s0026-01",
+          "english": "After he spoke, there was an awkward silence.",
+          "translation": "他发言之后是一阵令人尴尬的沉默。",
+          "target": "awkward",
+          "target_start": 29,
+          "target_end": 36,
+          "book_label": "例",
+          "pdf_page": 14,
+          "printed_page": "006",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0026-02",
+          "sense_id": "s0026-01",
+          "english": "If you feel awkward being humorous, you must practice so that it becomes more natural.",
+          "translation": "如果你在幽默时感到很别扭，你应该进行练习，使它变得更自然。",
+          "target": "awkward",
+          "target_start": 12,
+          "target_end": 19,
+          "book_label": "真题",
+          "pdf_page": 14,
+          "printed_page": "006",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0027",
+      "spelling": "praise",
+      "phonetic": "/preɪz/",
+      "source_definition": "n. & v. 表扬，赞美",
+      "mnemonic": "摔跤比赛中，你打倒了对手，对手趴（p）在地上，举起（raise）大拇指，就是在“表扬”你啊。",
+      "group_name": "07 praise形近词及近义词",
+      "pdf_pages": [
+        15
+      ],
+      "printed_pages": [
+        "007"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0027-01",
+          "pos": "n.",
+          "gloss": "表扬，赞美",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0027-02",
+          "pos": "v.",
+          "gloss": "表扬，赞美",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0027-01",
+          "sense_id": "s0027-01",
+          "english": "His teachers are full of praise for the progress he has made.",
+          "translation": "老师们对他的进步赞不绝口。",
+          "target": "praise",
+          "target_start": 25,
+          "target_end": 31,
+          "book_label": "例",
+          "pdf_page": 15,
+          "printed_page": "007",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0027-02",
+          "sense_id": "s0027-02",
+          "english": "Retail trade groups praised the ruling.",
+          "translation": "零售贸易组织对这一裁决表示赞赏。",
+          "target": "praised",
+          "target_start": 20,
+          "target_end": 27,
+          "book_label": "真题",
+          "pdf_page": 15,
+          "printed_page": "007",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0028",
+      "spelling": "prize",
+      "phonetic": "/praɪz/",
+      "source_definition": "n. 奖赏；奖金；奖品；v. 珍视",
+      "mnemonic": "",
+      "group_name": "07 praise形近词及近义词",
+      "pdf_pages": [
+        15
+      ],
+      "printed_pages": [
+        "007"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0028-01",
+          "pos": "n.",
+          "gloss": "奖赏；奖金；奖品",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0028-02",
+          "pos": "v.",
+          "gloss": "珍视",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0028-01",
+          "sense_id": "s0028-01",
+          "english": "She was awarded the Nobel Peace Prize.",
+          "translation": "她获颁诺贝尔和平奖。",
+          "target": "Prize",
+          "target_start": 32,
+          "target_end": 37,
+          "book_label": "例",
+          "pdf_page": 15,
+          "printed_page": "007",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0028-02",
+          "sense_id": "s0028-01",
+          "english": "She has received numerous prizes for her work.",
+          "translation": "她的工作获得了许多奖项。",
+          "target": "prizes",
+          "target_start": 26,
+          "target_end": 32,
+          "book_label": "例",
+          "pdf_page": 15,
+          "printed_page": "007",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0029",
+      "spelling": "rise",
+      "phonetic": "/raɪz/",
+      "source_definition": "n. 上升，增加；v. 上升；（数字、数量、价值）增加；起身；起义，反抗",
+      "mnemonic": "",
+      "group_name": "07 praise形近词及近义词",
+      "pdf_pages": [
+        15
+      ],
+      "printed_pages": [
+        "007"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0029-01",
+          "pos": "v.",
+          "gloss": "起身",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0029-02",
+          "pos": "n.",
+          "gloss": "上升，增加",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0029-03",
+          "pos": "v.",
+          "gloss": "上升；（数字、数量、价值）增加",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0029-04",
+          "pos": "v.",
+          "gloss": "起义，反抗",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0029-01",
+          "sense_id": "s0029-01",
+          "english": "They rose from the table.",
+          "translation": "他们从餐桌旁站起身。",
+          "target": "rose",
+          "target_start": 5,
+          "target_end": 9,
+          "book_label": "例",
+          "pdf_page": 15,
+          "printed_page": "007",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0029-02",
+          "sense_id": "s0029-02",
+          "english": "Everybody loves a fat pay rise.",
+          "translation": "人人都喜欢大幅加薪。",
+          "target": "rise",
+          "target_start": 26,
+          "target_end": 30,
+          "book_label": "真题",
+          "pdf_page": 15,
+          "printed_page": "007",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0030",
+      "spelling": "arise",
+      "phonetic": "/əˈraɪz/",
+      "source_definition": "v. 发生；产生；出现；由……引起",
+      "mnemonic": "a（一个）+ rise（升起）→一个太阳升起的景象“出现”了。",
+      "group_name": "07 praise形近词及近义词",
+      "pdf_pages": [
+        15
+      ],
+      "printed_pages": [
+        "007"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0030-01",
+          "pos": "v.",
+          "gloss": "由……引起",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0030-02",
+          "pos": "v.",
+          "gloss": "发生；产生；出现",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0030-01",
+          "sense_id": "s0030-01",
+          "english": "His failure arose from his laziness.",
+          "translation": "他的失败是由懒惰引起的。",
+          "target": "arose",
+          "target_start": 12,
+          "target_end": 17,
+          "book_label": "例",
+          "pdf_page": 15,
+          "printed_page": "007",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0030-02",
+          "sense_id": "s0030-01",
+          "english": "It is speculated that gardens arise from a basic human need in the individuals who made them.",
+          "translation": "据推测，花园源于创造者的一种基本的人类需求。",
+          "target": "arise",
+          "target_start": 30,
+          "target_end": 35,
+          "book_label": "真题",
+          "pdf_page": 15,
+          "printed_page": "007",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0031",
+      "spelling": "arouse",
+      "phonetic": "/əˈraʊz/",
+      "source_definition": "v. 唤醒；唤起，引起，激起",
+      "mnemonic": "",
+      "group_name": "07 praise形近词及近义词",
+      "pdf_pages": [
+        15
+      ],
+      "printed_pages": [
+        "007"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0031-01",
+          "pos": "v.",
+          "gloss": "唤起，引起，激起",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0031-02",
+          "pos": "v.",
+          "gloss": "唤醒",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0031-01",
+          "sense_id": "s0031-01",
+          "english": "My curiosity was fully aroused by his expression.",
+          "translation": "他的表情完全激起了我的好奇心。",
+          "target": "aroused",
+          "target_start": 23,
+          "target_end": 30,
+          "book_label": "例",
+          "pdf_page": 15,
+          "printed_page": "007",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": [
+        "原书本词下真题使用 arose（arise过去式），不是 arouse；已单独隔离，未强行关联。"
+      ]
+    },
+    {
+      "id": "w0032",
+      "spelling": "raise",
+      "phonetic": "/reɪz/",
+      "source_definition": "n. 加薪；v. 举起；增加；提高；提及；饲养",
+      "mnemonic": "",
+      "group_name": "07 praise形近词及近义词",
+      "pdf_pages": [
+        15
+      ],
+      "printed_pages": [
+        "007"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0032-01",
+          "pos": "v.",
+          "gloss": "举起",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0032-02",
+          "pos": "v.",
+          "gloss": "增加；提高",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0032-03",
+          "pos": "n.",
+          "gloss": "加薪",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0032-04",
+          "pos": "v.",
+          "gloss": "提及",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0032-05",
+          "pos": "v.",
+          "gloss": "饲养",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0032-01",
+          "sense_id": "s0032-01",
+          "english": "They had raised the white flag in surrender.",
+          "translation": "他们已经举起白旗投降。",
+          "target": "raised",
+          "target_start": 9,
+          "target_end": 15,
+          "book_label": "例",
+          "pdf_page": 15,
+          "printed_page": "007",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0032-02",
+          "sense_id": "s0032-02",
+          "english": "It would be a shame to raise prices too much.",
+          "translation": "大幅增加票价是一件令人羞耻的事情。",
+          "target": "raise",
+          "target_start": 23,
+          "target_end": 28,
+          "book_label": "真题",
+          "pdf_page": 15,
+          "printed_page": "007",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0033",
+      "spelling": "applaud",
+      "phonetic": "/əˈplɔːd/",
+      "source_definition": "v. 称赞；鼓掌",
+      "mnemonic": "ap（表加强）+ plaud（鼓掌，拍手）→鼓掌，称赞。",
+      "group_name": "07 praise形近词及近义词",
+      "pdf_pages": [
+        15
+      ],
+      "printed_pages": [
+        "007"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0033-01",
+          "pos": "v.",
+          "gloss": "鼓掌",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0033-02",
+          "pos": "v.",
+          "gloss": "称赞",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0033-01",
+          "sense_id": "s0033-01",
+          "english": "They rose to applaud the speaker.",
+          "translation": "他们起立向演讲者鼓掌。",
+          "target": "applaud",
+          "target_start": 13,
+          "target_end": 20,
+          "book_label": "例",
+          "pdf_page": 15,
+          "printed_page": "007",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0033-02",
+          "sense_id": "s0033-02",
+          "english": "Some applaud the approach; others are concerned.",
+          "translation": "一些人赞赏这种做法；其他人对此表示担忧。",
+          "target": "applaud",
+          "target_start": 5,
+          "target_end": 12,
+          "book_label": "真题",
+          "pdf_page": 15,
+          "printed_page": "007",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0033-01",
+          "spelling": "applause",
+          "definition": "n. 掌声，喝彩",
+          "relation": "derived",
+          "pdf_page": 15,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0034",
+      "spelling": "clap",
+      "phonetic": "/klæp/",
+      "source_definition": "n. & v. 鼓掌；拍手",
+      "mnemonic": "单词发音类似：客来铺。当有客人来到店铺时，店里的员工“拍手”表示欢迎。",
+      "group_name": "07 praise形近词及近义词",
+      "pdf_pages": [
+        15,
+        16
+      ],
+      "printed_pages": [
+        "007",
+        "008"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0034-01",
+          "pos": "v.",
+          "gloss": "鼓掌；拍手",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0034-02",
+          "pos": "n.",
+          "gloss": "拍手",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0034-01",
+          "sense_id": "s0034-01",
+          "english": "The band played a familiar tune which had everyone clapping along.",
+          "translation": "乐队演奏了一首熟悉的曲子，每个人都跟着拍手。",
+          "target": "clapping",
+          "target_start": 51,
+          "target_end": 59,
+          "book_label": "例",
+          "pdf_page": 16,
+          "printed_page": "008",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0034-02",
+          "sense_id": "s0034-02",
+          "english": "With a clap of his hands he ordered more food.",
+          "translation": "他拍了下手，点了更多吃的。",
+          "target": "clap",
+          "target_start": 7,
+          "target_end": 11,
+          "book_label": "例",
+          "pdf_page": 16,
+          "printed_page": "008",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0035",
+      "spelling": "astonish",
+      "phonetic": "/əˈstɒnɪʃ/",
+      "source_definition": "v. 使十分惊讶",
+      "mnemonic": "a（一）+ ston（联想成stone“石头”）+ is（是）+ h（字母形似一把椅子）→一块石头像一把椅子，这真是太让人惊讶了→使十分惊讶。",
+      "group_name": "08 吃惊相关词汇",
+      "pdf_pages": [
+        16
+      ],
+      "printed_pages": [
+        "008"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0035-01",
+          "pos": "v.",
+          "gloss": "使十分惊讶",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0035-01",
+          "sense_id": "s0035-01",
+          "english": "The news astonished everyone.",
+          "translation": "这消息使大家十分惊讶。",
+          "target": "astonished",
+          "target_start": 9,
+          "target_end": 19,
+          "book_label": "例",
+          "pdf_page": 16,
+          "printed_page": "008",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0035-02",
+          "sense_id": "s0035-01",
+          "english": "She astonished us by saying she was leaving.",
+          "translation": "她说她要离开，令我们大为惊讶。",
+          "target": "astonished",
+          "target_start": 4,
+          "target_end": 14,
+          "book_label": "例",
+          "pdf_page": 16,
+          "printed_page": "008",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0035-01",
+          "spelling": "astonishing",
+          "definition": "adj. 令人十分惊讶的；使人大为惊奇的；难以置信的",
+          "relation": "derived",
+          "pdf_page": 16,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0036",
+      "spelling": "dismay",
+      "phonetic": "/dɪsˈmeɪ/",
+      "source_definition": "n. 沮丧，灰心，丧气；诧异；惊愕；v. 使失望；使惊愕",
+      "mnemonic": "dis（不）+ may（可能）→人们遇到不可能完成的事情时，很容易“灰心，丧气”。",
+      "group_name": "08 吃惊相关词汇",
+      "pdf_pages": [
+        16
+      ],
+      "printed_pages": [
+        "008"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0036-01",
+          "pos": "n.",
+          "gloss": "沮丧，灰心，丧气",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0036-02",
+          "pos": "n.",
+          "gloss": "诧异；惊愕",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0036-03",
+          "pos": "v.",
+          "gloss": "使失望；使惊愕",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0036-01",
+          "sense_id": "s0036-01",
+          "english": "I read of her resignation with some dismay.",
+          "translation": "我看到她辞职的报告时有些沮丧。",
+          "target": "dismay",
+          "target_start": 36,
+          "target_end": 42,
+          "book_label": "例",
+          "pdf_page": 16,
+          "printed_page": "008",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0036-02",
+          "sense_id": "s0036-01",
+          "english": "To her dismay, her name was not on the list.",
+          "translation": "使她难过的是，名单上没有她的名字。",
+          "target": "dismay",
+          "target_start": 7,
+          "target_end": 13,
+          "book_label": "例",
+          "pdf_page": 16,
+          "printed_page": "008",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0037",
+      "spelling": "amaze",
+      "phonetic": "/əˈmeɪz/",
+      "source_definition": "v. 使惊奇；使惊愕；使惊诧",
+      "mnemonic": "发音类似“啊妹子”→你的妹妹早年远嫁他乡，结婚多年后才回家，你见到她之后说：“啊，妹子，你变化好大啊！”→使惊奇；使惊诧。",
+      "group_name": "08 吃惊相关词汇",
+      "pdf_pages": [
+        16
+      ],
+      "printed_pages": [
+        "008"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0037-01",
+          "pos": "v.",
+          "gloss": "使惊奇；使惊愕；使惊诧",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0037-01",
+          "sense_id": "s0037-01",
+          "english": "Your sudden appearance amazed me a lot.",
+          "translation": "你的突然出现使我非常吃惊。",
+          "target": "amazed",
+          "target_start": 23,
+          "target_end": 29,
+          "book_label": "例",
+          "pdf_page": 16,
+          "printed_page": "008",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0037-02",
+          "sense_id": "s0037-01",
+          "english": "We are amazed today at the mere number of plays produced.",
+          "translation": "如今，单是戏剧创作数量就让我们惊讶了。",
+          "target": "amazed",
+          "target_start": 7,
+          "target_end": 13,
+          "book_label": "真题",
+          "pdf_page": 16,
+          "printed_page": "008",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0037-01",
+          "spelling": "amazing",
+          "definition": "adj. 令人惊异的；了不起的",
+          "relation": "derived",
+          "pdf_page": 16,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0038",
+      "spelling": "amuse",
+      "phonetic": "/əˈmjuːz/",
+      "source_definition": "v. 逗乐，逗笑；（使）娱乐",
+      "mnemonic": "a（一）+ muse（联想成mouse“老鼠”）→一只可爱的米老鼠把我们“逗乐”了。",
+      "group_name": "09 娱乐相关词汇",
+      "pdf_pages": [
+        16
+      ],
+      "printed_pages": [
+        "008"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0038-01",
+          "pos": "v.",
+          "gloss": "逗乐，逗笑",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0038-02",
+          "pos": "v.",
+          "gloss": "（使）娱乐",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0038-01",
+          "sense_id": "s0038-01",
+          "english": "My funny drawings amused the kids.",
+          "translation": "我的滑稽图画把孩子们逗乐了。",
+          "target": "amused",
+          "target_start": 18,
+          "target_end": 24,
+          "book_label": "例",
+          "pdf_page": 16,
+          "printed_page": "008",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0038-02",
+          "sense_id": "s0038-02",
+          "english": "I’m sure I’ll be able to amuse myself for a few hours.",
+          "translation": "我肯定几个小时都会自得其乐。",
+          "target": "amuse",
+          "target_start": 25,
+          "target_end": 30,
+          "book_label": "例",
+          "pdf_page": 16,
+          "printed_page": "008",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0038-01",
+          "spelling": "amusement",
+          "definition": "n. 娱乐；消遣活动",
+          "relation": "derived",
+          "pdf_page": 16,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0039",
+      "spelling": "recreation",
+      "phonetic": null,
+      "source_definition": "/ˌrekriˈeɪʃn/ n. 消遣，娱乐；/ˌriːkriˈeɪʃn/ n. 再造",
+      "mnemonic": "re（再，重复）+ creat（创造，创作）+ ion（名词后缀）→你妈妈很累，你需要再创作一些有趣的东西，“娱乐，消遣”一下她。",
+      "group_name": "09 娱乐相关词汇",
+      "pdf_pages": [
+        16,
+        17
+      ],
+      "printed_pages": [
+        "008",
+        "009"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0039-01",
+          "pos": "n.",
+          "gloss": "消遣，娱乐",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0039-02",
+          "pos": "n.",
+          "gloss": "再造",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0039-01",
+          "sense_id": "s0039-01",
+          "english": "His recreations include golf, football and shooting.",
+          "translation": "他的娱乐活动包括打高尔夫球、踢足球和射击。",
+          "target": "recreations",
+          "target_start": 4,
+          "target_end": 15,
+          "book_label": "例",
+          "pdf_page": 17,
+          "printed_page": "009",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": [
+        "原书真题将 recreation 译为“再造”，与上下文语境疑似不符；已隔离等待复核。"
+      ]
+    },
+    {
+      "id": "w0040",
+      "spelling": "gamble",
+      "phonetic": "/ˈɡæmbl/",
+      "source_definition": "n. & v. 冒险，投机；赌博",
+      "mnemonic": "gam（联想成game“游戏”）+ ble（联想成ball“球”）→涉及“赌博”的一些游戏很多与“球”有关。",
+      "group_name": "09 娱乐相关词汇",
+      "pdf_pages": [
+        17
+      ],
+      "printed_pages": [
+        "009"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0040-01",
+          "pos": "v.",
+          "gloss": "冒险，投机；赌博",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0040-02",
+          "pos": "n.",
+          "gloss": "冒险，投机；赌博",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0040-01",
+          "sense_id": "s0040-01",
+          "english": "He’s gambling his reputation on this deal.",
+          "translation": "他在以自己的声誉为这笔交易作赌注。",
+          "target": "gambling",
+          "target_start": 5,
+          "target_end": 13,
+          "book_label": "例",
+          "pdf_page": 17,
+          "printed_page": "009",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0040-01",
+          "spelling": "gambler",
+          "definition": "n. 赌徒",
+          "relation": "derived",
+          "pdf_page": 17,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0041",
+      "spelling": "leisure",
+      "phonetic": "/ˈleʒə(r)/",
+      "source_definition": "n. 空闲，闲暇，休闲",
+      "mnemonic": "lei（联想成“累”）+ sure（的确）→的确累了的话就需要放松一下→空闲，闲暇。",
+      "group_name": "09 娱乐相关词汇",
+      "pdf_pages": [
+        17
+      ],
+      "printed_pages": [
+        "009"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0041-01",
+          "pos": "n.",
+          "gloss": "空闲，闲暇，休闲",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0041-01",
+          "sense_id": "s0041-01",
+          "english": "These days we have increased opportunities for leisure.",
+          "translation": "这些天来，我们有了更多的休闲机会。",
+          "target": "leisure",
+          "target_start": 47,
+          "target_end": 54,
+          "book_label": "例",
+          "pdf_page": 17,
+          "printed_page": "009",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0042",
+      "spelling": "retire",
+      "phonetic": "/rɪˈtaɪə/",
+      "source_definition": "v. 退休；退役；退出",
+      "mnemonic": "re（阿姨）+ tire（疲劳，疲倦）→阿姨累了，所以不工作了→退休。",
+      "group_name": "10 re相关词汇",
+      "pdf_pages": [
+        17
+      ],
+      "printed_pages": [
+        "009"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0042-01",
+          "pos": "v.",
+          "gloss": "退休",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0042-02",
+          "pos": "v.",
+          "gloss": "退役；退出",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0042-01",
+          "sense_id": "s0042-01",
+          "english": "He is retiring next year after 30 years with the company.",
+          "translation": "他在这家公司工作了30年，明年就要退休了。",
+          "target": "retiring",
+          "target_start": 6,
+          "target_end": 14,
+          "book_label": "例",
+          "pdf_page": 17,
+          "printed_page": "009",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0042-01",
+          "spelling": "retiree",
+          "definition": "n. 退休人员",
+          "relation": "derived",
+          "pdf_page": 17,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        },
+        {
+          "id": "r0042-02",
+          "spelling": "retirement",
+          "definition": "n. 退休",
+          "relation": "derived",
+          "pdf_page": 17,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0043",
+      "spelling": "entire",
+      "phonetic": "/ɪnˈtaɪə(r)/",
+      "source_definition": "adj. 全部的，整个的；完全的",
+      "mnemonic": "en（使）+ tire（疲劳，疲倦）→这件事儿使你“整个”人都很疲倦→整个的。",
+      "group_name": "10 re相关词汇",
+      "pdf_pages": [
+        17
+      ],
+      "printed_pages": [
+        "009"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0043-01",
+          "pos": "adj.",
+          "gloss": "全部的，整个的；完全的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0043-01",
+          "sense_id": "s0043-01",
+          "english": "The entire village was destroyed.",
+          "translation": "整个村庄都给毁了。",
+          "target": "entire",
+          "target_start": 4,
+          "target_end": 10,
+          "book_label": "例",
+          "pdf_page": 17,
+          "printed_page": "009",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0043-01",
+          "spelling": "entirely",
+          "definition": "adv. 完全地；完整地",
+          "relation": "derived",
+          "pdf_page": 17,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0044",
+      "spelling": "mere",
+      "phonetic": "/mɪə(r)/",
+      "source_definition": "adj. 仅仅的，只不过；纯粹的",
+      "mnemonic": "me（我）+ re（阿姨）→我阿姨仅仅是个普通人→仅仅的，只不过。",
+      "group_name": "10 re相关词汇",
+      "pdf_pages": [
+        17
+      ],
+      "printed_pages": [
+        "009"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0044-01",
+          "pos": "adj.",
+          "gloss": "仅仅的，只不过；纯粹的",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0044-01",
+          "sense_id": "s0044-01",
+          "english": "It took her a mere 20 minutes to win.",
+          "translation": "她只花了20分钟就赢了。",
+          "target": "mere",
+          "target_start": 14,
+          "target_end": 18,
+          "book_label": "例",
+          "pdf_page": 17,
+          "printed_page": "009",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0044-01",
+          "spelling": "merely",
+          "definition": "adv. 仅仅",
+          "relation": "derived",
+          "pdf_page": 18,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0045",
+      "spelling": "fare",
+      "phonetic": "/feə/",
+      "source_definition": "n. 车费；船费；飞机票价；v. 成功（或不成功、更好等）",
+      "mnemonic": "去很远的（far）地方需要“车费（fare）”。",
+      "group_name": "11 钱相关词汇",
+      "pdf_pages": [
+        18
+      ],
+      "printed_pages": [
+        "010"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0045-01",
+          "pos": "n.",
+          "gloss": "车费；船费；飞机票价",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0045-02",
+          "pos": "v.",
+          "gloss": "成功（或不成功、更好等）",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0045-01",
+          "sense_id": "s0045-01",
+          "english": "Children travel (at) half fare.",
+          "translation": "儿童交通费减半。",
+          "target": "fare",
+          "target_start": 26,
+          "target_end": 30,
+          "book_label": "例",
+          "pdf_page": 18,
+          "printed_page": "010",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0046",
+      "spelling": "fee",
+      "phonetic": "/fiː/",
+      "source_definition": "n. 费用；酬金",
+      "mnemonic": "",
+      "group_name": "11 钱相关词汇",
+      "pdf_pages": [
+        18
+      ],
+      "printed_pages": [
+        "010"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0046-01",
+          "pos": "n.",
+          "gloss": "费用；酬金",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0046-01",
+          "sense_id": "s0046-01",
+          "english": "Students take out loans to cover tuition fees.",
+          "translation": "学生通过贷款来支付学费。",
+          "target": "fees",
+          "target_start": 41,
+          "target_end": 45,
+          "book_label": "例",
+          "pdf_page": 18,
+          "printed_page": "010",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0046-02",
+          "sense_id": "s0046-01",
+          "english": "This keeps fees high and innovation slow.",
+          "translation": "这使得收费居高不下且创新缓慢。",
+          "target": "fees",
+          "target_start": 11,
+          "target_end": 15,
+          "book_label": "真题",
+          "pdf_page": 18,
+          "printed_page": "010",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0047",
+      "spelling": "farewell",
+      "phonetic": "/ˌfeəˈwel/",
+      "source_definition": "n. 告别",
+      "mnemonic": "fare（车费）+ well（好）→我付好了车费后跟司机说“再会”→告别。",
+      "group_name": "11 钱相关词汇",
+      "pdf_pages": [
+        18
+      ],
+      "printed_pages": [
+        "010"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0047-01",
+          "pos": "n.",
+          "gloss": "告别",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0047-01",
+          "sense_id": "s0047-01",
+          "english": "She said her farewells and left.",
+          "translation": "她告别后就离开了。",
+          "target": "farewells",
+          "target_start": 13,
+          "target_end": 22,
+          "book_label": "例",
+          "pdf_page": 18,
+          "printed_page": "010",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0048",
+      "spelling": "welfare",
+      "phonetic": "/ˈwelfeə(r)/",
+      "source_definition": "n. 福利；社会保障金；幸福；安康",
+      "mnemonic": "wel（联想成well“好”）+ far（远的）+ e →他要去好远的地方追求自己的“幸福”。",
+      "group_name": "11 钱相关词汇",
+      "pdf_pages": [
+        18
+      ],
+      "printed_pages": [
+        "010"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0048-01",
+          "pos": "n.",
+          "gloss": "福利；社会保障金",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0048-02",
+          "pos": "n.",
+          "gloss": "幸福；安康",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0048-01",
+          "sense_id": "s0048-01",
+          "english": "There must be adequate welfare provision for people with disabilities.",
+          "translation": "必须为残疾人提供足够的福利。",
+          "target": "welfare",
+          "target_start": 23,
+          "target_end": 30,
+          "book_label": "例",
+          "pdf_page": 18,
+          "printed_page": "010",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0048-02",
+          "sense_id": "s0048-01",
+          "english": "The principle of British welfare is no longer that you can insure yourself against the risk of unemployment.",
+          "translation": "英国社会福利体系的原则不再是当你遭遇失业风险时可以得到保障。",
+          "target": "welfare",
+          "target_start": 25,
+          "target_end": 32,
+          "book_label": "真题",
+          "pdf_page": 18,
+          "printed_page": "010",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0049",
+      "spelling": "pension",
+      "phonetic": "/ˈpenʃn/",
+      "source_definition": "n. 养老金，退休金；v. 给……发养老金（退休金）",
+      "mnemonic": "pen（发音类似“盼”）+ sion（薪）→盼望着不工作也能拿到薪水的一天，也只有退休才能领“退休金”了吧。",
+      "group_name": "11 钱相关词汇",
+      "pdf_pages": [
+        18
+      ],
+      "printed_pages": [
+        "010"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0049-01",
+          "pos": "n.",
+          "gloss": "养老金，退休金",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0049-02",
+          "pos": "v.",
+          "gloss": "给……发养老金（退休金）",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0049-01",
+          "sense_id": "s0049-01",
+          "english": "She went to the post office to draw her pension.",
+          "translation": "她到邮局去领取她的养老金。",
+          "target": "pension",
+          "target_start": 40,
+          "target_end": 47,
+          "book_label": "例",
+          "pdf_page": 18,
+          "printed_page": "010",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0050",
+      "spelling": "allowance",
+      "phonetic": "/əˈlaʊəns/",
+      "source_definition": "n. 津贴，补贴；限额；免税额",
+      "mnemonic": "allow（允许）+ wan（玩）+ ce（谐音“吃”）→允许用来吃和玩的钱→零花钱。",
+      "group_name": "11 钱相关词汇",
+      "pdf_pages": [
+        18
+      ],
+      "printed_pages": [
+        "010"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0050-01",
+          "pos": "n.",
+          "gloss": "津贴，补贴",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0050-02",
+          "pos": "n.",
+          "gloss": "限额",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0050-03",
+          "pos": "n.",
+          "gloss": "免税额",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0050-01",
+          "sense_id": "s0050-01",
+          "english": "There will now be a seven-day wait for the jobseeker’s allowance.",
+          "translation": "求职者领取津贴需要有一个长达七天的等待期。",
+          "target": "allowance",
+          "target_start": 55,
+          "target_end": 64,
+          "book_label": "真题",
+          "pdf_page": 18,
+          "printed_page": "010",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0051",
+      "spelling": "bonus",
+      "phonetic": "/ˈbəʊnəs/",
+      "source_definition": "n. 奖金；红利",
+      "mnemonic": "bo（联想成60）+ nus（联想成nuts“坚果”）→到年底了，公司发了60袋坚果作为你的奖励→奖金。",
+      "group_name": "11 钱相关词汇",
+      "pdf_pages": [
+        18
+      ],
+      "printed_pages": [
+        "010"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0051-01",
+          "pos": "n.",
+          "gloss": "奖金；红利",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0051-01",
+          "sense_id": "s0051-01",
+          "english": "All workers participate in the bonus scheme.",
+          "translation": "所有工人都参加分红计划。",
+          "target": "bonus",
+          "target_start": 31,
+          "target_end": 36,
+          "book_label": "例",
+          "pdf_page": 18,
+          "printed_page": "010",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0052",
+      "spelling": "subsidy",
+      "phonetic": "/ˈsʌbsədi/",
+      "source_definition": "n. 津贴，补贴",
+      "mnemonic": "sub（下，辅助的）+ side（旁边）→作为辅助的、在旁边支撑你生活的收入→津贴，补贴。",
+      "group_name": "11 钱相关词汇",
+      "pdf_pages": [
+        18,
+        19
+      ],
+      "printed_pages": [
+        "010",
+        "011"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0052-01",
+          "pos": "n.",
+          "gloss": "津贴，补贴",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0052-01",
+          "sense_id": "s0052-01",
+          "english": "The level of subsidy should be increased.",
+          "translation": "补贴标准应该增加。",
+          "target": "subsidy",
+          "target_start": 13,
+          "target_end": 20,
+          "book_label": "例",
+          "pdf_page": 19,
+          "printed_page": "011",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0052-02",
+          "sense_id": "s0052-01",
+          "english": "Anyway, the townsfolk can’t understand why the Royal Shakespeare Company needs a subsidy.",
+          "translation": "无论如何，镇民们不明白为什么皇家莎士比亚剧团需要补贴。",
+          "target": "subsidy",
+          "target_start": 81,
+          "target_end": 88,
+          "book_label": "真题",
+          "pdf_page": 19,
+          "printed_page": "011",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0052-01",
+          "spelling": "subsidize",
+          "definition": "v. 资助；补助；给……发津贴",
+          "relation": "derived",
+          "pdf_page": 19,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0053",
+      "spelling": "benefit",
+      "phonetic": "/ˈbenɪfɪt/",
+      "source_definition": "n. 利益，好处；津贴，救济金；v. 有益于，对……有益",
+      "mnemonic": "bene（谐音“逼你”）+ fit（合适的，健康的）→逼你变健康，逼你变成合适的，也就是对你有益的，对你有好处的→有益于；好处。",
+      "group_name": "11 钱相关词汇",
+      "pdf_pages": [
+        19
+      ],
+      "printed_pages": [
+        "011"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0053-01",
+          "pos": "n.",
+          "gloss": "利益，好处",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0053-02",
+          "pos": "v.",
+          "gloss": "有益于，对……有益",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0053-03",
+          "pos": "n.",
+          "gloss": "津贴，救济金",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0053-01",
+          "sense_id": "s0053-01",
+          "english": "The new regulations will be of benefit to everyone concerned.",
+          "translation": "新规章将使所有有关人员受益。",
+          "target": "benefit",
+          "target_start": 31,
+          "target_end": 38,
+          "book_label": "例",
+          "pdf_page": 19,
+          "printed_page": "011",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0053-02",
+          "sense_id": "s0053-02",
+          "english": "It is not enough to say that the algorithms DeepMind develops will benefit patients and save lives.",
+          "translation": "仅仅说DeepMind（深度思考）开发的算法将使患者受益并挽救生命是不够的。",
+          "target": "benefit",
+          "target_start": 67,
+          "target_end": 74,
+          "book_label": "真题",
+          "pdf_page": 19,
+          "printed_page": "011",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0053-01",
+          "spelling": "beneficial",
+          "definition": "adj. 有益的",
+          "relation": "derived",
+          "pdf_page": 19,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0054",
+      "spelling": "profit",
+      "phonetic": "/ˈprɒfɪt/",
+      "source_definition": "n. 利润，益处；v. 获益；得到好处；对……有用（或有益）",
+      "mnemonic": "",
+      "group_name": "11 钱相关词汇",
+      "pdf_pages": [
+        19
+      ],
+      "printed_pages": [
+        "011"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0054-01",
+          "pos": "n.",
+          "gloss": "利润，益处",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0054-02",
+          "pos": "v.",
+          "gloss": "获益；得到好处；对……有用（或有益）",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0054-01",
+          "sense_id": "s0054-01",
+          "english": "The radio station earns a profit from its advertising.",
+          "translation": "这家电台从广告中获利。",
+          "target": "profit",
+          "target_start": 26,
+          "target_end": 32,
+          "book_label": "例",
+          "pdf_page": 19,
+          "printed_page": "011",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0054-02",
+          "sense_id": "s0054-01",
+          "english": "Quicker turnarounds mean less wasted inventory, more frequent releases, and more profit.",
+          "translation": "更快的周转意味着更少的库存浪费、更频繁的（新品）发布和更多的利润。",
+          "target": "profit",
+          "target_start": 81,
+          "target_end": 87,
+          "book_label": "真题",
+          "pdf_page": 19,
+          "printed_page": "011",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0054-01",
+          "spelling": "profitable",
+          "definition": "adj. 有利可图的，有益的",
+          "relation": "derived",
+          "pdf_page": 19,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0055",
+      "spelling": "prolong",
+      "phonetic": "/prəˈlɒŋ/",
+      "source_definition": "v. 延长，拖延",
+      "mnemonic": "pro（往前）+ long（长）→路往前不断“延长”。",
+      "group_name": "12 prolong相关词汇",
+      "pdf_pages": [
+        19
+      ],
+      "printed_pages": [
+        "011"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0055-01",
+          "pos": "v.",
+          "gloss": "延长，拖延",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0055-01",
+          "sense_id": "s0055-01",
+          "english": "The operation could prolong his life by two or three years.",
+          "translation": "这次手术可使他多活两三年。",
+          "target": "prolong",
+          "target_start": 20,
+          "target_end": 27,
+          "book_label": "例",
+          "pdf_page": 19,
+          "printed_page": "011",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0056",
+      "spelling": "profound",
+      "phonetic": "/prəˈfaʊnd/",
+      "source_definition": "adj. 深刻的，深远的；深奥的",
+      "mnemonic": "pro（提前）+ found（建立）→提前（最早）建立的一批协会对大家影响比较大→深刻的，深远的。",
+      "group_name": "12 prolong相关词汇",
+      "pdf_pages": [
+        19
+      ],
+      "printed_pages": [
+        "011"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0056-01",
+          "pos": "adj.",
+          "gloss": "深刻的，深远的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0056-02",
+          "pos": "adj.",
+          "gloss": "深奥的",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0056-01",
+          "sense_id": "s0056-01",
+          "english": "The report has profound implications for schools.",
+          "translation": "这份报告对学校有深远的影响。",
+          "target": "profound",
+          "target_start": 15,
+          "target_end": 23,
+          "book_label": "例",
+          "pdf_page": 19,
+          "printed_page": "011",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0056-01",
+          "spelling": "profoundly",
+          "definition": "adv. 深刻地；极大地",
+          "relation": "derived",
+          "pdf_page": 19,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0057",
+      "spelling": "foundation",
+      "phonetic": "/faʊnˈdeɪʃn/",
+      "source_definition": "n. 基础；根据；基金会；地基",
+      "mnemonic": "",
+      "group_name": "12 prolong相关词汇",
+      "pdf_pages": [
+        20
+      ],
+      "printed_pages": [
+        "012"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0057-01",
+          "pos": "n.",
+          "gloss": "基础",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0057-02",
+          "pos": "n.",
+          "gloss": "地基",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0057-03",
+          "pos": "n.",
+          "gloss": "根据",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0057-04",
+          "pos": "n.",
+          "gloss": "基金会",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0057-01",
+          "sense_id": "s0057-01",
+          "english": "Respect and friendship provide a solid foundation for marriage.",
+          "translation": "尊重和友爱是婚姻的牢固基础。",
+          "target": "foundation",
+          "target_start": 39,
+          "target_end": 49,
+          "book_label": "例",
+          "pdf_page": 20,
+          "printed_page": "012",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0057-02",
+          "sense_id": "s0057-02",
+          "english": "The history of the EEOB began long before its foundations were laid.",
+          "translation": "艾森豪威尔行政大楼（EEOB）的历史早在奠基之前就开始了。",
+          "target": "foundations",
+          "target_start": 46,
+          "target_end": 57,
+          "book_label": "真题",
+          "pdf_page": 20,
+          "printed_page": "012",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0058",
+      "spelling": "loom",
+      "phonetic": "/luːm/",
+      "source_definition": "v. 显得突出，逼近；赫然耸现；n. 织布机",
+      "mnemonic": "",
+      "group_name": "13 loom相关形近词",
+      "pdf_pages": [
+        20
+      ],
+      "printed_pages": [
+        "012"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0058-01",
+          "pos": "v.",
+          "gloss": "逼近",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0058-02",
+          "pos": "v.",
+          "gloss": "显得突出；赫然耸现",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0058-03",
+          "pos": "n.",
+          "gloss": "织布机",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0058-01",
+          "sense_id": "s0058-01",
+          "english": "There was a crisis looming.",
+          "translation": "危机迫在眉睫。",
+          "target": "looming",
+          "target_start": 19,
+          "target_end": 26,
+          "book_label": "例",
+          "pdf_page": 20,
+          "printed_page": "012",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0058-02",
+          "sense_id": "s0058-01",
+          "english": "My wife and I lectured about this looming danger twenty years ago.",
+          "translation": "我和我的妻子在20年前就讲过这个迫在眉睫的危险。",
+          "target": "looming",
+          "target_start": 34,
+          "target_end": 41,
+          "book_label": "真题",
+          "pdf_page": 20,
+          "printed_page": "012",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0059",
+      "spelling": "boom",
+      "phonetic": "/buːm/",
+      "source_definition": "n. & v. （发出）隆隆声；激增；繁荣",
+      "mnemonic": "老板们都希望自己的公司繁荣（boom），不希望自己的公司遭遇厄运（doom）。",
+      "group_name": "13 loom相关形近词",
+      "pdf_pages": [
+        20
+      ],
+      "printed_pages": [
+        "012"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0059-01",
+          "pos": "v.",
+          "gloss": "发出隆隆声",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0059-02",
+          "pos": "n.",
+          "gloss": "繁荣",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0059-03",
+          "pos": "n.",
+          "gloss": "隆隆声；激增",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0059-04",
+          "pos": "v.",
+          "gloss": "激增；繁荣",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0059-01",
+          "sense_id": "s0059-01",
+          "english": "Thunder boomed in the sky overhead.",
+          "translation": "雷声在天空中隆隆作响。",
+          "target": "boomed",
+          "target_start": 8,
+          "target_end": 14,
+          "book_label": "例",
+          "pdf_page": 20,
+          "printed_page": "012",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0059-02",
+          "sense_id": "s0059-02",
+          "english": "Living standards improved rapidly during the post-war boom.",
+          "translation": "在战后那段繁荣昌盛的时期里，生活水平得到了迅速提高。",
+          "target": "boom",
+          "target_start": 54,
+          "target_end": 58,
+          "book_label": "例",
+          "pdf_page": 20,
+          "printed_page": "012",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0060",
+      "spelling": "bloom",
+      "phonetic": "/bluːm/",
+      "source_definition": "v. 开花；变得健康；n. 花",
+      "mnemonic": "这个地方花（bloom）的数量激增（boom）。",
+      "group_name": "13 loom相关形近词",
+      "pdf_pages": [
+        20
+      ],
+      "printed_pages": [
+        "012"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0060-01",
+          "pos": "v.",
+          "gloss": "开花",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0060-02",
+          "pos": "n.",
+          "gloss": "花",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0060-03",
+          "pos": "v.",
+          "gloss": "变得健康",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0060-01",
+          "sense_id": "s0060-01",
+          "english": "Most roses will begin to bloom from late May.",
+          "translation": "大多数玫瑰从五月末开始开花。",
+          "target": "bloom",
+          "target_start": 25,
+          "target_end": 30,
+          "book_label": "例",
+          "pdf_page": 20,
+          "printed_page": "012",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0060-02",
+          "sense_id": "s0060-02",
+          "english": "The plant produced a single white bloom.",
+          "translation": "这种植物只开了一朵白花。",
+          "target": "bloom",
+          "target_start": 34,
+          "target_end": 39,
+          "book_label": "例",
+          "pdf_page": 20,
+          "printed_page": "012",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0061",
+      "spelling": "gloom",
+      "phonetic": "/ɡluːm/",
+      "source_definition": "n. 忧郁；愁闷；无望；幽暗；黑暗；昏暗",
+      "mnemonic": "",
+      "group_name": "13 loom相关形近词",
+      "pdf_pages": [
+        20
+      ],
+      "printed_pages": [
+        "012"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0061-01",
+          "pos": "n.",
+          "gloss": "忧郁；愁闷；无望",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0061-02",
+          "pos": "n.",
+          "gloss": "幽暗；黑暗；昏暗",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0061-01",
+          "sense_id": "s0061-01",
+          "english": "An air of gloom and despondency settled over the household.",
+          "translation": "悲观失望的气氛笼罩着一家人。",
+          "target": "gloom",
+          "target_start": 10,
+          "target_end": 15,
+          "book_label": "例",
+          "pdf_page": 20,
+          "printed_page": "012",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0061-01",
+          "spelling": "gloomy",
+          "definition": "adj. 郁闷的，阴暗的",
+          "relation": "derived",
+          "pdf_page": 20,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0062",
+      "spelling": "boost",
+      "phonetic": "/buːst/",
+      "source_definition": "v. 促进；使增长；n. 提高；增长",
+      "mnemonic": "boo（联想成“600”）+ st（联想成street“路，街道”）→当地政府准备新修600条路去“促进”当地经济的增长。",
+      "group_name": "13 loom相关形近词",
+      "pdf_pages": [
+        20
+      ],
+      "printed_pages": [
+        "012"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0062-01",
+          "pos": "v.",
+          "gloss": "促进；使增长",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0062-02",
+          "pos": "n.",
+          "gloss": "提高；增长",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0062-01",
+          "sense_id": "s0062-01",
+          "english": "The movie helped boost her screen career.",
+          "translation": "那部电影有助于她的银幕生涯的发展。",
+          "target": "boost",
+          "target_start": 17,
+          "target_end": 22,
+          "book_label": "例",
+          "pdf_page": 20,
+          "printed_page": "012",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0062-02",
+          "sense_id": "s0062-01",
+          "english": "Automation should eventually boost productivity.",
+          "translation": "自动化最终应该提高生产力。",
+          "target": "boost",
+          "target_start": 29,
+          "target_end": 34,
+          "book_label": "真题",
+          "pdf_page": 20,
+          "printed_page": "012",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0063",
+      "spelling": "boast",
+      "phonetic": "/bəʊst/",
+      "source_definition": "v. 自夸，吹嘘，夸耀，炫耀",
+      "mnemonic": "",
+      "group_name": "13 loom相关形近词",
+      "pdf_pages": [
+        20
+      ],
+      "printed_pages": [
+        "012"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0063-01",
+          "pos": "v.",
+          "gloss": "自夸，吹嘘，夸耀，炫耀",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0063-01",
+          "sense_id": "s0063-01",
+          "english": "I don’t want to boast, but I can actually speak six languages.",
+          "translation": "不是我吹嘘，我确实能讲六种语言。",
+          "target": "boast",
+          "target_start": 16,
+          "target_end": 21,
+          "book_label": "例",
+          "pdf_page": 20,
+          "printed_page": "012",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0063-02",
+          "sense_id": "s0063-01",
+          "english": "She is always boasting about how wonderful her children are.",
+          "translation": "她总是夸耀她的孩子多么出色。",
+          "target": "boasting",
+          "target_start": 14,
+          "target_end": 22,
+          "book_label": "例",
+          "pdf_page": 20,
+          "printed_page": "012",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0064",
+      "spelling": "toast",
+      "phonetic": "/təʊst/",
+      "source_definition": "v. 为……干杯；烤，烘；n. 吐司，烤面包片；祝酒，敬酒",
+      "mnemonic": "",
+      "group_name": "13 loom相关形近词",
+      "pdf_pages": [
+        21
+      ],
+      "printed_pages": [
+        "013"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0064-01",
+          "pos": "n.",
+          "gloss": "吐司，烤面包片",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0064-02",
+          "pos": "v.",
+          "gloss": "为……干杯",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0064-03",
+          "pos": "v.",
+          "gloss": "烤，烘",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0064-04",
+          "pos": "n.",
+          "gloss": "祝酒，敬酒",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0064-01",
+          "sense_id": "s0064-01",
+          "english": "I usually have a piece of toast and a glass of milk for breakfast every day.",
+          "translation": "我通常每天早餐吃一片烤面包片，喝一杯牛奶。",
+          "target": "toast",
+          "target_start": 26,
+          "target_end": 31,
+          "book_label": "例",
+          "pdf_page": 21,
+          "printed_page": "013",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0064-02",
+          "sense_id": "s0064-02",
+          "english": "We toasted the success of the new company.",
+          "translation": "我们为新公司的成功干杯。",
+          "target": "toasted",
+          "target_start": 3,
+          "target_end": 10,
+          "book_label": "例",
+          "pdf_page": 21,
+          "printed_page": "013",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0065",
+      "spelling": "blush",
+      "phonetic": "/blʌʃ/",
+      "source_definition": "n. & v. 脸红；羞愧，尴尬",
+      "mnemonic": "",
+      "group_name": "14 blush相关形近词",
+      "pdf_pages": [
+        21
+      ],
+      "printed_pages": [
+        "013"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0065-01",
+          "pos": "v.",
+          "gloss": "脸红",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0065-02",
+          "pos": "n.",
+          "gloss": "脸红",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0065-03",
+          "pos": "n.",
+          "gloss": "羞愧，尴尬",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0065-01",
+          "sense_id": "s0065-01",
+          "english": "She blushed furiously at the memory of the conversation.",
+          "translation": "她一想起那次谈话就气得满脸通红。",
+          "target": "blushed",
+          "target_start": 4,
+          "target_end": 11,
+          "book_label": "例",
+          "pdf_page": 21,
+          "printed_page": "013",
+          "review_status": "pending",
+          "note": "原书第一例将 blushed furiously 译为“气得满脸通红”，情绪解读需复核；该例暂不学习。"
+        },
+        {
+          "id": "e0065-02",
+          "sense_id": "s0065-02",
+          "english": "He turned away to hide his blushes.",
+          "translation": "他转过身去，不让人看见他脸红。",
+          "target": "blushes",
+          "target_start": 27,
+          "target_end": 34,
+          "book_label": "例",
+          "pdf_page": 21,
+          "printed_page": "013",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": [
+        "原书第一例将 blushed furiously 译为“气得满脸通红”，情绪解读需复核；该例暂不学习。"
+      ]
+    },
+    {
+      "id": "w0066",
+      "spelling": "flush",
+      "phonetic": "/flʌʃ/",
+      "source_definition": "n. 脸红；冲洗；v. 脸红；发红；冲洗",
+      "mnemonic": "发音类似“服了师”→上课不听话，被老师批评了一顿，服了老师，并且羞愧地“脸红”了。",
+      "group_name": "14 blush相关形近词",
+      "pdf_pages": [
+        21
+      ],
+      "printed_pages": [
+        "013"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0066-01",
+          "pos": "v.",
+          "gloss": "脸红；发红",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0066-02",
+          "pos": "v.",
+          "gloss": "冲洗",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0066-03",
+          "pos": "n.",
+          "gloss": "脸红；冲洗",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0066-01",
+          "sense_id": "s0066-01",
+          "english": "She flushed with anger.",
+          "translation": "她气得涨红了脸。",
+          "target": "flushed",
+          "target_start": 4,
+          "target_end": 11,
+          "book_label": "例",
+          "pdf_page": 21,
+          "printed_page": "013",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0066-02",
+          "sense_id": "s0066-02",
+          "english": "Please flush after you use the toilet.",
+          "translation": "用完马桶后别忘了冲洗。",
+          "target": "flush",
+          "target_start": 7,
+          "target_end": 12,
+          "book_label": "例",
+          "pdf_page": 21,
+          "printed_page": "013",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0067",
+      "spelling": "splash",
+      "phonetic": "/splæʃ/",
+      "source_definition": "v. 泼在……上，溅在……上；朝……上泼（或溅）；n. 落水声；泼溅声；溅上的液体；溅洒后留下的污渍",
+      "mnemonic": "有个电影叫Splash，讲的是美人鱼的故事，美人鱼扑通一声跳进海里，有落水的声音→落水声。",
+      "group_name": "14 blush相关形近词",
+      "pdf_pages": [
+        21
+      ],
+      "printed_pages": [
+        "013"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0067-01",
+          "pos": "v.",
+          "gloss": "朝……上泼（或溅）",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0067-02",
+          "pos": "n.",
+          "gloss": "落水声；泼溅声",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0067-03",
+          "pos": "n.",
+          "gloss": "溅上的液体；溅洒后留下的污渍",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0067-01",
+          "sense_id": "s0067-01",
+          "english": "He splashed his face with cold water.",
+          "translation": "他朝脸上泼冷水。",
+          "target": "splashed",
+          "target_start": 3,
+          "target_end": 11,
+          "book_label": "例",
+          "pdf_page": 21,
+          "printed_page": "013",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0067-02",
+          "sense_id": "s0067-02",
+          "english": "She jumped into the pool with a splash.",
+          "translation": "她扑通一声跳入池中。",
+          "target": "splash",
+          "target_start": 32,
+          "target_end": 38,
+          "book_label": "真题",
+          "pdf_page": 21,
+          "printed_page": "013",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0068",
+      "spelling": "betray",
+      "phonetic": "/bɪˈtreɪ/",
+      "source_definition": "v. 出卖，背叛；泄露",
+      "mnemonic": "发音类似“背捶”。多年的朋友“背叛”了他，他生气地捶他的背→背叛，出卖。",
+      "group_name": "15 背叛、抱怨相关词汇",
+      "pdf_pages": [
+        21
+      ],
+      "printed_pages": [
+        "013"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0068-01",
+          "pos": "v.",
+          "gloss": "出卖，背叛",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0068-02",
+          "pos": "v.",
+          "gloss": "泄露",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0068-01",
+          "sense_id": "s0068-01",
+          "english": "She felt betrayed when she found out the truth about him.",
+          "translation": "她发现他的真实情况时，感到受了欺骗。",
+          "target": "betrayed",
+          "target_start": 9,
+          "target_end": 17,
+          "book_label": "例",
+          "pdf_page": 21,
+          "printed_page": "013",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0068-02",
+          "sense_id": "s0068-01",
+          "english": "He has been accused of betraying his former socialist ideals.",
+          "translation": "有人指责他背弃了他先前的社会主义理想。",
+          "target": "betraying",
+          "target_start": 23,
+          "target_end": 32,
+          "book_label": "例",
+          "pdf_page": 21,
+          "printed_page": "013",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0069",
+      "spelling": "traitor",
+      "phonetic": "/ˈtreɪtə(r)/",
+      "source_definition": "n. 叛徒；背信弃义的人",
+      "mnemonic": "发音类似“捶（打）他”→他是出卖公司机密的“叛徒”，同事们想捶（打）他。",
+      "group_name": "15 背叛、抱怨相关词汇",
+      "pdf_pages": [
+        21
+      ],
+      "printed_pages": [
+        "013"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0069-01",
+          "pos": "n.",
+          "gloss": "叛徒；背信弃义的人",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0069-01",
+          "sense_id": "s0069-01",
+          "english": "There is a traitor in our midst.",
+          "translation": "我们中间有个叛徒。",
+          "target": "traitor",
+          "target_start": 11,
+          "target_end": 18,
+          "book_label": "例",
+          "pdf_page": 21,
+          "printed_page": "013",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0069-02",
+          "sense_id": "s0069-01",
+          "english": "He was labelled as a traitor by his former colleagues.",
+          "translation": "他被以前的同事称为叛徒。",
+          "target": "traitor",
+          "target_start": 21,
+          "target_end": 28,
+          "book_label": "例",
+          "pdf_page": 21,
+          "printed_page": "013",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0070",
+      "spelling": "complain",
+      "phonetic": "/kəmˈpleɪn/",
+      "source_definition": "v. 抱怨，埋怨，投诉",
+      "mnemonic": "com（所有）+ p（联想成people“人”）+ lai（联想成“赖”）+ n（联想成“你”）→所有人都认为这件事赖你→大家都来“埋怨”你→抱怨，埋怨。",
+      "group_name": "15 背叛、抱怨相关词汇",
+      "pdf_pages": [
+        21,
+        22
+      ],
+      "printed_pages": [
+        "013",
+        "014"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0070-01",
+          "pos": "v.",
+          "gloss": "抱怨，埋怨，投诉",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0070-01",
+          "sense_id": "s0070-01",
+          "english": "The couple complained about the high cost of visiting Europe.",
+          "translation": "这对夫妇抱怨去欧洲旅游的费用很高。",
+          "target": "complained",
+          "target_start": 11,
+          "target_end": 21,
+          "book_label": "例",
+          "pdf_page": 22,
+          "printed_page": "014",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0070-02",
+          "sense_id": "s0070-01",
+          "english": "American farmers have been complaining of labor shortages for several years.",
+          "translation": "美国的农民这些年一直在抱怨劳动力不足。",
+          "target": "complaining",
+          "target_start": 27,
+          "target_end": 38,
+          "book_label": "真题",
+          "pdf_page": 22,
+          "printed_page": "014",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0070-01",
+          "spelling": "complaint",
+          "definition": "n. 抱怨，投诉",
+          "relation": "derived",
+          "pdf_page": 22,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0071",
+      "spelling": "groan",
+      "phonetic": "/ɡrəʊn/",
+      "source_definition": "v. 抱怨；呻吟；n. 呻吟声；叹息声；抱怨",
+      "mnemonic": "发音类似“割肉（买肉）”→阿姨们经常“抱怨”现在割肉比以前贵多了。",
+      "group_name": "15 背叛、抱怨相关词汇",
+      "pdf_pages": [
+        22
+      ],
+      "printed_pages": [
+        "014"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0071-01",
+          "pos": "v.",
+          "gloss": "呻吟",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0071-02",
+          "pos": "v.",
+          "gloss": "抱怨",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0071-03",
+          "pos": "n.",
+          "gloss": "呻吟声；叹息声；抱怨",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0071-01",
+          "sense_id": "s0071-01",
+          "english": "He lay on the floor groaning.",
+          "translation": "他躺在地板上呻吟。",
+          "target": "groaning",
+          "target_start": 20,
+          "target_end": 28,
+          "book_label": "例",
+          "pdf_page": 22,
+          "printed_page": "014",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0071-02",
+          "sense_id": "s0071-02",
+          "english": "They’re all groaning about soaring health budgets.",
+          "translation": "他们都在抱怨不断飙升的医疗预算。",
+          "target": "groaning",
+          "target_start": 12,
+          "target_end": 20,
+          "book_label": "真题",
+          "pdf_page": 22,
+          "printed_page": "014",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0072",
+      "spelling": "gross",
+      "phonetic": "/ɡrəʊs/",
+      "source_definition": "n. 毛收入；总收入；adj. 总的；毛的；严重的；粗鲁的",
+      "mnemonic": "gro（联想成“果肉”）+ ss（联想成“丧失”）→果子的果肉丧失了，毛重量自然下降了，从而导致毛收入也降低了→总的；毛的；毛收入；总收入。",
+      "group_name": "15 背叛、抱怨相关词汇",
+      "pdf_pages": [
+        22
+      ],
+      "printed_pages": [
+        "014"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0072-01",
+          "pos": "adj.",
+          "gloss": "总的；毛的",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0072-02",
+          "pos": "adj.",
+          "gloss": "严重的；粗鲁的",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0072-03",
+          "pos": "n.",
+          "gloss": "毛收入；总收入",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0072-01",
+          "sense_id": "s0072-01",
+          "english": "Investments showed a gross profit of 26 per cent.",
+          "translation": "投资显示毛利率为26%。",
+          "target": "gross",
+          "target_start": 21,
+          "target_end": 26,
+          "book_label": "例",
+          "pdf_page": 22,
+          "printed_page": "014",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": [
+        "原书释义与例句整体保留，记忆联想并非严格词源解释。"
+      ]
+    },
+    {
+      "id": "w0073",
+      "spelling": "moan",
+      "phonetic": "/məʊn/",
+      "source_definition": "v. 呻吟；抱怨；呼啸；n. 呻吟声；呼啸声；抱怨",
+      "mnemonic": "发音类似“哞”→牛有点难受，发出哞哞的“呻吟”声。",
+      "group_name": "15 背叛、抱怨相关词汇",
+      "pdf_pages": [
+        22
+      ],
+      "printed_pages": [
+        "014"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0073-01",
+          "pos": "v.",
+          "gloss": "呻吟",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0073-02",
+          "pos": "v.",
+          "gloss": "抱怨",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0073-03",
+          "pos": "v.",
+          "gloss": "呼啸",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0073-04",
+          "pos": "n.",
+          "gloss": "呻吟声；呼啸声；抱怨",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0073-01",
+          "sense_id": "s0073-01",
+          "english": "The injured man was lying on the ground, moaning.",
+          "translation": "受伤的人躺在地上呻吟着。",
+          "target": "moaning",
+          "target_start": 41,
+          "target_end": 48,
+          "book_label": "例",
+          "pdf_page": 22,
+          "printed_page": "014",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0073-02",
+          "sense_id": "s0073-02",
+          "english": "Their rules, moan the banks, have forced them to report enormous losses.",
+          "translation": "银行抱怨说，他们的（会计准则制定者所制定的）规则迫使他们报告巨额亏损。",
+          "target": "moan",
+          "target_start": 13,
+          "target_end": 17,
+          "book_label": "真题",
+          "pdf_page": 22,
+          "printed_page": "014",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0074",
+      "spelling": "mourn",
+      "phonetic": "/mɔːn/",
+      "source_definition": "v. 哀悼；忧伤；对……感到痛心或遗憾",
+      "mnemonic": "发音类似“默恩”→他默默“哀悼”他的恩人。",
+      "group_name": "15 背叛、抱怨相关词汇",
+      "pdf_pages": [
+        22
+      ],
+      "printed_pages": [
+        "014"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0074-01",
+          "pos": "v.",
+          "gloss": "哀悼；忧伤；对……感到痛心或遗憾",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0074-01",
+          "sense_id": "s0074-01",
+          "english": "He was still mourning his brother’s death.",
+          "translation": "他仍然在为哥哥的去世而悲伤。",
+          "target": "mourning",
+          "target_start": 13,
+          "target_end": 21,
+          "book_label": "例",
+          "pdf_page": 22,
+          "printed_page": "014",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [
+        {
+          "id": "r0074-01",
+          "spelling": "mourner",
+          "definition": "n. 哀悼者，悲伤者",
+          "relation": "derived",
+          "pdf_page": 22,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        },
+        {
+          "id": "r0074-02",
+          "spelling": "mournful",
+          "definition": "adj. 悲哀的，令人伤心的",
+          "relation": "derived",
+          "pdf_page": 22,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": [
+        "原书第二句 mourning 在介词of后作名词用法，另存关联素材，不直接记为动词掌握。"
+      ]
+    },
+    {
+      "id": "w0075",
+      "spelling": "appeal",
+      "phonetic": "/əˈpiːl/",
+      "source_definition": "n. 呼吁，恳求；上诉；v. 有吸引力；上诉；呼吁，恳请",
+      "mnemonic": "a（一个）+ p（联想成person“人”）+ peal（联想成plea“请求”）→一个人去请求大家做某件事→呼吁。",
+      "group_name": "16 上诉、质疑相关词汇",
+      "pdf_pages": [
+        23
+      ],
+      "printed_pages": [
+        "015"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0075-01",
+          "pos": "n.",
+          "gloss": "呼吁，恳求",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0075-02",
+          "pos": "n.",
+          "gloss": "上诉",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0075-03",
+          "pos": "v.",
+          "gloss": "有吸引力",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0075-04",
+          "pos": "v.",
+          "gloss": "上诉",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0075-05",
+          "pos": "v.",
+          "gloss": "呼吁，恳请",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0075-01",
+          "sense_id": "s0075-01",
+          "english": "The police made an appeal to the public to remain calm.",
+          "translation": "警方呼吁公众保持镇静。",
+          "target": "appeal",
+          "target_start": 19,
+          "target_end": 25,
+          "book_label": "例",
+          "pdf_page": 23,
+          "printed_page": "015",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0075-02",
+          "sense_id": "s0075-02",
+          "english": "A federal appeals court overturned the prior decision.",
+          "translation": "联邦上诉法院推翻了之前的判决。",
+          "target": "appeals",
+          "target_start": 10,
+          "target_end": 17,
+          "book_label": "真题",
+          "pdf_page": 23,
+          "printed_page": "015",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0075-01",
+          "spelling": "appealing",
+          "definition": "adj. 有吸引力的；有感染力的；令人感兴趣的",
+          "relation": "derived",
+          "pdf_page": 23,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0076",
+      "spelling": "prosecute",
+      "phonetic": "/ˈprɒsɪkjuːt/",
+      "source_definition": "v. 起诉，对……提起公诉，告发",
+      "mnemonic": "",
+      "group_name": "16 上诉、质疑相关词汇",
+      "pdf_pages": [
+        23
+      ],
+      "printed_pages": [
+        "015"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0076-01",
+          "pos": "v.",
+          "gloss": "起诉，对……提起公诉，告发",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0076-01",
+          "sense_id": "s0076-01",
+          "english": "The police decided not to prosecute.",
+          "translation": "警方决定不予起诉。",
+          "target": "prosecute",
+          "target_start": 26,
+          "target_end": 35,
+          "book_label": "例",
+          "pdf_page": 23,
+          "printed_page": "015",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0076-02",
+          "sense_id": "s0076-01",
+          "english": "Among prosecuted firms, those with the most comprehensive corporate social responsibility programmes tended to get more lenient penalties.",
+          "translation": "在受到起诉的公司中，那些有最全面的社会责任计划的公司往往会得到较为宽大的处罚。",
+          "target": "prosecuted",
+          "target_start": 6,
+          "target_end": 16,
+          "book_label": "真题",
+          "pdf_page": 23,
+          "printed_page": "015",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0077",
+      "spelling": "challenge",
+      "phonetic": "/ˈtʃælɪndʒ/",
+      "source_definition": "n. 挑战；难题；质疑；v. 向……挑战；质疑",
+      "mnemonic": "发音类似“采灵芝”。让你采灵芝，这难道不是一个巨大的“挑战”吗？",
+      "group_name": "16 上诉、质疑相关词汇",
+      "pdf_pages": [
+        23
+      ],
+      "printed_pages": [
+        "015"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0077-01",
+          "pos": "n.",
+          "gloss": "挑战；难题",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0077-02",
+          "pos": "n.",
+          "gloss": "质疑",
+          "origin": "editor_mapping",
+          "ready": false
+        },
+        {
+          "id": "s0077-03",
+          "pos": "v.",
+          "gloss": "向……挑战；质疑",
+          "origin": "editor_mapping",
+          "ready": false
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0077-01",
+          "sense_id": "s0077-01",
+          "english": "Countries need to work together to address the challenge of climate change.",
+          "translation": "各国需要共同努力，应对气候变化的挑战。",
+          "target": "challenge",
+          "target_start": 47,
+          "target_end": 56,
+          "book_label": "例",
+          "pdf_page": 23,
+          "printed_page": "015",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0077-02",
+          "sense_id": "s0077-01",
+          "english": "We might then begin to solve our immigration challenges.",
+          "translation": "然后我们可能会开始解决我们在移民方面所面临的挑战。",
+          "target": "challenges",
+          "target_start": 45,
+          "target_end": 55,
+          "book_label": "真题",
+          "pdf_page": 23,
+          "printed_page": "015",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0078",
+      "spelling": "float",
+      "phonetic": "/fləʊt/",
+      "source_definition": "v. 浮动；漂浮；浮；飘动；漂流",
+      "mnemonic": "f（联想成“浮”）+ loat（联想成boat“船”）→船在水面“漂浮”着。",
+      "group_name": "17 float相关近义词及形近词",
+      "pdf_pages": [
+        23
+      ],
+      "printed_pages": [
+        "015"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0078-01",
+          "pos": "v.",
+          "gloss": "浮动；漂浮；漂流",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0078-02",
+          "pos": "v.",
+          "gloss": "飘动",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0078-01",
+          "sense_id": "s0078-01",
+          "english": "The boats were floating gently down the river.",
+          "translation": "小船顺河悠悠漂下。",
+          "target": "floating",
+          "target_start": 15,
+          "target_end": 23,
+          "book_label": "例",
+          "pdf_page": 23,
+          "printed_page": "015",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0078-02",
+          "sense_id": "s0078-02",
+          "english": "Our noses are limited to perceiving those smells which float through the air.",
+          "translation": "我们的鼻子只能感知那些浮在空气中的气味。",
+          "target": "float",
+          "target_start": 55,
+          "target_end": 60,
+          "book_label": "真题",
+          "pdf_page": 23,
+          "printed_page": "015",
+          "review_status": "visual_checked",
+          "note": "真题标签仅据原书，年份题号未核实。"
+        }
+      ],
+      "related": [
+        {
+          "id": "r0078-01",
+          "spelling": "afloat",
+          "definition": "adv. （在水上）漂浮；有偿债能力；能维持下去",
+          "relation": "derived",
+          "pdf_page": 23,
+          "note": "仅作关联资料，不自动计入主词掌握进度。"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "id": "w0079",
+      "spelling": "drift",
+      "phonetic": "/drɪft/",
+      "source_definition": "v. 漂流；漂移；飘",
+      "mnemonic": "发音类似“坠浮它”→你在河里划船，看到一片叶子坠落下来浮在水面上，叶子在水面上“漂流”。",
+      "group_name": "17 float相关近义词及形近词",
+      "pdf_pages": [
+        23
+      ],
+      "printed_pages": [
+        "015"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0079-01",
+          "pos": "v.",
+          "gloss": "漂流；漂移",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0079-02",
+          "pos": "v.",
+          "gloss": "飘",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0079-01",
+          "sense_id": "s0079-01",
+          "english": "The empty boat drifted out to sea.",
+          "translation": "空船向海上漂去。",
+          "target": "drifted",
+          "target_start": 15,
+          "target_end": 22,
+          "book_label": "例",
+          "pdf_page": 23,
+          "printed_page": "015",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0079-02",
+          "sense_id": "s0079-02",
+          "english": "Smoke drifted across the room.",
+          "translation": "烟飘过房间。",
+          "target": "drifted",
+          "target_start": 6,
+          "target_end": 13,
+          "book_label": "例",
+          "pdf_page": 23,
+          "printed_page": "015",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    },
+    {
+      "id": "w0080",
+      "spelling": "draft",
+      "phonetic": "/drɑːft/",
+      "source_definition": "n. 草稿，草案，草图；v. 起草",
+      "mnemonic": "草稿（draft）就像是飘着（drift）的东西，定不下来。",
+      "group_name": "17 float相关近义词及形近词",
+      "pdf_pages": [
+        23,
+        24
+      ],
+      "printed_pages": [
+        "015",
+        "016"
+      ],
+      "review_status": "visual_checked",
+      "senses": [
+        {
+          "id": "s0080-01",
+          "pos": "n.",
+          "gloss": "草稿，草案，草图",
+          "origin": "editor_mapping",
+          "ready": true
+        },
+        {
+          "id": "s0080-02",
+          "pos": "v.",
+          "gloss": "起草",
+          "origin": "editor_mapping",
+          "ready": true
+        }
+      ],
+      "examples": [
+        {
+          "id": "e0080-01",
+          "sense_id": "s0080-01",
+          "english": "This is only the first draft of my speech.",
+          "translation": "这只是我演讲的初稿。",
+          "target": "draft",
+          "target_start": 23,
+          "target_end": 28,
+          "book_label": "例",
+          "pdf_page": 24,
+          "printed_page": "016",
+          "review_status": "visual_checked",
+          "note": ""
+        },
+        {
+          "id": "e0080-02",
+          "sense_id": "s0080-02",
+          "english": "Members of Parliament are busy drafting new legislation.",
+          "translation": "议员们正忙于起草新的立法。",
+          "target": "drafting",
+          "target_start": 31,
+          "target_end": 39,
+          "book_label": "例",
+          "pdf_page": 24,
+          "printed_page": "016",
+          "review_status": "visual_checked",
+          "note": ""
+        }
+      ],
+      "related": [],
+      "notes": []
+    }
+  ],
+  "policy": "按原扫描页人工视觉转录；词义为编辑拆分；音标未作外部词典复核。原书疑点隔离，不补造内容。"
+}

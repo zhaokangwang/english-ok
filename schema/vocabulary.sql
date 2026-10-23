@@ -1,0 +1,12 @@
+PRAGMA foreign_keys = ON;
+PRAGMA user_version = 2;
+CREATE TABLE metadata (key TEXT PRIMARY KEY, value TEXT NOT NULL);
+CREATE TABLE sources (id TEXT PRIMARY KEY, filename TEXT NOT NULL, sha256 TEXT NOT NULL, page_count INTEGER NOT NULL);
+CREATE TABLE words (id TEXT PRIMARY KEY, spelling TEXT NOT NULL UNIQUE, phonetic TEXT, source_definition TEXT NOT NULL, mnemonic TEXT, group_name TEXT NOT NULL, pdf_pages TEXT NOT NULL, printed_pages TEXT NOT NULL, review_status TEXT NOT NULL CHECK(review_status IN ('visual_checked','pending')));
+CREATE TABLE senses (id TEXT PRIMARY KEY, word_id TEXT NOT NULL REFERENCES words(id), pos TEXT NOT NULL, gloss TEXT NOT NULL, origin TEXT NOT NULL CHECK(origin IN ('book','editor_mapping')), ready INTEGER NOT NULL CHECK(ready IN (0,1)));
+CREATE TABLE examples (id TEXT PRIMARY KEY, word_id TEXT NOT NULL REFERENCES words(id), sense_id TEXT NOT NULL REFERENCES senses(id), english TEXT NOT NULL, translation TEXT NOT NULL, target TEXT NOT NULL, target_start INTEGER NOT NULL, target_end INTEGER NOT NULL, book_label TEXT NOT NULL, pdf_page INTEGER NOT NULL, printed_page TEXT NOT NULL, review_status TEXT NOT NULL, note TEXT NOT NULL);
+CREATE TABLE related_words (id TEXT PRIMARY KEY, parent_word_id TEXT NOT NULL REFERENCES words(id), spelling TEXT NOT NULL, definition TEXT NOT NULL, relation TEXT NOT NULL, pdf_page INTEGER NOT NULL, note TEXT NOT NULL);
+CREATE INDEX examples_sense ON examples(sense_id);
+CREATE INDEX senses_word ON senses(word_id);
+CREATE TABLE units (id TEXT PRIMARY KEY, title TEXT NOT NULL, subtitle TEXT NOT NULL, sort_order INTEGER NOT NULL UNIQUE, complete INTEGER NOT NULL CHECK(complete IN (0,1)));
+CREATE TABLE unit_words (unit_id TEXT NOT NULL REFERENCES units(id), word_id TEXT NOT NULL UNIQUE REFERENCES words(id), sort_order INTEGER NOT NULL, PRIMARY KEY(unit_id,word_id));

@@ -1,0 +1,23 @@
+{
+  "method":"manual_visual_transcription",
+  "note":"本批关联素材与原书疑点。英文和翻译据扫描页保留；不直接作为主词学习卡。",
+  "items":[
+    {"word":"steer clear of","pdf_page":14,"label":"拓展","definition":"避开；回避"},
+    {"word":"arouse","pdf_page":15,"label":"真题","status":"quarantined","english":"The idea arose because of the perplexing behavior of the women in the plant.","translation":"这个想法的产生是因为工厂里女性的令人迷惑的行为。","reason":"原书放在arouse下，但arose是arise过去式；未自动改挂，待编辑确认。"},
+    {"word":"amazing","pdf_page":16,"label":"真题","english":"The networked computer is an amazing device.","translation":"联网的计算机是一个了不起的设备。"},
+    {"word":"recreation","pdf_page":17,"label":"真题","status":"quarantined","english":"But traditionally they’ve focused on wildlife, watersheds and opportunities for recreation.","translation":"但历来他们关注的都是野生动物、水域和再造的机会。","reason":"原书将recreation译为再造；结合上下文疑似应为休闲娱乐，保留原译待核实。"},
+    {"word":"leisure activities/pursuits","pdf_page":17,"label":"拓展","definition":"休闲活动/爱好"},
+    {"word":"retirement","pdf_page":17,"label":"真题","english":"Meanwhile, it has more than $120 billion in unfunded liabilities, mostly for employee health and retirement costs.","translation":"同时，它还背负着一千两百多亿美元的无资金准备债务，主要用于员工医保和退休金。"},
+    {"word":"entirely","pdf_page":17,"label":"例","english":"Don’t dismiss that possibility entirely.","translation":"不要完全排除那种可能性。"},
+    {"word":"entirely","pdf_page":17,"label":"真题","english":"But the wonderful thing about failure is that it’s entirely up to us to decide how to look at it.","translation":"但是关于失败最神奇的事情在于，完全由我们自己决定如何看待它。"},
+    {"word":"merely","pdf_page":18,"label":"真题","english":"Merely expanding the orchestra’s repertoire will not be enough.","translation":"仅仅扩大乐团的曲目是不够的。"},
+    {"word":"profitable","pdf_page":19,"label":"真题","english":"But almost all have ignored the big, profitable opportunity in their own backyard.","translation":"但几乎所有人都忽视了自家后院的巨大盈利机会。"},
+    {"word":"profoundly","pdf_page":19,"label":"真题","english":"I had not realised how profoundly marketing trends dictated our perception of what is natural to kids.","translation":"我原来没有意识到，营销趋势深刻地影响着我们对儿童天性的理解。"},
+    {"word":"baby boom","pdf_page":20,"label":"拓展","definition":"婴儿潮"},
+    {"word":"gloomy","pdf_page":20,"label":"例","english":"It was a wet and gloomy day.","translation":"那一天下着雨，阴沉沉的。"},
+    {"word":"complaint","pdf_page":22,"label":"例","english":"It is natural for students to make complaints about university education.","translation":"学生抱怨大学教育是很自然的事。"},
+    {"word":"complaint","pdf_page":22,"label":"真题","english":"But there are few places where clients have more grounds for complaint than America.","translation":"但是很少有地方可以像美国这样有更多的理由抱怨律师这个行业。"},
+    {"word":"gross income/wage","pdf_page":22,"label":"拓展","definition":"（税前）总收益/工资"},
+    {"word":"mourn","pdf_page":22,"label":"真题","english":"When our time of mourning is over, we press forward.","translation":"当我们的忧伤结束后，我们继续前进。","reason":"mourning为名词用法，尚未建立独立学习词义。"}
+  ]
+}

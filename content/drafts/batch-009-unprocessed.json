@@ -1,0 +1,15 @@
+{
+  "batch_id": "batch-009",
+  "status": "unprocessed",
+  "owner_pages": [
+    153,
+    154
+  ],
+  "next_word": "compatible",
+  "next_pdf_page": 153,
+  "next_id": "w1309",
+  "last_saved_headword": "pioneer",
+  "last_completed_pdf_page": 152,
+  "error": "stream disconnected before completion: regurg plugin blocked the output stream.",
+  "note": "中断发生在继续转录153页的输出阶段；可见工具记录未显示具体被拦截调用，不能确定是哪一个词或句子触发。仅已保存135–152页主词发布，未重试153–154文本。"
+}

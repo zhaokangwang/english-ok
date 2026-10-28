@@ -1,0 +1,198 @@
+{
+  "method": "manual_visual_transcription",
+  "items": [
+    {
+      "word": "frequency",
+      "pdf_page": 175,
+      "label": "真题",
+      "english": "Though often viewed as a problem for western states, the growing frequency of wildfires is a national concern because of its impact on federal tax dollars.",
+      "translation": "虽然野火的频繁发生经常被视为西部各州的一个问题，但由于它对联邦税收的影响，它已经成为全国关注的问题。"
+    },
+    {
+      "word": "frequently",
+      "pdf_page": 175,
+      "label": "真题",
+      "english": "Throughout the evening, one man had been particularly talkative, frequently offering ideas and anecdotes, while his wife sat silently beside him on the couch.",
+      "translation": "整个晚上，一位男士显得特别健谈，频繁表达自己的观点，讲述一些逸闻趣事，而他妻子则安静地坐在他旁边的沙发上。"
+    },
+    {
+      "word": "terminate",
+      "pdf_page": 176,
+      "label": "例",
+      "english": "You have no right to terminate the contract.",
+      "translation": "你无权终止合同。"
+    },
+    {
+      "word": "surgeon",
+      "pdf_page": 176,
+      "label": "例",
+      "english": "I knew that I owed the surgeon my life.",
+      "translation": "我明白外科医生救了我的命。"
+    },
+    {
+      "word": "sympathise",
+      "pdf_page": 180,
+      "label": "例",
+      "english": "Don’t always rely on others to understand and sympathise.",
+      "translation": "不要老是指望别人的理解和同情。"
+    },
+    {
+      "word": "the splitting of the atom",
+      "pdf_page": 181,
+      "label": "拓展",
+      "definition": "原子的分裂"
+    },
+    {
+      "word": "electronic",
+      "pdf_page": 182,
+      "label": "例",
+      "english": "Airline passengers no longer have to turn off all electronic devices while on the plane.",
+      "translation": "飞机上的乘客不再需要关闭所有的电子设备。"
+    },
+    {
+      "word": "electronic money",
+      "pdf_page": 182,
+      "label": "拓展",
+      "definition": "电子货币"
+    },
+    {
+      "word": "a nuclear reactor",
+      "pdf_page": 182,
+      "label": "拓展",
+      "definition": "核反应堆"
+    },
+    {
+      "word": "analysis",
+      "pdf_page": 182,
+      "label": "真题",
+      "english": "The great question is who should benefit from the analysis of all the data that our lives now generate.",
+      "translation": "重要的问题是，谁应该从我们现今生活中产生的所有数据的分析中受益。"
+    },
+    {
+      "word": "emphasis",
+      "pdf_page": 182,
+      "label": "例",
+      "english": "Increased emphasis is now being placed on corporate image.",
+      "translation": "现在越来越强调企业形象。"
+    },
+    {
+      "word": "tolerance",
+      "pdf_page": 183,
+      "label": "例",
+      "english": "She had no tolerance for jokes of any kind.",
+      "translation": "她容不得开任何玩笑。"
+    },
+    {
+      "word": "non-durable",
+      "pdf_page": 183,
+      "label": "真题",
+      "status": "quarantined",
+      "english": "Mass-produced clothing, like fast food, fills a hunger and need, yet is non-durable and wasteful.",
+      "translation": "批量生产的服装，就像快餐一样，满足了饥饿感和需求，但却不耐用且浪费。",
+      "reason": "原书列在durable派生项下，实际目标non-durable含否定前缀；关联保存，不把不耐用反挂到耐用义。"
+    },
+    {
+      "word": "fantastic",
+      "pdf_page": 185,
+      "label": "例",
+      "english": "This was a fantastic opportunity for students.",
+      "translation": "这对学生来说是一个极好的机会。"
+    },
+    {
+      "word": "fashionable",
+      "pdf_page": 186,
+      "label": "例",
+      "english": "It’s becoming fashionable to have long hair again.",
+      "translation": "现在又开始流行留长发了。"
+    },
+    {
+      "word": "indignation",
+      "pdf_page": 187,
+      "label": "例",
+      "english": "The rise in train fares has aroused public indignation.",
+      "translation": "火车票提价激起了公愤。"
+    },
+    {
+      "word": "outrage",
+      "pdf_page": 187,
+      "label": "真题",
+      "english": "Everybody loves a fat pay rise. Yet pleasure at your own can vanish if you learn that a colleague has been given a bigger one. Indeed, if he has a reputation for slacking, you might even be outraged.",
+      "translation": "人人都喜欢大幅度加薪。然而，如果你得知某位同事得到了更大的加薪，自己的快乐就会消失。事实上，如果他有懒散的名声，你甚至可能会愤怒。"
+    },
+    {
+      "word": "hospitality",
+      "pdf_page": 187,
+      "label": "例",
+      "english": "The natives are noted for their hospitality.",
+      "translation": "当地人以好客而闻名。"
+    },
+    {
+      "word": "orientation",
+      "pdf_page": 188,
+      "label": "例",
+      "english": "The course is essentially theoretical in orientation.",
+      "translation": "该课程的定位是以理论为主。"
+    },
+    {
+      "word": "flattering",
+      "pdf_page": 190,
+      "label": "真题",
+      "english": "If the subjects quickly chose a falsely flattering image—which most did—they genuinely believed it was really how they looked.",
+      "translation": "如果受试者很快选择了一张比本人好看的虚假照片——大多数人都这么选了——那他们打心底相信这张照片就是他们真实的样子。"
+    },
+    {
+      "word": "radiant",
+      "pdf_page": 190,
+      "label": "例",
+      "english": "She was radiant with health.",
+      "translation": "她身体健康，容光焕发。"
+    },
+    {
+      "word": "a flash of lightning",
+      "pdf_page": 190,
+      "label": "拓展",
+      "definition": "一道闪电"
+    },
+    {
+      "word": "novelty",
+      "pdf_page": 191,
+      "label": "真题",
+      "english": "Novelty itself frequently provokes disbelief.",
+      "translation": "新奇的事物本身经常引起怀疑。"
+    },
+    {
+      "word": "mysterious",
+      "pdf_page": 191,
+      "label": "例",
+      "english": "The whole thing was very mysterious.",
+      "translation": "整件事非常神秘。"
+    },
+    {
+      "word": "virtually",
+      "pdf_page": 192,
+      "label": "真题",
+      "english": "Unfortunately, these critics are virtually forgotten.",
+      "translation": "不幸的是，这些评论家几乎被遗忘了。"
+    },
+    {
+      "word": "a birth/marriage/death certificate",
+      "pdf_page": 193,
+      "label": "拓展",
+      "definition": "出生/结婚/死亡证明"
+    },
+    {
+      "word": "diplomatic",
+      "pdf_page": 193,
+      "label": "例",
+      "english": "Attempts are being made to settle the dispute by diplomatic means.",
+      "translation": "正在努力通过外交途径解决争端。"
+    },
+    {
+      "word": "perplexed",
+      "pdf_page": 194,
+      "label": "例",
+      "english": "We are all perplexed as to how this happened.",
+      "translation": "我们都对这事是如何发生的感到困惑不已。"
+    }
+  ]
+}

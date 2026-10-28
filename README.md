@@ -1,6 +1,6 @@
 # English OK · 第一步数据样本
 
-先审核词汇内容，再开发完整学习产品。当前累计导入五批：345个主要词条、680个拆分词义、635条例句，其中474个词义可学习。第一单元165词、第二单元180词主词已收录完整。派生资料和待核实内容另存，音标未作外部词典复核。
+当前词库版本 vocabulary-0.13.0：1165个主要词条、2512个拆分词义、2175条例句，其中1607个词义可学习。第一单元165词、第二单元180词、第四单元189词、第六单元165词、第七单元182词主词已完整；第三单元164词仍缺第六批23词；第五单元120词仍缺第九批153–154页。第十三批PDF215 ease至233 instrument新增114词，234为第八单元扉页；下一批从235页basis开始。第九批续接断点compatible153/w1309保留。派生资料和待核实内容另存，音标未作外部词典复核。
 
 ## 先看内容
 
@@ -9,6 +9,14 @@
 - [第三批审阅稿](docs/batch-003-review.md)：sketch至hasty，新增85个主词，第一单元收尾。
 - [第四批审阅稿](docs/batch-004-review.md)：第二单元agent至prevail，新增104个主词。
 - [第五批审阅稿](docs/batch-005-review.md)：avail至stare，新增76个主词，第二单元收尾。
+- [第六批审阅稿](docs/batch-006-review.md)：本次部分导入83词；[缺口清单](content/drafts/batch-006-missing.json)记录尚未导入的23词。
+- [第七批审阅稿](docs/batch-007-review.md)：PDF95 coordinate至114 detect共105词，末词续至115页。
+- [第八批审阅稿](docs/batch-008-review.md)：PDF115 spot至134 temper共111词，新增146项学习内容。
+- [第九批审阅稿](docs/batch-009-review.md)：PDF135 personality至152 pioneer部分导入93词；[未完成页记录](content/drafts/batch-009-unprocessed.json)与[中断定位](docs/batch-009-interruption.md)。
+- [第十批审阅稿](docs/batch-010-review.md)：PDF155 upset至174 occasion共104词，新增143项学习内容；170为第六单元扉页。
+- [第十一批审阅稿](docs/batch-011-review.md)：PDF175 opportunity至194 confuse共109词，新增157项学习内容，均属第六单元。
+- [第十二批审阅稿](docs/batch-012-review.md)：PDF195 refuse至214 alleviate共101词，新增139项学习内容；202为第七单元扉页。
+- [第十三批审阅稿](docs/batch-013-review.md)：PDF215 ease至233 instrument共114词，新增151项学习内容，第七单元收尾；使用本机OCR辅助并逐页视觉核对。
 - [批次清单](docs/batch-plan.md)、[导入规则](docs/import-rules.md)、[导入报告](docs/import-report.md)。
 - 结构化输入：[第一批](content/sample.json)、[第二批](content/batches/batch-002.json)、[第三批](content/batches/batch-003.json)、[第四批](content/batches/batch-004.json)，由[批准清单](content/import-plan.json)累计合并。
 - [来源清单](content/source-manifest.json)：原文件SHA256、页数、抽样范围。
@@ -37,7 +45,7 @@ npm run dev:lan
 
 ## 数据文件
 
-- web/data/vocabulary.sqlite：可重复生成的累计词库，当前345词。
+- web/data/vocabulary.sqlite：可重复生成的累计词库，当前1165词。
 - web/data/learning.sqlite：空白模板，不能当成用户正在使用的数据库。
 - 实际个人记录：浏览器IndexedDB english-ok-sqlite，页面可导出JSON或SQLite。
 - 不要清除网站数据；换网址或换设备前先导出JSON，再在新环境导入。
@@ -60,6 +68,8 @@ npm test
 ```
 
 build_data.py读取批准清单中的输入，验证身份和关联后发布累计词库，不会覆盖浏览器个人进度。seed_sample.py与transcribe_batch*.py是最初转录脚本，通常不重新运行，以免覆盖后续人工修改的JSON。原PDF保持不变；渲染图片在tmp/pdfs。
+
+第十三批起复用[通用导入工具](scripts/import_batch.py)和[批次配置](scripts/batch013-config.json)。本机OCR使用Windows自带简体中文识别，文字与坐标缓存在tmp/pdfs，缓存按图片SHA256和语言校验；音标、词义映射和跨页内容仍需视觉核对。完整步骤见[导入流程](docs/import-workflow.md)。
 
 正在学习的旧队列不会自动重排，完成后可点击“继续学习新增内容”。新用户会读取当前全部可学习词义。仍未实现正式按日任务。
 

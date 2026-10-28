@@ -1,0 +1,268 @@
+{
+  "method": "manual_visual_transcription",
+  "items": [
+    {
+      "word": "intensity",
+      "pdf_page": 116,
+      "label": "真题",
+      "english": "Increase time, distance, and intensity gradually.",
+      "translation": "逐渐增加时间、距离和强度。"
+    },
+    {
+      "word": "common sense",
+      "pdf_page": 116,
+      "label": "真题",
+      "definition": "常识",
+      "english": "But when it came to their houses, it was a time of common sense and a belief that less could truly be more.",
+      "translation": "但当涉及他们的房子时，这是一个“少即是多”成为常识和信念的时代。",
+      "reason": "固定搭配common sense另存，未直接作为sense单列意义或感觉词义的例句。"
+    },
+    {
+      "word": "sensational",
+      "pdf_page": 117,
+      "label": "真题",
+      "english": "Their sometimes sensational findings were filled with warnings about the growing competition from overseas.",
+      "translation": "有时他们那些耸人听闻的发现里充满了对海外竞争日益增长的警告之词。"
+    },
+    {
+      "word": "injury",
+      "pdf_page": 117,
+      "label": "例",
+      "english": "He was lucky to escape injury.",
+      "translation": "他很幸运没有受伤。"
+    },
+    {
+      "word": "particularly",
+      "pdf_page": 119,
+      "label": "例",
+      "english": "The visitors were particularly impressed with the dessert.",
+      "translation": "游客们对甜点印象特别深刻。"
+    },
+    {
+      "word": "expertise",
+      "pdf_page": 120,
+      "label": "例",
+      "english": "We have the expertise to help you run your business.",
+      "translation": "我们有帮助你经营自己企业的专门知识。"
+    },
+    {
+      "word": "specify",
+      "pdf_page": 120,
+      "label": "真题",
+      "english": "The justices had to specify novel rules for the new personal domain of the passenger car.",
+      "translation": "那时法官们不得不为小轿车这一新兴私人领域明确新规则。"
+    },
+    {
+      "word": "specification",
+      "pdf_page": 120,
+      "label": "例",
+      "english": "The office was furnished to a high specification.",
+      "translation": "办公室是按高规格装潢的。"
+    },
+    {
+      "word": "inferiority",
+      "pdf_page": 121,
+      "label": "真题",
+      "english": "Working with your hands is seen as almost a mark of inferiority.",
+      "translation": "用双手工作几乎被看作是低下的表现。"
+    },
+    {
+      "word": "the Supreme Court",
+      "pdf_page": 121,
+      "label": "拓展",
+      "definition": "最高法院"
+    },
+    {
+      "word": "the Supreme Court",
+      "pdf_page": 121,
+      "label": "例",
+      "english": "The Supreme Court has delivered its opinion in a controversial case.",
+      "translation": "最高法院对一个有争议的案件发表了意见。"
+    },
+    {
+      "word": "religious",
+      "pdf_page": 122,
+      "label": "例",
+      "english": "His wife is very religious.",
+      "translation": "他的妻子非常虔诚。"
+    },
+    {
+      "word": "relative",
+      "pdf_page": 122,
+      "label": "例",
+      "english": "Mary is going to get a little dog from one of her relatives.",
+      "translation": "玛丽打算从她的一个亲戚那里领养一只小狗。"
+    },
+    {
+      "word": "relevance",
+      "pdf_page": 123,
+      "label": "例",
+      "english": "I don’t see the relevance of your question.",
+      "translation": "我不懂你这个问题有什么意义。"
+    },
+    {
+      "word": "regularly",
+      "pdf_page": 123,
+      "label": "例",
+      "english": "She regularly appears on TV.",
+      "translation": "她经常在电视上露面。"
+    },
+    {
+      "word": "vigour",
+      "pdf_page": 125,
+      "label": "拓展",
+      "definition": "（美vigor）n. 精力，活力"
+    },
+    {
+      "word": "vigour",
+      "pdf_page": 125,
+      "label": "例",
+      "english": "She was a wonderful, bubbly girl, full of vigour.",
+      "translation": "她是个了不起的女孩，乐天活泼，活力四射。"
+    },
+    {
+      "word": "vitality",
+      "pdf_page": 128,
+      "label": "例",
+      "english": "The music has a wonderful freshness and vitality.",
+      "translation": "这首乐曲给人以绝妙的新鲜感和活力。"
+    },
+    {
+      "word": "inevitably",
+      "pdf_page": 129,
+      "label": "例",
+      "english": "Inevitably, the press exaggerated the story.",
+      "translation": "新闻界照例又夸大了这件事。"
+    },
+    {
+      "word": "response",
+      "pdf_page": 130,
+      "label": "例",
+      "english": "I received an immediate response to my request.",
+      "translation": "我的请求立即得到了答复。"
+    },
+    {
+      "word": "response",
+      "pdf_page": 130,
+      "label": "例",
+      "english": "I am writing in response to your enquiry.",
+      "translation": "我写信是为了答复你的询问。"
+    },
+    {
+      "word": "responsibility",
+      "pdf_page": 130,
+      "label": "例",
+      "english": "It’s time for someone to take responsibility and get the job done.",
+      "translation": "是时候有人承担责任，完成工作了。"
+    },
+    {
+      "word": "correspondence",
+      "pdf_page": 130,
+      "label": "真题",
+      "english": "comprehensive records of recent correspondence",
+      "translation": "近期通信往来的详尽记录",
+      "status": "quarantined",
+      "reason": "原书为短语残片，非完整例句，保留关联资料不进入学习队列。"
+    },
+    {
+      "word": "corresponding",
+      "pdf_page": 130,
+      "label": "真题",
+      "english": "Such a view would require a corresponding shift in the way US society views fire, researchers say.",
+      "translation": "研究者说，这样的观念需要当今美国社会相应地转变对火灾的看法。"
+    },
+    {
+      "word": "likelihood",
+      "pdf_page": 131,
+      "label": "例",
+      "english": "There is very little likelihood of that happening.",
+      "translation": "几乎没有发生那种事情的可能。"
+    },
+    {
+      "word": "unlike",
+      "pdf_page": 131,
+      "label": "拓展",
+      "definition": "adj. 不同的，不相似的；prep. 不像；与……不同"
+    },
+    {
+      "word": "unlike",
+      "pdf_page": 131,
+      "label": "例",
+      "english": "They are both teachers. Otherwise they are quite unlike.",
+      "translation": "他们俩都是教师。除此之外他们迥然不同。"
+    },
+    {
+      "word": "alike",
+      "pdf_page": 131,
+      "label": "拓展",
+      "definition": "adj. 相像的，相似的；adv. 十分相像地"
+    },
+    {
+      "word": "alike",
+      "pdf_page": 131,
+      "label": "例",
+      "english": "They tried to treat all their children alike.",
+      "translation": "他们尽量对他们的孩子一视同仁。"
+    },
+    {
+      "word": "likewise",
+      "pdf_page": 131,
+      "label": "拓展",
+      "definition": "adv. 同样地，也"
+    },
+    {
+      "word": "likewise",
+      "pdf_page": 131,
+      "label": "例",
+      "english": "He voted for the change and he expected his colleagues to do likewise.",
+      "translation": "他投票赞成变革并期望他的同事投同样的票。"
+    },
+    {
+      "word": "probability",
+      "pdf_page": 131,
+      "label": "例",
+      "english": "A fall in interest rates is a strong probability in the present economic climate.",
+      "translation": "在目前的经济形势下，降低利率大有可能。"
+    },
+    {
+      "word": "underestimate",
+      "pdf_page": 133,
+      "label": "真题",
+      "english": "It is easy to underestimate English writer James Herriot.",
+      "translation": "人们很容易低估英国作家詹姆斯·赫里奥特。"
+    },
+    {
+      "word": "intimate friends",
+      "pdf_page": 133,
+      "label": "拓展",
+      "definition": "密友"
+    },
+    {
+      "word": "ultimately",
+      "pdf_page": 133,
+      "label": "真题",
+      "english": "The most challenging moments in life are getting married, starting a family and ultimately retiring.",
+      "translation": "生活中最具挑战性的时刻是结婚、成家和最终退休。"
+    },
+    {
+      "word": "approximately",
+      "pdf_page": 134,
+      "label": "真题",
+      "english": "Still, Jefferson freed Hemings’s children—though not Hemings herself or his approximately 150 other slaves.",
+      "translation": "尽管如此，杰斐逊还是释放了海明斯的孩子们，虽然没有释放海明斯本人和其他大约150名奴隶。"
+    },
+    {
+      "word": "surroundings",
+      "pdf_page": 134,
+      "label": "例",
+      "english": "His paintings try to capture the beauty of the surroundings.",
+      "translation": "他的画试图捕捉周围环境的美。"
+    },
+    {
+      "word": "lose / keep one’s temper",
+      "pdf_page": 134,
+      "label": "拓展",
+      "definition": "发脾气／忍住怒火"
+    }
+  ]
+}

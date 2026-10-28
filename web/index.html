@@ -1,22 +1,85 @@
 <!doctype html>
 <html lang="zh-CN">
-<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>English OK · 语境学词</title><link rel="stylesheet" href="style.css">
-<body><main class="app">
-<header class="header"><div><span class="tag">ENGLISH OK</span><h1 id="page-title">语境学词</h1></div><span class="local-label">本地词库</span></header>
-<div id="status" role="status">正在打开本地词库…</div>
-<section id="study-page" class="page study-page" aria-label="学习">
-<div class="study-meta"><span>读懂一句，再记住一个意思</span><span id="position"></span></div>
-<div class="study-scroll" id="study-scroll"><div id="task"></div></div>
-<div class="study-dock"><button id="more-content" class="primary wide" hidden disabled>继续学习新增内容</button><button id="reveal" class="primary" disabled>查看讲解</button><div id="ratings" class="rating-grid" hidden><button data-rating="again" disabled>不会<span>再学一次</span></button><button data-rating="hard" disabled>模糊<span>需要巩固</span></button><button data-rating="good" class="primary" disabled>掌握<span>继续下一个</span></button></div><button id="full-entry" class="text-button" disabled>查看完整词条 →</button></div>
-</section>
-<section id="vocab-page" class="page scroll-page" aria-label="词库" hidden>
-<div id="vocab-list"><p class="muted">按单元快速预览 · 左侧英文，右侧中文</p><div id="unit-list"></div></div><div id="vocab-detail" hidden><button id="back-list" class="text-button">← 返回单词列表</button><button id="back-study" class="text-button" hidden>← 返回当前学习</button><article id="word" class="card"></article></div>
-</section>
-<section id="settings-page" class="page scroll-page" aria-label="设置" hidden>
-<section class="card"><span class="tag">学习记录</span><h2 id="progress"></h2><p class="muted">每次反馈自动保存在当前浏览器，退出后可以继续。</p></section>
-<section class="card"><h2>数据管理</h2><p>换设备、换网址或清理网站数据前，请先导出备份。</p><button id="export" class="primary wide" disabled>导出学习备份</button><button id="import" class="wide" disabled>从备份恢复</button><input id="file" type="file" accept="application/json,.json" hidden><p class="meta">恢复会替换本机学习记录，不会更改词库。请先备份。</p><details><summary>更多数据选项</summary><button id="sqlite" disabled>导出 SQLite 文件</button><h3>最近的学习记录</h3><pre id="history"></pre></details></section>
-<p class="meta about">当前为分批导入的试用词库，复习间隔使用演示规则。尚未提供音频、正式每日任务与离线启动缓存。</p>
-</section>
-<nav class="navigation" aria-label="主导航"><a href="#study" data-page="study" aria-current="page"><span>◉</span>学习</a><a href="#vocab" data-page="vocab"><span>▤</span>词库</a><a href="#settings" data-page="settings"><span>⚙</span>设置</a></nav>
-</main><script src="vendor/sql-wasm.js"></script><script type="module" src="app.mjs"></script></body></html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#eff8f5">
+  <meta name="description" content="English OK，在真实语境中理解单词，记住单词。">
+  <title>English OK · 语境学词</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main class="app" data-current-page="study">
+  <header class="header">
+    <div class="header-copy">
+      <span class="tag brand" lang="en">ENGLISH OK</span>
+      <h1 id="page-title">语境学词</h1>
+      <span class="local-label">本地词库</span>
+      <p id="page-subtitle" class="page-subtitle" hidden></p>
+    </div>
+    <div id="study-progress" class="study-progress">
+      <span class="progress-caption">本轮学习</span>
+      <span id="position" class="position">— / —</span>
+      <progress id="session-progress" max="1" value="0" aria-label="本轮已完成词义"></progress>
+    </div>
+  </header>
+  <div id="status" role="status">正在打开本地词库…</div>
+  <section id="study-page" class="page study-page" aria-label="学习">
+    <div class="study-scroll" id="study-scroll">
+      <div id="task"></div>
+      <button id="full-entry" class="text-button entry-link" disabled>查看完整词条 <span aria-hidden="true">→</span></button>
+    </div>
+    <div class="study-dock">
+      <div class="study-browse" role="group" aria-label="回看已学单词">
+        <button id="previous-word" disabled>← 上一个单词</button>
+        <button id="next-word" hidden disabled>下一个单词 →</button>
+      </div>
+      <button id="resume-study" class="text-button resume-study" hidden disabled>返回当前学习</button>
+      <button id="more-content" class="primary wide" hidden disabled>继续学习新增内容</button>
+      <button id="reveal" class="primary" disabled>查看讲解 <span aria-hidden="true">→</span></button>
+      <div id="ratings" class="rating-grid" hidden>
+        <button data-rating="again" disabled>不会<span>再学一次</span></button>
+        <button data-rating="hard" disabled>模糊<span>需要巩固</span></button>
+        <button data-rating="good" class="primary" disabled>掌握<span>继续下一个</span></button>
+      </div>
+    </div>
+  </section>
+  <section id="vocab-page" class="page scroll-page" aria-label="词库" hidden>
+    <div id="vocab-list"><div id="unit-list"></div></div>
+    <div id="vocab-detail" hidden>
+      <button id="back-list" class="text-button">← 返回单词列表</button>
+      <button id="back-study" class="text-button" hidden>← 返回当前学习</button>
+      <article id="word" class="card word-detail"></article>
+    </div>
+  </section>
+  <section id="settings-page" class="page scroll-page" aria-label="设置" hidden>
+    <section class="card progress-card">
+      <span class="tag">学习记录</span><h2 id="progress">正在读取记录…</h2>
+      <p class="muted">每次反馈自动保存在当前浏览器，退出后可以继续。</p>
+    </section>
+    <section class="card">
+      <h2>数据管理</h2><p class="muted">换设备、换网址或清理网站数据前，请先导出备份。</p>
+      <button id="export" class="primary wide" disabled>导出学习备份 <span aria-hidden="true">↗</span></button>
+      <button id="import" class="wide" disabled>从备份恢复</button>
+      <input id="file" type="file" accept="application/json,.json" hidden>
+      <p class="meta">恢复会替换本机学习记录，不会更改词库。请先备份。</p>
+      <details><summary>更多数据选项</summary><button id="sqlite" disabled>导出 SQLite 文件</button><h3>最近的学习记录</h3><pre id="history"></pre></details>
+    </section>
+    <p class="meta about">当前为分批导入的试用词库，复习间隔使用演示规则。尚未提供音频、正式每日任务与离线启动缓存。</p>
+  </section>
+  <nav class="navigation" aria-label="主导航">
+    <a href="#study" data-page="study" aria-current="page">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 5.5C9.1 3.4 5.1 3.2 2.5 4.5v15c3-1.4 6.6-1.1 9.5 1 2.9-2.1 6.5-2.4 9.5-1v-15c-2.6-1.3-6.6-1.1-9.5 1Z"/><path d="M12 5.5v15"/></svg><span>学习</span>
+    </a>
+    <a href="#vocab" data-page="vocab">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="5" y="2.5" width="15" height="19" rx="2"/><path d="M5 5H3v14h2M9 7h7M9 11h7M9 15h4"/></svg><span>词库</span>
+    </a>
+    <a href="#settings" data-page="settings">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9.5 3-.6 2a7 7 0 0 0-1.7 1L5 5.5 2.5 9.7 4 11.2a8 8 0 0 0 0 1.6l-1.5 1.5L5 18.5l2.2-.5a7 7 0 0 0 1.7 1l.6 2h5l.6-2a7 7 0 0 0 1.7-1l2.2.5 2.5-4.2-1.5-1.5a8 8 0 0 0 0-1.6l1.5-1.5L19 5.5l-2.2.5a7 7 0 0 0-1.7-1l-.6-2Z"/><circle cx="12" cy="12" r="3"/></svg><span>设置</span>
+    </a>
+  </nav>
+</main>
+<script src="vendor/sql-wasm.js"></script>
+<script type="module" src="app.mjs"></script>
+</body>
+</html>

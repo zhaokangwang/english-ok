@@ -1,0 +1,71 @@
+{
+  "status": "imported",
+  "completed_pages": [
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234
+  ],
+  "words": 114,
+  "last_word": "instrument",
+  "start_id": "w2314",
+  "context_pages_reviewed": [
+    235
+  ],
+  "next_word": "basis",
+  "next_pdf_page": 235,
+  "next_id": "w2428",
+  "continuations": [],
+  "merged_parts": [
+    "batch013_pages215_219",
+    "batch013_pages220_224",
+    "batch013_pages225_229",
+    "batch013_pages230_234"
+  ],
+  "saved_part_pages": {
+    "batch013_pages215_219": 219,
+    "batch013_pages220_224": 224,
+    "batch013_pages225_229": 229,
+    "batch013_pages230_234": 234
+  },
+  "note": "第十三批215–234页114个主词已导入，第七单元182主词完整；234为第八单元扉页。10条待核实例句不入学习队列，54项关联资料另存，其中1项隔离。下一批basis235/w2428。第六批23词及第九批153–154页缺口保留。",
+  "sha256": {
+    "content/drafts/batch-013.json": "7003eb191b5fc1beba0a1a57d9182a7b4a55b09c40041dd8d4c4c9506ecdcfd0",
+    "content/drafts/batch-013-associated.json": "58e3b20402db9cd41c667f235dfc46471db5015c0c1e7a8565a969716ba05831"
+  },
+  "published_version": "vocabulary-0.13.0",
+  "imported_words": 114,
+  "added_words_this_run": 114,
+  "imported_ready_senses": 151,
+  "verification": {
+    "python_tests": 36,
+    "node_tests": 29,
+    "sqlite_integrity": "ok",
+    "foreign_key_violations": 0
+  },
+  "ocr": {
+    "engine": "Windows.Media.Ocr",
+    "language": "zh-Hans-CN",
+    "pages": [
+      215,
+      235
+    ],
+    "source_manifest": "content/transcripts/batch-013-ocr-manifest.json"
+  }
+}

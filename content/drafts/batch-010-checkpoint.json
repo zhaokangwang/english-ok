@@ -1,0 +1,74 @@
+{
+  "status": "imported",
+  "completed_pages": [
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174
+  ],
+  "words": 104,
+  "last_word": "occasion",
+  "start_id": "w2000",
+  "context_pages_reviewed": [
+    175
+  ],
+  "next_word": "opportunity",
+  "next_pdf_page": 175,
+  "next_id": "w2104",
+  "continuations": [],
+  "merged_parts": [
+    "batch010_pages155_159",
+    "batch010_pages160_164",
+    "batch010_pages165_169",
+    "batch010_pages170_174"
+  ],
+  "saved_part_pages": {
+    "batch010_pages155_159": 159,
+    "batch010_pages160_164": 164,
+    "batch010_pages165_169": 169,
+    "batch010_pages170_174": 174
+  },
+  "note": "第十批155–174页104个主词已全部发布；occasion关联资料续175，下一批opportunity175/w2104。第六批23词及第九批153–154缺口保留，w1309起仍供第九批续接。第五单元120词仍不完整，第六单元23词未收尾。",
+  "published_version": "vocabulary-0.10.0",
+  "imported_words": 104,
+  "added_words_this_run": 104,
+  "imported_ready_senses": 143,
+  "verification": {
+    "python_tests": 22,
+    "node_tests": 24,
+    "sqlite_integrity": "ok",
+    "foreign_key_violations": 0
+  },
+  "preserved_unfinished_batches": [
+    {
+      "id": "batch-006",
+      "missing_words": 23
+    },
+    {
+      "id": "batch-009",
+      "unprocessed_owner_pages": [
+        153,
+        154
+      ],
+      "next_word": "compatible",
+      "next_pdf_page": 153,
+      "next_id": "w1309"
+    }
+  ]
+}

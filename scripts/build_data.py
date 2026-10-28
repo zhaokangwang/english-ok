@@ -80,7 +80,9 @@ def build():
     (out/'learning.sqlite').write_bytes(learning.serialize()); learning.close()
     # Browser runs identical SQL schema, initialized only for a new local store.
     shutil.copyfile(ROOT/'schema/learning.sql',out/'learning.sql')
-    summary=[f"# {len(data['words'])}词累计审阅稿",'',f"内容版本：{data['content_version']}。人工视觉转录，并非自动 OCR。",'',data['policy'],'']
+    has_ocr=any('ocr' in part.get('method','').lower() for _,part in batches)
+    transcription_method='逐页视觉核对；部分批次使用本机OCR辅助提取。' if has_ocr else '人工视觉转录，并非自动 OCR。'
+    summary=[f"# {len(data['words'])}词累计审阅稿",'',f"内容版本：{data['content_version']}。{transcription_method}",'',data['policy'],'']
     for w in data['words']:
         summary.extend([f"## {w['spelling']} · {w['id']}",'',f"PDF页 {w['pdf_pages']} / 书内页 {w['printed_pages']}",'',w['source_definition'],'',f"音标：{w['phonetic'] or '见释义字段，按词性区分'}",''])
         for s in w['senses']: summary.append(f"- {s['id']} {s['pos']} {s['gloss']}：{'可学习' if s['ready'] else '缺对应例句，暂不入队'}")
@@ -93,7 +95,7 @@ def build():
     (ROOT/'docs/sample-review.md').write_text('\n'.join(summary),encoding='utf-8')
     missing=[f"- {w['spelling']} / {s['id']}：{s['gloss']}" for w in data['words'] for s in w['senses'] if not s['ready']]
     pending=[f"- {w['spelling']} / {e['id']}：{e['note']}" for w in data['words'] for e in w['examples'] if e['review_status']!='visual_checked']
-    report=['# 累计质量清单','',f"范围：{len(data['words'])}个主要词条，不代表全书完整覆盖。",'',f'可学习词义：{sum(s["ready"] for w in data["words"] for s in w["senses"])} 个。',f'缺可用例句的词义：{len(missing)} 个。','','## 待核实例句','']+pending+['','## 暂不进入学习队列的词义','']+missing+['','## 全局复核项','','- 音标已按扫描页视觉转录，尚未做外部词典复核。','- 真题仅保留原书标签，年份题号未核实。','- 词义拆分为编辑判断，需要你确认拆分粒度。','- 派生例句在associated-material及批次associated文件中，暂未生成独立学习卡。','- 原始证据为项目PDF；transcripts内是人工转录初稿，不是OCR。','']
+    report=['# 累计质量清单','',f"范围：{len(data['words'])}个主要词条，不代表全书完整覆盖。",'',f'可学习词义：{sum(s["ready"] for w in data["words"] for s in w["senses"])} 个。',f'缺可用例句的词义：{len(missing)} 个。','','## 待核实例句','']+pending+['','## 暂不进入学习队列的词义','']+missing+['','## 全局复核项','','- 音标已按扫描页视觉转录，尚未做外部词典复核。','- 真题仅保留原书标签，年份题号未核实。','- 词义拆分为编辑判断，需要你确认拆分粒度。','- 派生例句在associated-material及批次associated文件中，暂未生成独立学习卡。','- 原始证据为项目PDF；transcripts保存各批核对初稿，OCR批次另有识别来源清单。' if has_ocr else '- 原始证据为项目PDF；transcripts内是人工转录初稿，不是OCR。','']
     (ROOT/'docs/quality-report.md').write_text('\n'.join(report),encoding='utf-8')
     isolated=[]
     for batch,_ in batches:
@@ -122,7 +124,7 @@ def build():
         report_lines.extend([f"### {batch['id']}",'',batch['coverage'],''])
         report_lines.extend('- '+note for note in batch.get('quality_notes',[]))
         report_lines.append('')
-    report_lines+=['## 构建检查结果','','- 原PDF指纹、ID、拼写去重、页码、目标词形位置及外键检查通过。','- 所有原有词条身份保留；个人库不被内容构建修改。','- 当前学习轮次保留；结束后可追加新增的未学词义。','- 本轮为人工视觉转录，不是批量OCR；音标未外部词典复核。','- 自动测试和桌面浏览器验证另见verification.md，本构建报告不冒充测试结果。','- iPhone和安卓仍需真机验证。','']
+    report_lines+=['## 构建检查结果','','- 原PDF指纹、ID、拼写去重、页码、目标词形位置及外键检查通过。','- 所有原有词条身份保留；个人库不被内容构建修改。','- 当前学习轮次保留；结束后可追加新增的未学词义。','- '+transcription_method+'音标未外部词典复核。','- 自动测试和桌面浏览器验证另见verification.md，本构建报告不冒充测试结果。','- iPhone和安卓仍需真机验证。','']
     (ROOT/'docs/import-report.md').write_text('\n'.join(report_lines),encoding='utf-8')
     (ROOT/'content/id-registry.json').write_text(json.dumps(identities(data),ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
     # Keep a local rollback copy without exposing it from the HTTP root.
@@ -153,7 +155,7 @@ def write_ledger(plan):
     partial=sum(b['status']=='partially_imported' for b in plan['approved_batches'])
     lines=['# PDF批次清单','',f"页码均为PDF页码。已登记{len(plan['approved_batches'])}批，其中{partial}批仅部分导入；其余为草稿或规划范围，不代表已识别或核实。",'', '| 批次 | 主体页码 | 衔接查阅页 | 状态 |','|---|---|---|---|']
     for b in ledger['batches']:
-        label={'imported':'已导入','partially_imported':'部分导入（小样本）','draft':'草稿，未导入'}.get(b['status'],'待检查，边界暂定')
+        label={'imported':'已导入','partially_imported':'部分导入','draft':'草稿，未导入'}.get(b['status'],'待检查，边界暂定')
         lines.append(f"| {b['id']} | {b['owner_pages'][0]}–{b['owner_pages'][1]} | {b['context_pages'][0]}–{b['context_pages'][1]} | {label} |")
     lines+=['','- 1–9页：前置材料，最终目录核对时再检查是否有遗漏词汇。','- batch-001是20个主词样本，不声称完整收录所有派生词。','- batch-002额外补齐第13页recur，末词draft的两条例句来自第24页。','- batch-003从第24页sketch到第38页hasty；第39页第二单元扉页作为边界证据。','- batch-004从第二单元agent到prevail，末词续文至59页。batch-005从59页avail到74页stare，不重复导入prevailing素材，第二单元180个主词收尾；75页为第三单元扉页，batch-006从origin开始。','- 页范围是工作分配，真正归属按固定词条ID；关联素材另存，不算独立主词。','']
     for b in plan['approved_batches']:

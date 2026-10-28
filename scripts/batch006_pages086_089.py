@@ -27,6 +27,7 @@ def append(t, associated):
       [('v.', '撒，撒播；散布'), ('n.', '散落')],
       [(0, 'At the first gunshot, the crowd scattered.', '枪声一响，人群便逃散了。', 'scattered', '例', 86),
        (0, 'The goals of the prize-givers seem as scattered as the criticism.', '奖项提供者的目标似乎和（他们所受的）批评一样分散。', 'scattered', '真题', 86)])
+    t.pending('scatter', 1, '真题中scattered为形容词用法，原书主词仅列动词和名词义；保留原文及原译，待词性义项核对，不用于练习。')
     a('catalogue', '/ˈkætəlɒɡ/', 'n. 目录；v. 将……编入目录', 86,
       [('n.', '目录'), ('v.', '将……编入目录')],
       [(0, 'An illustrated catalogue accompanies the exhibition.', '展览会有插图目录。', 'catalogue', '例', 86),

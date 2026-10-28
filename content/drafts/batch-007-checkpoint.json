@@ -1,22 +1,66 @@
 {
-  "status": "sample_ready_for_review",
-  "completed_pages": [],
+  "status": "imported",
+  "completed_pages": [
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114
+  ],
   "reviewed_pages": [
-    95
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114
   ],
-  "completed_words": [
-    "coordinate",
-    "subordinate"
+  "context_pages_reviewed": [
+    115
   ],
-  "words": 2,
-  "last_word": "subordinate",
-  "next_word": "cancel",
-  "next_pdf_page": 95,
-  "word_ids": [
-    "w1000",
-    "w1001"
-  ],
-  "next_id": "w1002",
+  "words": 105,
+  "last_word": "detect",
+  "next_word": "spot",
+  "next_pdf_page": 115,
+  "next_id": "w1105",
   "continuations": [],
-  "note": "只完成两个词；第95页仍有未处理主词，不标整页完成。第六批保留原检查点。"
+  "merged_parts": [
+    "batch007_pages095_099",
+    "batch007_pages100_104",
+    "batch007_pages105_109",
+    "batch007_pages110_114"
+  ],
+  "note": "第七批95–114页主词已完成并发布；detect续文至115，下一批从同页spot开始。第六批23词缺口保留。",
+  "published_version": "vocabulary-0.7.0",
+  "imported_words": 105,
+  "added_words_this_run": 103
 }

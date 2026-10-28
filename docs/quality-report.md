@@ -1,9 +1,9 @@
 # 累计质量清单
 
-范围：347个主要词条，不代表全书完整覆盖。
+范围：1165个主要词条，不代表全书完整覆盖。
 
-可学习词义：478 个。
-缺可用例句的词义：208 个。
+可学习词义：1607 个。
+缺可用例句的词义：905 个。
 
 ## 待核实例句
 
@@ -26,6 +26,83 @@
 - organise / e0306-02：organising committee为定语用法，暂不直接计作组织动词义。
 - allege / e0314-02：alleged为所谓的/被指称的定语用法，先保留待独立词性映射。
 - scan / e0336-02：brain-scan为复合定语，扫描检查名词语义需独立复核，暂不计入进度。
+- scatter / e0404-02：真题中scattered为形容词用法，原书主词仅列动词和名词义；保留原文及原译，待词性义项核对，不用于练习。
+- alarm / e0419-02：原书译文“对健康运动者发出信号”与alarmed（使惊恐）不符；保留原文，待核对，不用于练习。
+- barrier / e0448-02：原书英文为with a help of exaggerating fears，搭配疑有误；按原文保留并隔离，待人工复核。
+- noteworthy / e1023-02：原译将noteworthy for意译为“以……闻名”，需复核与值得注意的词义对应；保留原文与原译。
+- dim / e1028-02：真题中的dimmed是动词被动用法；原书主词仅列形容词义，暂不作为形容词学习例句。
+- distress / e1032-02：distressed在becomes increasingly distressed中为形容词状态用法；原书主词未独立列形容词义，暂不配动词使痛苦义。
+- stress / e1033-02：原句stressed为形容词状态用法，主词仅列名词/动词；原译“比在工作的压力更大”语句也有疑点，按原文保留待复核。
+- contrive / e1044-02：contrived laboratory tests为形容词/分词定语“人为的”；原书主词仅列动词义，暂不作为策划动词学习例句。
+- dedicate / e1053-02：being dedicated to a cause呈状态形容词语义，原书另列dedicated派生形容词；英文并列or to feel结构也有疑点，保留原文及原译待复核。
+- appearance / e1069-01：原译将appearance of impropriety译为实际不当行为，未体现给人以不当印象的表象含义；保留原文与原译待复核。
+- incline / e1081-02：原书句子It is that one is actually inclined to interruption.缺少前文；inclined为状态用法，暂不直接映射动词倾向于义。保留原句原译。
+- extend / e1086-02：extends to在本句为适用于的语义；原书主词仅列延长、扩大等义，暂待独立词义映射，保留原句原译。
+- trend / e1089-02：原书flexible trends与市场运转语境搭配可疑；保留原句和原译待复核，不自动改词。
+- disguise / e1095-02：disguised在本句中修饰shadows，为分词定语；原书仅列动词义，暂不作为动词学习卡。保留原句原译。
+- reveal / e1100-02：revealing在原句中作表语，为提供信息的形容词用法；原书仅列reveal动词，暂不直接计入动词学习进度。保留原文原译。
+- tense / e1110-02：本句personal tense为修辞表达，原译为口吻；与语法时态词义的直接对应需复核。
+- blur / e1125-02：blurring在本句为名词化过程用法，暂不直接挂到动词或原书模糊形状名词义。
+- specialise / e1132-02：specialised在本句为定语形容词用法，不直接训练原书动词专攻义，暂待核实。
+- superstition / e1143-02：原书为superstitions quality，名词复数定语搭配可疑，按原文保存，待核对。
+- release / e1154-01：原书after questioned缺少being等成分，按原文保留，待核对语法。
+- release / e1154-02：release agreements的确切语境和词义待核对，暂不直接挂到原书发布义。
+- vigorous / e1163-01：本句vigorous修饰exercise，原译为“剧烈”，原书主释义只列精力充沛、强壮；不强行挂入，待补义核对。
+- vigorous / e1163-02：本句vigorous指植物生长旺盛，原书主释义只列精力充沛、强壮；不强行挂入，待补义核对。
+- mental / e1175-02：原书将doesn’t really go anywhere直译为“并没有真的离开”，缺上下文且可能误译，保留原文原译待核对。
+- companion / e1203-02：原书in companion搭配存疑，保留原文待核，不进入学习队列。
+- atmosphere / e1213-02：原书把atmosphere译作气候，与所列大气义不一致，保留原文待核。
+- insight / e1230-01：本句复数insights为见解，原书主释义未明确列此可数用法；暂不直接挂到洞悉、了解。
+- scare / e1249-02：health scares原译“健康恐吓”语义存疑，保留原文原译，暂不进入学习队列。
+- terror / e1263-02：terror在本句指令人恐惧的人或事物，原书未明确列该名词义，暂不直接挂到恐怖行动义。
+- merit / e1270-02：merit pay为绩效工资固定搭配，merit作名词定语；与原书功绩义的直接对应待核对，暂不训练。
+- pierce / e1286-02：本句为使内心痛苦的比喻用法，原书只列穿透、刺破、扎；不直接训练字面义，待补义核对。
+- classic / e2015-01：classic rock原译古典摇滚与原书最优秀、第一流等释义对应存疑，保留原文原译，暂待复核。
+- incredible / e2027-02：本句incredible learning experience的褒义极好与原译不可思议的对应需上下文确认，暂不直接训练极好义。
+- assimilate / e2056-01：原译“同化变化”表意存疑，保留原句原译待核对，暂不作为吸收义学习例句。
+- addict / e2063-01：computer addicts是对电脑上瘾的人，原书主释义仅明确吸毒成瘾者；保留原文原译，待补充匹配词义。
+- predict / e2064-02：原书get married with搭配疑点，保留原文原译，待核对后再用于学习。
+- dictate / e2066-02：本句dictates指先天能力支配、决定语法，源释义未明确列决定义，暂不直接训练强行规定义。
+- authority / e2071-02：原译将intensely powerful处理为异常重要，语义存疑；原句原译保留待核，不进入学习。
+- revolve / e2097-02：本句revolve around为以某事为中心的比喻搭配，原书只列环绕，暂待复核词义映射。
+- vocation / e2101-02：原译教书的材料指资质或天赋，原书主释义未明列此义，暂待复核词义映射。
+- grip / e2120-02：winter grips为比喻笼罩、控制，原译为冬季到来；原书动词释义未明确列此用法，保留待核，不直接训练紧握义。
+- restrain / e2125-01：restraining在本句作hand的定语，原译改述制止动作；暂待复核，不直接训练动词阻止义。
+- reinforce / e2129-01：原译证实与原书加强等释义的对应需复核，保留原文原译，暂不直接训练加强义。
+- heighten / e2132-02：heightened在本句为sense的定语，派生形容词用法暂待复核，不直接训练原书动词提高义。
+- pollute / e2151-01：原书Chemical wasted pollute中wasted词形和主谓搭配存疑，保留原文待核。
+- pollute / e2151-02：ambitious restrictions原译耗时巨大的管控措施，译义存在疑点，保留原文原译待核，不入队。
+- rear / e2153-02：child rearing在本句为名词化的育儿用法，原书未列独立名词养育义，暂不直接挂到动词义。
+- orient / e2177-01：commercially oriented为定语导向用法，与原书动词确定方向、使朝向的映射待核。
+- orient / e2177-02：oriented towards science subjects为学科倾向或方向状态，暂不直接训练原书确定方向、使朝向义。
+- flare / e2182-02：本句为脸颊泛红的比喻用法，原书闪耀、燃烧等释义未明确列出此义，暂待核对映射。
+- flatter / e2184-02：be flattered在本句为感到荣幸或高兴的状态义，原书奉承讨好义未明确列此语义，保留待核。
+- mystery / e2192-01：mystery guest中的定语修饰指身份未知，原书名词神秘的人或物的映射需复核，暂不训练。
+- diffuse / e2214-02：原句diffuse stress译为疏导压力，与原书散布、传播、扩散释义的映射待核，原文原译保留。
+- affluent / e2216-01：原书one of affluent countries疑似缺少定冠词，保留原文原译，待核对语法。
+- esteem / e2241-02：原译自尊与原书名词尊重、敬重、好评的对应需复核，暂不直接训练尊重义。
+- monotonous / e2243-01：原书in the this city重复限定词，按原文保留，暂待核对。
+- policy / e2245-02：原书a problem needed to be solved的句法衔接存疑，保留原句原译待核。
+- artifact / e2251-02：plastic art原译塑料艺术的含义需结合出处复核，保留原文原译待核。
+- surge / e2264-02：surging在本句作traffic的定语，派生形容词用法暂待复核，不直接训练原书动词激增义。
+- paralyse / e2279-02：paralysed with fear在本句描述僵住状态，与原译呆若木鸡及动词使麻痹义的直接映射需复核，暂待核。
+- utmost / e2284-02：do their utmost为竭尽所能的固定用法，原译尽最大努力与原书名词极限、最大可能等释义的直接映射暂待复核。
+- gap / e2286-02：knowledge gaps在此或指知识缺漏，原译知识差距很大与缺口义的对应待核，原文原译保留。
+- volunteer / e2290-01：volunteer作work的定语，原书未列形容词用法，暂不直接训练志愿者名词义。
+- survive / e2295-02：本句风俗留存的引申义未明列在原书生存等释义中，原文原译保留待核。
+- revive / e2296-02：reviving the banking system为经济系统复苏的引申用法，原书释义未明确列，保留原文原译待核。
+- avenue / e2306-02：原译石灰树疑为lime trees逐字误译，保留原文原译待核，不进入学习队列。
+- relieve / e2312-02：relieved为松了一口气的状态用法，原书主释义未列使宽慰等义，原文原译保留待核。
+- steep / e2337-02：原书句末印为travele，疑为travel拼写错误，保留原文原译待核。
+- civilise / e2346-02：civilised在此修饰society，属形容词文明的用法，原书主释义只列动词，原文原译保留待核。
+- campaign / e2354-02：Campaign to Protect Rural England在原句中大写，可能为组织专名；原译按活动处理，与运动义映射待核。
+- participate / e2382-01：原书participate in strike疑缺冠词，保留原文原译待核。
+- worm / e2390-01：原书wrest about用语疑误，保留原文原译待核。
+- distract / e2397-02：原译分散我们的注意力和烦恼表述疑不准确，原文原译保留待核。
+- minister / e2402-02：本例Prime Minister整体意为首相，原书未单列该短语义，保留原文原译待核。
+- board / e2416-02：原书pays $100 a week board and lodging疑漏介词for，保留原文原译待核。
+- device / e2425-02：原书digital device为无冠词的单数可数名词，疑有语法问题，原文原译保留待核。
+- instrument / e2427-01：本例instruments指乐器，原书主释义未列乐器义，保留原文原译待核。
 
 ## 暂不进入学习队列的词义
 
@@ -235,8 +312,705 @@
 - scan / s0336-04：浏览
 - glare / s0339-03：怒目而视
 - glare / s0339-04：发出刺眼的光线
+- origin / s0346-02：出身
+- region / s0348-02：领域
+- stem / s0349-02：阻止
+- cradle / s0350-03：发源地
+- source / s0351-02：源头，发源地；根源，原因
+- resource / s0352-02：财力
+- resource / s0352-03：向……提供资金
+- raw / s0353-02：未经加工的；天然状态的，原始的
+- raw / s0353-03：不熟练的，没有经验的
+- crude / s0354-02：粗俗的，粗鲁的
+- scheme / s0360-02：阴谋
+- scheme / s0360-03：计划；认为；图谋
+- triumph / s0361-02：巨大成功，重大成就，伟大胜利
+- triumph / s0361-03：（巨大成功或胜利的）心满意足，喜悦，狂喜
+- delight / s0362-02：（使）高兴
+- alight / s0365-02：降落；从（公共汽车、火车等）下来
+- highlight / s0368-02：最好（或最精彩、最激动人心）的部分
+- patience / s0369-02：毅力
+- pace / s0370-02：步伐
+- pace / s0370-03：来回踱步，走来走去
+- pace / s0370-04：确定速度；调整节奏
+- patent / s0371-02：获得专利
+- patent / s0371-03：专利生产的；专利经销的
+- lame / s0374-02：跛的
+- quarrel / s0376-02：争论的原因
+- quarrel / s0376-03：争吵，争辩
+- curse / s0377-02：咒骂，咒语
+- inherit / s0403-02：接替；继任
+- scatter / s0404-02：散落
+- petition / s0407-02：祈求；请求，请愿，申请
+- impulse / s0409-02：推动力；动力；刺激
+- ally / s0410-02：与……结盟
+- liable / s0413-02：可能（做某事）；可能受……影响
+- accommodate / s0416-03：适应
+- alarm / s0419-02：惊恐，惊慌
+- alarm / s0419-03：使惊恐；使害怕
+- caution / s0421-02：警告
+- prudent / s0423-02：精明的
+- alert / s0424-02：警惕
+- alert / s0424-03：提防的，警惕的
+- alert / s0424-04：向……报警
+- slip / s0425-03：溜走
+- slip / s0425-04：偷偷放
+- lease / s0426-02：租约，租契
+- current / s0429-03：通用的；流通的
+- current / s0429-04：趋势
+- secure / s0431-02：保护，使安全
+- secure / s0431-03：（尤指经过努力）获得，取得，实现
+- brilliant / s0432-03：巧妙的；使人印象深的
+- fabulous / s0436-02：很大的，巨大的
+- bold / s0442-02：敢于表白情感的
+- bold / s0442-03：明显的；轮廓突出的
+- bleak / s0444-02：无遮掩的；荒凉的；索然无味的；阴冷的
+- barren / s0445-02：不孕的
+- bare / s0446-03：使赤裸；使露出
+- bargain / s0447-03：（与某人就某事）讨价还价，商讨条件
+- barrier / s0448-02：阻力；隔阂
+- embarrass / s0449-02：使困惑；使为难，使陷入困境
+- embassy / s0450-02：（统称）使馆官员
 - subordinate / s1001-03：次要的
 - subordinate / s1001-04：使从属于
+- erase / s1004-02：消灭
+- erase / s1004-03：擦掉，抹掉（笔迹等）
+- counsel / s1006-03：律师；法律顾问
+- counsel / s1006-04：提供专业咨询
+- consult / s1007-02：查阅
+- insult / s1008-02：辱骂；冒犯
+- prompt / s1009-02：立即的，迅速的；及时的
+- prompt / s1009-03：提示，提醒（某人说话）
+- promote / s1010-03：提升
+- motion / s1012-02：动议，提议
+- motion / s1012-03：做动作，示意
+- remote / s1013-03：遥远的，久远的
+- motivate / s1015-02：成为……的动机，是……的原因
+- remove / s1016-02：从……机构开除；免除，解除（职务等）
+- remove / s1016-03：脱去（衣服等）；摘下
+- remove / s1016-04：去除，排除（污渍、不愉快的事物等）；使消失
+- rational / s1018-02：理性的；明智的；理智的；清醒的
+- reasonable / s1020-02：不错的
+- noteworthy / s1023-02：重要的
+- ambiguous / s1027-02：多义的
+- distress / s1032-02：贫困
+- distress / s1032-03：使痛苦，使悲伤
+- stress / s1033-02：强调，重要性；重音
+- stress / s1033-03：着重，强调
+- misery / s1034-02：穷困
+- painful / s1035-02：困难的；艰难的
+- torture / s1036-01：拷打，拷问，酷刑
+- torment / s1037-02：苦难之源
+- contrive / s1044-02：策划
+- statement / s1047-03：报表
+- status / s1048-02：状况
+- deliberate / s1051-02：小心翼翼的
+- dedicate / s1053-02：题献词
+- dedicate / s1053-03：为（建筑物等）举行落成典礼
+- delicate / s1054-03：精巧的，精致的，精美的
+- delicate / s1054-04：熟练的
+- decay / s1055-02：腐烂，腐朽
+- decay / s1055-04：腐烂，腐朽
+- following / s1058-02：下列的
+- provoke / s1059-02：刺激；激怒
+- trigger / s1060-02：扳机
+- evoke / s1061-02：博得
+- stir / s1062-02：激起，引起
+- stir / s1062-04：搅拌；愤怒
+- blend / s1063-02：混合物
+- contest / s1067-02：争取赢得
+- appearance / s1069-01：露面；出现
+- appearance / s1069-03：出版；广播
+- disappear / s1070-02：失踪
+- discipline / s1078-01：训练
+- principle / s1080-03：（道德）原则
+- incline / s1081-02：（使）倾向于
+- incline / s1081-03：斜坡，斜面
+- decline / s1082-03：下降；衰落，衰退
+- stretch / s1085-03：延续
+- stretch / s1085-04：一片
+- stretch / s1085-05：连续的一段时间
+- stretch / s1085-06：伸展
+- extend / s1086-01：延长；使伸长
+- tend / s1087-02：趋向，走向，倾向，趋于
+- tend / s1087-03：照料；护理
+- trend / s1089-02：朝着大方向变化或发展
+- attend / s1090-02：注意，专心
+- attend / s1090-03：经常去，定期去（某处）
+- contend / s1091-02：竞争
+- intend / s1092-02：意指
+- pretend / s1094-02：模拟
+- pretend / s1094-03：自认为
+- disguise / s1095-01：假装，伪装
+- mask / s1096-02：伪装
+- screen / s1097-02：屏风
+- screen / s1097-03：画面
+- screen / s1097-04：纱窗
+- screen / s1097-05：放映
+- enclose / s1103-02：附入；随函（或包裹等）附上
+- spot / s1105-02：污渍
+- potential / s1106-02：可能性，潜在性
+- tense / s1110-02：时态
+- intensive / s1111-02：彻底的
+- intense / s1112-02：紧张的
+- intense / s1112-03：热切的
+- sense / s1113-02：感觉；理解力；判断力
+- sense / s1113-03：感觉到，意识到
+- sensitive / s1114-02：过敏的
+- sensitive / s1114-03：体贴的
+- sensitive / s1114-04：感觉敏锐的
+- senseless / s1115-02：愚蠢的
+- senseless / s1115-03：无知觉的
+- obscure / s1123-03：使模糊；使隐晦；使费解
+- vague / s1124-02：不详细的；粗略的
+- blur / s1125-02：（移动的）模糊形状；模糊的记忆
+- fade / s1127-03：淡出
+- deadly / s1130-02：极度的
+- particular / s1131-03：详情；详细资料
+- specialist / s1133-02：专科医生
+- specific / s1136-02：具体的，详细的
+- peculiar / s1137-03：不舒服
+- inferior / s1138-02：下级的
+- inferior / s1138-03：级别（或地位）低的人
+- superior / s1139-02：级别（或地位、职位）更高的人，上级，上司
+- supreme / s1141-02：最大的
+- regime / s1145-02：社会制度；管理体制
+- relate / s1146-02：叙述
+- relation / s1147-02：亲属
+- relevant / s1150-02：切题的
+- regulate / s1151-02：调节
+- regulate / s1151-03：控制
+- regular / s1152-02：规则的
+- regular / s1152-03：频繁的，经常的
+- regular / s1152-04：标准尺寸的；中等大小的
+- regular / s1152-05：普通的，平凡的
+- regular / s1152-06：常客，老主顾
+- resort / s1153-03：求助；诉诸；采取
+- release / s1154-01：释放；放开
+- release / s1154-02：发表，发行
+- release / s1154-03：发泄
+- release / s1154-04：释放
+- release / s1154-05：公开；发行；发布
+- release / s1154-06：排放
+- release / s1154-07：解脱
+- bulletin / s1156-02：新闻简报
+- publish / s1157-02：出版，发行
+- publish / s1157-03：公开
+- punish / s1158-02：对……判罪
+- punish / s1158-03：自责
+- issue / s1159-03：发行
+- issue / s1159-04：期号
+- issue / s1159-05：宣布，公布
+- issue / s1159-06：发出
+- vigorous / s1163-01：精力充沛的；强壮的
+- dynamic / s1164-02：动态的；发展变化的
+- dynamic / s1164-03：动力的
+- dynamic / s1164-04：动力；力学
+- sample / s1167-02：体验，尝试
+- alcohol / s1172-02：酒精，乙醇
+- physical / s1173-03：物理学的
+- mental / s1175-02：思考的；智力的
+- fundamental / s1176-02：基本原则；基本原理
+- refund / s1177-02：退款
+- fatal / s1178-02：灾难性的
+- total / s1179-03：总的，总计的，全部的
+- total / s1179-04：共计
+- vital / s1182-02：生气勃勃的
+- essential / s1183-02：本质的；基本的
+- essential / s1183-03：必需品
+- essential / s1183-04：要素，要点
+- imperative / s1187-02：必要的事
+- ponderous / s1189-03：沉闷乏味的
+- ponderous / s1189-04：笨拙的
+- clumsy / s1190-03：难处理的
+- respond / s1191-02：作出反应；反应灵敏
+- correspond / s1193-03：通信
+- phase / s1194-02：分阶段进行；逐步做
+- phrase / s1195-02：表达，措辞
+- likely / s1197-02：有希望的
+- probable / s1198-02：可能入选者
+- dawn / s1199-03：开始
+- launch / s1201-03：发射
+- launch / s1201-04：发射
+- launch / s1201-05：上市
+- launch / s1201-06：发起
+- initiate / s1202-02：使了解，传授
+- companion / s1203-02：陪护
+- accompany / s1204-03：为……伴奏
+- reckon / s1205-03：计算
+- estimate / s1207-02：估计；估价
+- intimate / s1208-02：私人的
+- ultimate / s1209-02：根本的
+- ultimate / s1209-03：极品；精华
+- approximate / s1210-02：近似，接近
+- surround / s1212-02：（物品的）框，饰边
+- surround / s1212-03：周围
+- atmosphere / s1213-02：大气，大气层
+- temper / s1215-02：怒气
+- personality / s1216-02：气质
+- personality / s1216-03：名人
+- circulate / s1218-03：传送
+- ventilate / s1219-02：公开发表
+- calendar / s1222-03：重大事件
+- sow / s1223-02：散布
+- yield / s1227-03：产量，产出
+- yield / s1227-04：屈服
+- output / s1228-02：输出
+- outlook / s1229-02：景色，风光
+- outlook / s1229-03：前景
+- insight / s1230-02：洞悉，了解
+- overwhelm / s1232-01：淹没
+- overtime / s1233-03：（体育比赛等的）加时
+- overflow / s1235-02：漫出，溢出
+- overflow / s1235-03：容纳不下的人或物
+- overnight / s1238-03：夜间的，晚上的
+- swing / s1239-02：转动
+- swing / s1239-03：秋千
+- swing / s1239-04：摆动
+- spread / s1241-03：传播，散布
+- spread / s1241-04：广泛
+- spread / s1241-05：活动范围
+- swell / s1243-03：隆起处
+- swell / s1243-04：增加
+- swell / s1243-05：肿胀，隆起
+- swell / s1243-06：使凸出，鼓出
+- sweep / s1244-03：掠过
+- sweep / s1244-04：扫，打扫，清扫
+- scorn / s1248-02：轻蔑，鄙视
+- scare / s1249-02：恐慌，恐惧，惊恐
+- spray / s1252-02：喷雾，喷雾剂
+- spray / s1252-04：扫射
+- pray / s1253-02：企盼
+- prey / s1254-03：（～on）捕食
+- prey / s1254-04：欺凌，坑骗
+- array / s1255-02：数组；阵列
+- array / s1255-03：排列；布置
+- fierce / s1256-03：狂暴的
+- fierce / s1256-04：狂热的
+- fearful / s1257-02：可怕的
+- timid / s1259-02：羞怯的
+- threat / s1261-02：凶兆
+- threat / s1261-03：构成威胁的人（或事物）
+- terror / s1263-02：恐怖，恐怖行动
+- rebel / s1265-01：造反者，叛乱者
+- rebel / s1265-02：叛逆者
+- hazard / s1266-02：冒……的风险
+- stake / s1267-01：桩
+- stake / s1267-02：赌注
+- stake / s1267-04：重大利益关系
+- stake / s1267-05：以……打赌
+- trap / s1268-02：（捕捉动物的）陷阱
+- trap / s1268-04：困境
+- merit / s1270-02：优点
+- merit / s1270-03：美德
+- merit / s1270-04：功绩
+- charity / s1272-03：仁爱
+- violent / s1274-02：猛烈的
+- violate / s1275-03：亵渎
+- navigate / s1276-03：航行，航海
+- summon / s1277-03：鼓起；振作
+- discourage / s1280-02：使灰心，使泄气
+- retreat / s1282-03：僻静处，隐居处
+- withdraw / s1283-03：收回
+- fulfil / s1289-03：履行，执行
+- qualify / s1290-03：合格
+- elevate / s1292-02：举起，抬起
+- elevate / s1292-03：晋升
+- elevate / s1292-04：使情绪高昂
+- decorate / s1294-02：粉刷
+- ornament / s1295-02：首饰
+- commodity / s1298-02：有用的东西
+- product / s1301-02：产物
+- productive / s1302-02：（尤指）多产的
+- reproduce / s1304-03：再生产
+- venture / s1305-02：冒险，敢于去（危险或令人不快的地方）
+- venture / s1305-03：小心地说，谨慎地做（尤指会使人烦恼或不快的事）
+- peer / s1307-02：贵族
+- peer / s1307-03：仔细看，端详
+- pioneer / s1308-02：当开拓者
+- upset / s2000-02：失望；沮丧
+- handle / s2004-02：把手；拉手
+- dissolve / s2010-03：消除
+- scope / s2011-02：范围
+- realm / s2012-03：场所
+- span / s2013-03：持续时间
+- span / s2013-04：宽度
+- classic / s2015-01：最优秀的；第一流的
+- classic / s2015-03：名著，经典作品
+- image / s2017-03：声音
+- calm / s2018-02：风平浪静的
+- calm / s2018-03：使平静；使镇静
+- moral / s2019-02：道德
+- mortal / s2020-02：致命的
+- mortal / s2020-03：人；普通人
+- recommend / s2022-02：建议
+- receipt / s2023-02：收入
+- recipe / s2024-02：秘诀
+- reciprocal / s2025-02：相应的
+- credible / s2026-02：可接受的
+- incredible / s2027-01：极好的
+- strike / s2028-02：罢工
+- strike / s2028-03：突然想到；一下子想起
+- strike / s2028-04：罢工
+- strike / s2028-05：袭击，打击
+- evidence / s2031-02：证据，证明
+- proof / s2032-03：检验
+- approve / s2033-02：批准
+- radical / s2034-03：激进分子
+- ethnic / s2036-02：具有民族特色的
+- ethnic / s2036-03：少数民族的人
+- primary / s2038-02：最初的
+- primary / s2038-03：小学教育的
+- primitive / s2039-03：文艺复兴前的艺术家（或作品）
+- prime / s2040-03：盛年；鼎盛时期
+- element / s2041-02：基本部分
+- element / s2041-03：元素
+- element / s2041-04：基本原理
+- ingredient / s2042-03：材料
+- excitement / s2045-02：刺激
+- negative / s2047-02：否定的
+- passive / s2050-02：消极的
+- absorb / s2055-03：使并入
+- assimilate / s2056-02：吸收
+- abuse / s2059-02：虐待
+- abuse / s2059-03：滥用
+- abuse / s2059-04：虐待
+- concentrate / s2061-02：浓缩物
+- addict / s2063-01：吸毒成瘾的人，瘾君子
+- abdicate / s2065-02：放弃职责
+- dictate / s2066-02：口述
+- dictate / s2066-03：命令；规定
+- contradict / s2067-02：反驳，驳斥
+- fake / s2068-03：假货；赝品
+- genuine / s2069-02：真诚的
+- authority / s2071-02：权威
+- authority / s2071-03：官方，当局
+- elite / s2072-02：精英的，精锐的；出类拔萃的
+- nuisance / s2075-02：麻烦事
+- forge / s2076-03：锻造
+- forge / s2076-04：艰苦干成
+- extinct / s2082-02：不再存在的
+- distinguish / s2083-02：认出，听出
+- distinct / s2084-03：明确的；清晰的
+- string / s2087-02：一串；一系列
+- sponsor / s2089-03：发起，主办
+- extrinsic / s2091-02：非固有的；非本质的
+- internal / s2092-03：内部的
+- internal / s2092-04：内心的
+- external / s2093-02：外部的，外面的
+- interior / s2094-02：内地；内陆
+- interior / s2094-03：内政
+- interior / s2094-04：内部的，里面的
+- exterior / s2095-03：外貌
+- revolve / s2097-02：环绕
+- involve / s2098-03：牵涉；牵连
+- involve / s2098-04：需要
+- vacation / s2100-03：休庭期
+- vocation / s2101-02：信心
+- vocation / s2101-03：使命感
+- occasion / s2103-03：场合
+- occasion / s2103-04：理由
+- clinic / s2107-02：门诊时间
+- acute / s2109-03：急性的
+- terminal / s2110-03：（火车、公共汽车或船的）终点站
+- terminal / s2110-04：终端
+- chronic / s2111-03：难以治愈（或根除）的
+- surgery / s2112-02：外科学
+- surgery / s2112-03：诊室
+- therapy / s2113-02：疗效
+- remedy / s2114-02：处理方法；改进措施
+- remedy / s2114-03：补偿
+- remedy / s2114-04：治疗
+- heal / s2115-03：（使）结束
+- recovery / s2116-02：改善
+- understanding / s2118-02：谅解
+- understanding / s2118-03：协议
+- understanding / s2118-04：善解人意的；富有同情心的，体谅人的
+- grasp / s2119-03：紧抓
+- grasp / s2119-04：理解（力）；领会
+- grip / s2120-02：紧握；紧抓；抓牢
+- grip / s2120-03：紧握，紧抓
+- grip / s2120-04：（对……的）控制，影响力
+- grip / s2120-05：使感兴趣；使激动；吸引住（某人）的注意
+- strip / s2121-03：除去，剥去；拿走
+- strip / s2121-04：狭长地带
+- stain / s2123-02：污点，污渍
+- stain / s2123-03：玷污；留下污渍
+- strain / s2124-03：张力
+- strain / s2124-04：拉伤
+- strain / s2124-05：损伤；拉伤
+- strain / s2124-06：尽力；竭力
+- strain / s2124-07：过度使用；使不堪承受
+- restrain / s2125-01：阻止；制止；约束，控制
+- refrain / s2127-02：克制，节制
+- enforce / s2128-02：强迫，迫使
+- reinforce / s2129-01：加强；使更强烈；给……加强力量
+- reinforce / s2129-03：充实
+- mercy / s2134-02：幸运
+- mercy / s2134-03：恩惠
+- sympathy / s2135-03：意气相投；志同道合
+- sympathetic / s2136-02：赞同的；支持的
+- sympathetic / s2136-03：让人喜欢的
+- symptom / s2141-02：征候；征兆
+- nuclear / s2144-02：核武器的
+- analyse / s2145-02：对……进行精神分析
+- emphasise / s2146-02：使突出，使明显
+- endure / s2149-02：持久，持续
+- pollute / s2151-01：弄脏，污染
+- rear / s2153-02：饲养
+- rear / s2153-03：后方的，后面的
+- rear / s2153-04：后面，后部
+- cultivate / s2154-02：栽培，培养
+- cultivate / s2154-03：逐渐形成
+- breed / s2155-03：交配繁殖
+- breed / s2155-04：品种
+- foster / s2156-02：培养；鼓励
+- flour / s2159-02：向……上撒面粉
+- illusion / s2162-03：错误的观念
+- fancy / s2164-03：自负
+- fancy / s2164-04：想象（力）
+- fancy / s2164-05：想要
+- fancy / s2164-06：异常复杂的
+- fancy / s2164-07：精致的；奢华的
+- fashion / s2165-02：时兴式样；流行款式
+- style / s2166-03：风格
+- style / s2166-04：时新，时髦
+- style / s2166-05：设计
+- dignity / s2168-03：高贵；高尚
+- rage / s2170-03：迅速蔓延
+- rage / s2170-04：狂怒；愤怒的行为
+- brutal / s2172-03：兽性的
+- bruise / s2173-02：打击，挫伤，擦伤
+- stern / s2175-02：严峻的
+- orient / s2177-01：确定方向；使朝向
+- orient / s2177-02：东方
+- readily / s2179-03：乐意地
+- readily / s2179-04：迅速地
+- flare / s2182-02：燃烧
+- flare / s2182-03：突发；加剧
+- flatter / s2184-02：使显得更漂亮
+- sparkle / s2185-02：亮点
+- sparkle / s2185-04：神采飞扬
+- twinkle / s2186-03：闪烁；闪亮
+- flash / s2188-02：闪光灯
+- flash / s2188-03：快讯
+- flash / s2188-05：突然想到
+- junction / s2190-03：接合点
+- novel / s2191-02：（长篇）小说
+- mystery / s2192-01：神秘的人或物
+- fragile / s2194-03：精细的
+- fraction / s2195-02：分数
+- conflict / s2197-02：冲突；争执，争论
+- conflict / s2197-03：矛盾
+- conflict / s2197-04：战斗
+- practically / s2198-02：实际上
+- virtual / s2199-02：实质上的
+- theory / s2200-02：学说
+- certify / s2202-02：颁发（或授予）专业资格证书
+- certificate / s2203-02：文凭；结业证书
+- certificate / s2203-03：发给结业证书；（尤指）发给职业培训证书
+- licence / s2204-02：放肆，放纵
+- diplomat / s2206-02：善于交际的人
+- compound / s2207-03：复合词
+- compound / s2207-04：使加重
+- compound / s2207-05：由……构成
+- compound / s2207-06：混合
+- complex / s2208-02：难懂的
+- complex / s2208-03：复合的
+- complicate / s2209-02：使恶化
+- puzzle / s2211-03：拼图
+- puzzle / s2211-04：不解之谜；疑问
+- refuse / s2213-02：不准许
+- diffuse / s2214-02：扩散的，弥漫的
+- diffuse / s2214-03：漫射的
+- temporary / s2217-02：短暂的
+- contemporary / s2218-02：同一时代的，同时期的
+- contemporary / s2218-03：同龄人；同辈人
+- formal / s2220-02：形式上的
+- performance / s2225-03：表演，演出
+- performance / s2225-04：业绩
+- performance / s2225-05：执行；履行
+- formulate / s2227-03：制定；规划
+- confirm / s2228-03：批准
+- confirm / s2228-04：使确信
+- affirm / s2229-03：坚定（信念或观点）
+- architect / s2231-02：缔造者，创造者
+- dispute / s2234-03：就……发生争议；争论；辩论
+- debate / s2235-03：思考
+- battle / s2236-02：战斗，战争
+- battle / s2236-03：奋斗；搏斗；斗争
+- combat / s2237-03：战斗；搏斗；打仗
+- hammer / s2238-02：榔头；锤子
+- hammer / s2238-03：轻易打败
+- esteem / s2241-01：尊重，敬重；好评
+- esteem / s2241-02：尊重，敬重
+- monopoly / s2244-02：被垄断的商品（或服务）
+- monopoly / s2244-03：专利
+- policy / s2245-02：原则
+- policy / s2245-03：保险单
+- facility / s2246-02：场所
+- facility / s2246-03：天资
+- manufacture / s2247-01：（用机器）大量生产，成批制造
+- manufacture / s2247-04：工业品
+- manual / s2248-02：手动的
+- manual / s2248-03：手工的
+- handy / s2250-03：容易做的
+- handy / s2250-04：易使用的
+- defect / s2252-02：背叛，叛变
+- effect / s2253-03：结果
+- effect / s2253-04：实现；引起；使发生
+- affect / s2254-02：使感染
+- affection / s2255-02：爱情
+- perfect / s2257-02：完美的
+- perfect / s2257-03：准确的
+- perfect / s2257-04：完全的
+- perfect / s2257-05：使完善，使完美，使完备
+- advantage / s2259-02：优势
+- advantage / s2259-03：有利条件，有利因素
+- handicap / s2261-03：妨碍，阻碍，使不利
+- flaw / s2262-02：裂痕
+- flaw / s2262-03：错误
+- surge / s2264-02：激增
+- surge / s2264-03：奔涌向前
+- surge / s2264-04：汹涌
+- emerge / s2265-02：兴起
+- emerge / s2265-03：暴露；显露
+- submerge / s2267-02：掩盖
+- crisis / s2269-02：病危期
+- inflation / s2270-02：膨胀
+- inflation / s2270-03：抬高；抬升
+- expand / s2271-03：详述
+- finance / s2272-02：财政
+- finance / s2272-03：资金
+- finance / s2272-04：财务
+- finance / s2272-05：提供资金，负担经费
+- loan / s2273-02：借出；贷与
+- deficit / s2274-02：缺少
+- target / s2276-03：（射击的）靶子
+- target / s2276-04：瞄准；把……作为攻击目标
+- balance / s2277-03：相抵
+- balance / s2277-04：余额
+- parallel / s2278-03：相似的人；相似特征
+- parallel / s2278-04：平行的
+- parallel / s2278-05：比得上
+- paralyse / s2279-02：使不能正常工作
+- paralyse / s2279-03：使麻痹
+- parade / s2280-03：阅兵
+- parade / s2280-04：炫耀
+- parade / s2280-05：游行，列队行进
+- paradox / s2281-02：矛盾的人或物
+- paramount / s2282-02：至高无上的
+- amount / s2283-03：金额
+- amount / s2283-04：总计，合计
+- utmost / s2284-02：极限，最大可能；最大量
+- gap / s2286-02：缺口，裂口
+- gap / s2286-03：分歧；隔阂
+- blank / s2287-03：空白处、空格
+- vacant / s2288-02：空缺的
+- vacant / s2288-03：茫然的
+- volunteer / s2290-01：志愿者，志愿兵；义务工作者
+- volunteer / s2290-03：主动建议（或告诉）
+- hollow / s2291-03：虚伪的
+- swallow / s2293-03：燕子
+- vivid / s2294-03：鲜艳的
+- survive / s2295-02：生存
+- survive / s2295-03：比……活的时间长
+- revive / s2296-02：重新使用
+- shelter / s2297-03：掩蔽，庇护
+- habitat / s2302-02：生活环境
+- collapse / s2304-02：突然失败
+- collapse / s2304-03：突然降价
+- collapse / s2304-04：倒塌；崩溃
+- collapse / s2304-05：突然失败
+- collapse / s2304-06：突然降价
+- avenue / s2306-02：林荫大道
+- avenue / s2306-03：选择
+- revenue / s2307-02：税收，财政收入
+- grave / s2308-03：严肃的
+- aggravate / s2309-02：激怒
+- grind / s2310-02：使锋利
+- grind / s2310-03：磨光
+- grind / s2310-04：刺耳的摩擦声
+- grant / s2316-03：承认
+- bench / s2318-03：法官席位
+- bend / s2319-02：使倾斜
+- bond / s2320-02：契合
+- bond / s2320-03：债券，公债
+- bound / s2322-01：跳跃
+- bound / s2322-04：跳跃着跑
+- bid / s2324-03：叫牌
+- bid / s2324-04：出价，投标
+- bid / s2324-05：努力争取
+- bid / s2324-06：叫牌
+- auction / s2325-01：拍卖
+- sanction / s2326-01：批准，同意
+- sanction / s2326-03：处罚
+- sanction / s2326-04：批准，同意
+- sanction / s2326-05：惩罚
+- freeze / s2330-02：惊呆
+- perpetual / s2332-01：永恒的，永久的
+- permeate / s2334-02：扩散，传播
+- sweat / s2336-02：艰苦的劳动
+- sweat / s2336-04：艰苦努力
+- steep / s2337-02：急剧的
+- steep / s2337-03：过高的
+- vertical / s2339-02：垂直线
+- economy / s2340-02：节约
+- economy / s2340-03：国家
+- economical / s2341-02：节俭的
+- economical / s2341-03：简洁的
+- economics / s2342-02：经济情况
+- civil / s2345-01：国家的
+- civil / s2345-03：民用的，民事的
+- urban / s2347-02：城市音乐的
+- screw / s2352-03：拧紧
+- campaign / s2354-01：战役
+- campaign / s2354-03：参加运动
+- characterise / s2358-02：描述，刻画
+- feature / s2359-02：以……为特征
+- conscience / s2360-02：愧疚
+- contact / s2363-01：联系，联络
+- tangible / s2365-01：有形的
+- attach / s2366-03：（使）与……有联系
+- detach / s2367-02：分派，派遣
+- cling / s2369-03：（~to）坚持
+- coherent / s2370-03：清楚易懂的
+- coherent / s2370-04：有表达能力的；能表达清楚的
+- distribute / s2374-03：分散
+- repay / s2376-02：报答，回报
+- accordingly / s2378-02：因此，所以
+- regard / s2379-02：注视，凝视
+- regard / s2379-03：注意；关心
+- regard / s2379-04：尊重
+- regard / s2379-05：问候，致意
+- antique / s2380-02：古代的；古老的
+- anticipate / s2381-02：预期，期望
+- participate / s2382-01：参与，参加
+- adore / s2383-02：崇拜，爱慕
+- worship / s2384-03：崇拜；热爱；爱慕
+- worm / s2390-02：懦夫
+- extract / s2394-03：抽出，拔出
+- extract / s2394-04：提取物
+- contract / s2395-03：缩小
+- session / s2401-03：会议；（议会等的）会议
+- minister / s2402-02：牧师
+- administer / s2403-02：执行
+- administer / s2403-03：给予；提供
+- tutor / s2405-02：指导，辅导
+- academic / s2409-02：大学教师，学者
+- academy / s2410-02：研究院
+- epidemic / s2412-02：泛滥
+- epidemic / s2412-03：流行性的，极为盛行的
+- scholar / s2413-02：奖学金获得者
+- panel / s2415-03：（广播、电视上的）讨论小组
+- board / s2416-02：伙食
+- board / s2416-03：板，木板
+- board / s2416-04：上船（或火车、飞机等）
+- board / s2416-05：付费（在某人家里）膳宿
+- aboard / s2417-02：登机；上船
+- device / s2425-02：手段
+- equip / s2426-02：使有能力
+- instrument / s2427-01：工具，器具，仪器
 
 ## 全局复核项
 
@@ -244,7 +1018,7 @@
 - 真题仅保留原书标签，年份题号未核实。
 - 词义拆分为编辑判断，需要你确认拆分粒度。
 - 派生例句在associated-material及批次associated文件中，暂未生成独立学习卡。
-- 原始证据为项目PDF；transcripts内是人工转录初稿，不是OCR。
+- 原始证据为项目PDF；transcripts保存各批核对初稿，OCR批次另有识别来源清单。
 
 ## 关联素材中隔离的内容
 
@@ -257,3 +1031,10 @@
 - batch-004 / polish / PDF 51：polished work的精雕细琢为引申形容词义，原书未列；待另行映射。
 - batch-005 / available / PDF 59：原书residents health疑缺所有格，待核对原文。
 - batch-005 / alternate / PDF 60：extreme cold and warm名词/形容词并列疑点，待核对。
+- batch-007 / motivate / PDF 97：原书此处拼作motive，不是motivate的词形；保留原文，待核对，不进入学习队列。
+- batch-007 / acquaintance / PDF 108：lifelong acquaintance与原译花半生的时间存在语义差异，保留原文与原译待复核；不是acquaint主词动词例句。
+- batch-008 / correspondence / PDF 130：原书为短语残片，非完整例句，保留关联资料不进入学习队列。
+- batch-010 / strike / PDF 160：原书列在strike下的第二例不含strike或其屈折词形，未强行映射到主词。
+- batch-010 / disapprove / PDF 161：原书在approve下使用反义词disapprove，单独保留，不挂到approve训练例句。
+- batch-011 / non-durable / PDF 183：原书列在durable派生项下，实际目标non-durable含否定前缀；关联保存，不把不耐用反挂到耐用义。
+- batch-013 / appliance / PDF 233：原书本条第二例无appliance及其词形，隔离保存原文原译。

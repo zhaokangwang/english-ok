@@ -1,0 +1,74 @@
+{
+  "status": "imported",
+  "completed_pages": [
+    175,
+    176,
+    177,
+    178,
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194
+  ],
+  "words": 109,
+  "last_word": "confuse",
+  "start_id": "w2104",
+  "context_pages_reviewed": [
+    195
+  ],
+  "next_word": "refuse",
+  "next_pdf_page": 195,
+  "next_id": "w2213",
+  "continuations": [],
+  "merged_parts": [
+    "batch011_pages175_179",
+    "batch011_pages180_184",
+    "batch011_pages185_189",
+    "batch011_pages190_194"
+  ],
+  "saved_part_pages": {
+    "batch011_pages175_179": 179,
+    "batch011_pages180_184": 184,
+    "batch011_pages185_189": 189,
+    "batch011_pages190_194": 194
+  },
+  "note": "第十一批175–194页109个主词已全部发布，均属于第六单元；下一批refuse195/w2213。12条待核实例句不入队。第六批23词及第九批153–154缺口保留，w1309起仍供第九批续接。",
+  "published_version": "vocabulary-0.11.0",
+  "imported_words": 109,
+  "added_words_this_run": 109,
+  "imported_ready_senses": 157,
+  "verification": {
+    "python_tests": 26,
+    "node_tests": 26,
+    "sqlite_integrity": "ok",
+    "foreign_key_violations": 0
+  },
+  "preserved_unfinished_batches": [
+    {
+      "id": "batch-006",
+      "missing_words": 23
+    },
+    {
+      "id": "batch-009",
+      "unprocessed_owner_pages": [
+        153,
+        154
+      ],
+      "next_word": "compatible",
+      "next_pdf_page": 153,
+      "next_id": "w1309"
+    }
+  ]
+}

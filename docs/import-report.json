@@ -1,12 +1,12 @@
 {
-  "content_version": "vocabulary-0.5.1",
+  "content_version": "vocabulary-0.13.0",
   "source_sha256": "ce735354542374bf39479773e1ca2ce79456292cb310f9fcea61b1ff42a783d5",
   "totals": {
-    "words": 347,
-    "senses": 686,
-    "examples": 639,
-    "ready_senses": 478,
-    "pending_examples": 19
+    "words": 1165,
+    "senses": 2512,
+    "examples": 2175,
+    "ready_senses": 1607,
+    "pending_examples": 96
   },
   "batches": [
     {
@@ -60,14 +60,84 @@
       "pending_examples": 6
     },
     {
+      "id": "batch-006",
+      "file": "content/batches/batch-006.json",
+      "associated_items": 23,
+      "words": 83,
+      "senses": 169,
+      "examples": 150,
+      "ready_senses": 110,
+      "pending_examples": 3
+    },
+    {
       "id": "batch-007",
       "file": "content/batches/batch-007.json",
-      "associated_items": 0,
-      "words": 2,
-      "senses": 6,
-      "examples": 4,
-      "ready_senses": 4,
-      "pending_examples": 0
+      "associated_items": 24,
+      "words": 105,
+      "senses": 229,
+      "examples": 204,
+      "ready_senses": 152,
+      "pending_examples": 12
+    },
+    {
+      "id": "batch-008",
+      "file": "content/batches/batch-008.json",
+      "associated_items": 38,
+      "words": 111,
+      "senses": 245,
+      "examples": 206,
+      "ready_senses": 146,
+      "pending_examples": 11
+    },
+    {
+      "id": "batch-009",
+      "file": "content/batches/batch-009.json",
+      "associated_items": 23,
+      "words": 93,
+      "senses": 216,
+      "examples": 181,
+      "ready_senses": 135,
+      "pending_examples": 5
+    },
+    {
+      "id": "batch-010",
+      "file": "content/batches/batch-010.json",
+      "associated_items": 36,
+      "words": 104,
+      "senses": 225,
+      "examples": 191,
+      "ready_senses": 143,
+      "pending_examples": 9
+    },
+    {
+      "id": "batch-011",
+      "file": "content/batches/batch-011.json",
+      "associated_items": 28,
+      "words": 109,
+      "senses": 267,
+      "examples": 212,
+      "ready_senses": 157,
+      "pending_examples": 12
+    },
+    {
+      "id": "batch-012",
+      "file": "content/batches/batch-012.json",
+      "associated_items": 23,
+      "words": 101,
+      "senses": 250,
+      "examples": 193,
+      "ready_senses": 139,
+      "pending_examples": 15
+    },
+    {
+      "id": "batch-013",
+      "file": "content/batches/batch-013.json",
+      "associated_items": 54,
+      "words": 114,
+      "senses": 231,
+      "examples": 203,
+      "ready_senses": 151,
+      "pending_examples": 10
     }
   ],
   "checks": [

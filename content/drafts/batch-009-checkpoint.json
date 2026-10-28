@@ -1,0 +1,68 @@
+{
+  "status": "partially_imported",
+  "completed_pages": [
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149,
+    150,
+    151,
+    152
+  ],
+  "words": 93,
+  "last_word": "pioneer",
+  "context_pages_reviewed": [
+    153
+  ],
+  "next_word": "compatible",
+  "next_pdf_page": 153,
+  "next_id": "w1309",
+  "continuations": [],
+  "merged_parts": [
+    "batch009_pages135_139",
+    "batch009_pages140_144",
+    "batch009_pages145_149",
+    "batch009_pages150_154"
+  ],
+  "note": "仅已保存的135–152页93个主词已发布；pioneer续译读至153。153–154起始主词未完成，续接为compatible153/w1309。第四单元已完整，第六批23词缺口保留。",
+  "published_version": "vocabulary-0.9.0",
+  "imported_words": 93,
+  "added_words_this_run": 93,
+  "imported_ready_senses": 135,
+  "unprocessed_owner_pages": [
+    153,
+    154
+  ],
+  "interruption": "stream disconnected before completion: regurg plugin blocked the output stream.",
+  "verification": {
+    "python_tests": 18,
+    "node_tests": 22,
+    "sqlite_integrity": "ok",
+    "foreign_key_violations": 0
+  },
+  "source_corrections": [
+    {
+      "word": "overwhelming",
+      "pdf_page": 138,
+      "material": "associated",
+      "note": "对照原译补回绝大多数中的绝；保留关联初始快照。"
+    }
+  ],
+  "saved_part_pages": {
+    "batch009_pages135_139": 139,
+    "batch009_pages140_144": 144,
+    "batch009_pages145_149": 149,
+    "batch009_pages150_154": 152
+  }
+}

@@ -1,0 +1,395 @@
+{
+  "method": "local_ocr_with_visual_review",
+  "items": [
+    {
+      "word": "uneasy",
+      "pdf_page": 215,
+      "label": "拓展",
+      "phonetic": "/ʌnˈiːzi/",
+      "definition": "adj. 心神不安的，担心的"
+    },
+    {
+      "word": "gratitude",
+      "pdf_page": 215,
+      "label": "例",
+      "phonetic": "/ˈɡrætɪtjuːd/",
+      "definition": "n. 感激之情；感谢",
+      "english": "Her eyes were immediately filled with gratitude.",
+      "translation": "她的眼里立刻充满了感激之情。"
+    },
+    {
+      "word": "thankful",
+      "pdf_page": 215,
+      "label": "拓展",
+      "phonetic": "/ˈθæŋkfl/",
+      "definition": "adj. 感谢；欣慰"
+    },
+    {
+      "word": "take... for granted",
+      "pdf_page": 215,
+      "label": "拓展",
+      "definition": "认为……理所当然"
+    },
+    {
+      "word": "take... for granted",
+      "pdf_page": 215,
+      "label": "真题",
+      "english": "Americans stopped taking prosperity for granted.",
+      "translation": "美国人不再把繁荣视为理所当然。"
+    },
+    {
+      "word": "analogous",
+      "pdf_page": 215,
+      "label": "派生",
+      "phonetic": "/əˈnæləɡəs/",
+      "definition": "adj. 类似的，相似的"
+    },
+    {
+      "word": "auction houses",
+      "pdf_page": 217,
+      "label": "拓展",
+      "definition": "拍卖行"
+    },
+    {
+      "word": "freezing",
+      "pdf_page": 217,
+      "label": "派生",
+      "phonetic": "/ˈfriːzɪŋ/",
+      "definition": "adj. 极冷的，冰冻的；n. 冰点"
+    },
+    {
+      "word": "freezer",
+      "pdf_page": 217,
+      "label": "派生",
+      "phonetic": "/ˈfriːzər/",
+      "definition": "n. 冰箱，冷库"
+    },
+    {
+      "word": "permeation",
+      "pdf_page": 218,
+      "label": "派生",
+      "phonetic": "/ˌpɜːmiˈeɪʃn/",
+      "definition": "n. 渗透；弥漫"
+    },
+    {
+      "word": "economic",
+      "pdf_page": 219,
+      "label": "例",
+      "phonetic": "/ˌiːkəˈnɒmɪk/",
+      "definition": "adj. 经济的，经济上的",
+      "english": "Political power depends upon economic strength.",
+      "translation": "政治权力取决于经济实力。"
+    },
+    {
+      "word": "economist",
+      "pdf_page": 219,
+      "label": "派生",
+      "phonetic": "/ɪˈkɒnəmɪst/",
+      "definition": "n. 经济学家"
+    },
+    {
+      "word": "economically",
+      "pdf_page": 219,
+      "label": "例",
+      "phonetic": "/ˌiːkəˈnɒmɪkli/",
+      "definition": "adv. 经济上；节约地",
+      "english": "Services could be operated more efficiently and economically.",
+      "translation": "可以更有效、更经济地提供服务。"
+    },
+    {
+      "word": "autonomous",
+      "pdf_page": 220,
+      "label": "派生",
+      "phonetic": "/ɔːˈtɒnəməs/",
+      "definition": "adj. 自治的；自主的"
+    },
+    {
+      "word": "citizen",
+      "pdf_page": 220,
+      "label": "拓展",
+      "phonetic": "/ˈsɪtɪzn/",
+      "definition": "n. 公民，市民"
+    },
+    {
+      "word": "civilize",
+      "pdf_page": 220,
+      "label": "美式拼写",
+      "definition": "civilise的美式拼写"
+    },
+    {
+      "word": "civilisation",
+      "pdf_page": 220,
+      "label": "例",
+      "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
+      "definition": "n. 文明，文明社会",
+      "american_spelling": "civilization",
+      "english": "Yet science has a cultural history, too, with roots going back to the dawn of civilisation.",
+      "translation": "然而，科学也有一段文化史，其根源可以追溯到文明的开端。"
+    },
+    {
+      "word": "suburban",
+      "pdf_page": 220,
+      "label": "派生",
+      "phonetic": "/səˈbɜːbən/",
+      "definition": "adj. 郊区的；呆板的"
+    },
+    {
+      "word": "metropolitan",
+      "pdf_page": 221,
+      "label": "派生",
+      "phonetic": "/ˌmetrəˈpɒlɪtən/",
+      "definition": "adj. 大都市的；大都会的"
+    },
+    {
+      "word": "traits of character",
+      "pdf_page": 222,
+      "label": "拓展",
+      "definition": "性格特征"
+    },
+    {
+      "word": "characteristic",
+      "pdf_page": 222,
+      "label": "派生",
+      "phonetic": "/ˌkærəktəˈrɪstɪk/",
+      "definition": "adj. 特有的，独特的；n. 特点，特征"
+    },
+    {
+      "word": "characterize",
+      "pdf_page": 222,
+      "label": "美式拼写",
+      "definition": "characterise的美式拼写"
+    },
+    {
+      "word": "conscientious",
+      "pdf_page": 222,
+      "label": "派生",
+      "phonetic": "/ˌkɑːnʃiˈenʃəs/",
+      "definition": "adj. 认真的"
+    },
+    {
+      "word": "consciousness",
+      "pdf_page": 223,
+      "label": "派生",
+      "phonetic": "/ˈkɒnʃəsnəs/",
+      "definition": "n. 意识，知觉"
+    },
+    {
+      "word": "unconscious",
+      "pdf_page": 223,
+      "label": "派生",
+      "phonetic": "/ʌnˈkɒnʃəs/",
+      "definition": "adj. 失去知觉的，无意识的"
+    },
+    {
+      "word": "attachment",
+      "pdf_page": 224,
+      "label": "派生",
+      "phonetic": "/əˈtætʃmənt/",
+      "definition": "n. 附件，附属物"
+    },
+    {
+      "word": "cohesive",
+      "pdf_page": 224,
+      "label": "派生",
+      "phonetic": "/kəʊˈhiːsɪv/",
+      "definition": "adj. 使结合的；使凝结的；使内聚的"
+    },
+    {
+      "word": "donor",
+      "pdf_page": 224,
+      "label": "派生",
+      "phonetic": "/ˈdəʊnə(r)/",
+      "definition": "n. 捐赠者"
+    },
+    {
+      "word": "donation",
+      "pdf_page": 224,
+      "label": "例",
+      "phonetic": "/dəʊˈneɪʃn/",
+      "definition": "n. 捐赠，捐款",
+      "english": "A local businessman offered a large donation for the school.",
+      "translation": "当地一位商人捐了一大笔款给学校。"
+    },
+    {
+      "word": "in accord with",
+      "pdf_page": 225,
+      "label": "拓展",
+      "definition": "与……一致（或相符合）"
+    },
+    {
+      "word": "in accordance with",
+      "pdf_page": 225,
+      "label": "拓展",
+      "definition": "按照，依据",
+      "english": "It is an obvious truism that people act in accordance with their motives.",
+      "translation": "人人都按自己的动机行事是不言而喻的。"
+    },
+    {
+      "word": "regardless of",
+      "pdf_page": 226,
+      "label": "拓展",
+      "definition": "不管；不顾",
+      "english": "Regardless of his financial conditions, he buys anything he wants.",
+      "translation": "他根本不顾及自己的经济状况，只要是他想买的他就会买。"
+    },
+    {
+      "word": "regarding",
+      "pdf_page": 226,
+      "label": "派生",
+      "phonetic": "/rɪˈɡɑːdɪŋ/",
+      "definition": "prep. 关于，至于"
+    },
+    {
+      "word": "regarding",
+      "pdf_page": 226,
+      "label": "真题",
+      "english": "It may just encourage people to talk more honestly about their feelings regarding race issues.",
+      "translation": "它可能只是鼓励人们更诚实地谈论他们对种族问题的感受。"
+    },
+    {
+      "word": "anticipation",
+      "pdf_page": 226,
+      "label": "派生",
+      "phonetic": "/ænˌtɪsɪˈpeɪʃn/",
+      "definition": "n. 预期，预料"
+    },
+    {
+      "word": "participant",
+      "pdf_page": 226,
+      "label": "派生",
+      "phonetic": "/pɑːˈtɪsɪpənt/",
+      "definition": "n. 参与者"
+    },
+    {
+      "word": "participant",
+      "pdf_page": 226,
+      "label": "例",
+      "english": "Companies are active participants in technical cooperation.",
+      "translation": "各家公司积极参与技术合作。"
+    },
+    {
+      "word": "adorable",
+      "pdf_page": 227,
+      "label": "派生",
+      "phonetic": "/əˈdɔːrəbl/",
+      "definition": "adj. 可爱的；招人喜欢的"
+    },
+    {
+      "word": "assertive",
+      "pdf_page": 227,
+      "label": "派生",
+      "phonetic": "/əˈsɜːtɪv/",
+      "definition": "adj. 断言的；确定的"
+    },
+    {
+      "word": "insertion",
+      "pdf_page": 227,
+      "label": "派生",
+      "phonetic": "/ɪnˈsɜːʃn/",
+      "definition": "n. 插入"
+    },
+    {
+      "word": "contractor",
+      "pdf_page": 229,
+      "label": "派生",
+      "phonetic": "/kənˈtræktə(r)/",
+      "definition": "n. 承包人，承包商；承包公司"
+    },
+    {
+      "word": "attractive",
+      "pdf_page": 229,
+      "label": "派生",
+      "phonetic": "/əˈtræktɪv/",
+      "definition": "adj. 有吸引力的"
+    },
+    {
+      "word": "distracting",
+      "pdf_page": 229,
+      "label": "派生",
+      "phonetic": "/dɪˈstræktɪŋ/",
+      "definition": "adj. 分散注意力的，分心的"
+    },
+    {
+      "word": "bureaucratic",
+      "pdf_page": 229,
+      "label": "派生",
+      "phonetic": "/ˌbjʊərəˈkrætɪk/",
+      "definition": "adj. 官僚的；官僚主义的"
+    },
+    {
+      "word": "administration",
+      "pdf_page": 230,
+      "label": "派生",
+      "phonetic": "/ədˌmɪnɪˈstreɪʃn/",
+      "definition": "n. 管理；执行；行政部门；（尤指美国）政府"
+    },
+    {
+      "word": "administrator",
+      "pdf_page": 230,
+      "label": "派生",
+      "phonetic": "/ədˈmɪnɪstreɪtə(r)/",
+      "definition": "n. 管理人员，行政人员"
+    },
+    {
+      "word": "delegation",
+      "pdf_page": 230,
+      "label": "派生",
+      "phonetic": "/ˌdelɪˈɡeɪʃn/",
+      "definition": "n. 代表团；委托"
+    },
+    {
+      "word": "Chinese Academy of Sciences",
+      "pdf_page": 231,
+      "label": "拓展",
+      "definition": "中国科学院"
+    },
+    {
+      "word": "scholarship",
+      "pdf_page": 231,
+      "label": "派生",
+      "phonetic": "/ˈskɒləʃɪp/",
+      "definition": "n. 奖学金；学术研究"
+    },
+    {
+      "word": "scholarship",
+      "pdf_page": 231,
+      "label": "例",
+      "pdf_pages": [
+        231,
+        232
+      ],
+      "english": "She won a scholarship to study at Stanford.",
+      "translation": "她获得了奖学金，得以在斯坦福大学求学。"
+    },
+    {
+      "word": "application",
+      "pdf_page": 233,
+      "label": "派生",
+      "phonetic": "/ˌæplɪˈkeɪʃn/",
+      "definition": "n. 申请（书）"
+    },
+    {
+      "word": "appliance",
+      "pdf_page": 233,
+      "label": "例",
+      "status": "quarantined",
+      "reason": "原书本条第二例无appliance及其词形，隔离保存原文原译。",
+      "english": "The information on the website should be treated with some caution.",
+      "translation": "网站上的信息应该谨慎对待。"
+    },
+    {
+      "word": "equipment",
+      "pdf_page": 233,
+      "label": "派生",
+      "phonetic": "/ɪˈkwɪpmənt/",
+      "definition": "n. 装备，设备，器材"
+    },
+    {
+      "word": "equipment",
+      "pdf_page": 233,
+      "label": "例",
+      "english": "First, he bought new equipment for one of the departments.",
+      "translation": "首先，他为其中一个部门购买了新设备。"
+    }
+  ]
+}

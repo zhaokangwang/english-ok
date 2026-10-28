@@ -1,0 +1,58 @@
+{
+  "status": "imported",
+  "completed_pages": [
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134
+  ],
+  "words": 111,
+  "last_word": "temper",
+  "context_pages_reviewed": [
+    135
+  ],
+  "next_word": "personality",
+  "next_pdf_page": 135,
+  "next_id": "w1216",
+  "continuations": [],
+  "merged_parts": [
+    "batch008_pages115_119",
+    "batch008_pages120_124",
+    "batch008_pages125_129",
+    "batch008_pages130_134"
+  ],
+  "note": "第八批115–134页111个主词已完成并发布；下一批从135页personality、w1216开始。11条待核实例句不入队，第六批23词缺口保留。",
+  "published_version": "vocabulary-0.8.0",
+  "imported_words": 111,
+  "added_words_this_run": 111,
+  "imported_ready_senses": 146,
+  "verification": {
+    "python_tests": 14,
+    "node_tests": 20,
+    "sqlite_integrity": "ok",
+    "foreign_key_violations": 0
+  },
+  "source_corrections": [
+    {
+      "example_id": "e1108-01",
+      "pdf_page": 115,
+      "note": "对照扫描页补回原译漏字；初始转录快照保留。"
+    }
+  ]
+}

@@ -27,7 +27,8 @@
       "pdf_page": 77,
       "label": "例",
       "english": "Adapt your usual eating regime to make it more nutritious.",
-      "translation": "调整你的常饮食习惯，使之更富有营养。"
+      "translation": "调整你的日常饮食习惯，使之更富有营养。",
+      "note": "依据PDF77补回此前转录遗漏的“日”字。"
     },
     {
       "word": "slightly",
@@ -48,6 +49,114 @@
       "pdf_page": 80,
       "label": "拓展",
       "definition": "（与……）并驾齐驱；（与……）步调一致"
+    },
+    {
+      "word": "inherent",
+      "pdf_page": 86,
+      "label": "例",
+      "english": "Individuality is a valued and inherent part of the British character.",
+      "translation": "个性是英国人重视并固有的特征。"
+    },
+    {
+      "word": "catalog",
+      "pdf_page": 86,
+      "label": "美式拼写",
+      "main_word": "catalogue"
+    },
+    {
+      "word": "alliance",
+      "pdf_page": 87,
+      "label": "例",
+      "english": "The Green Alliance was formed to campaign against environmental damage.",
+      "translation": "绿色联盟的成立是为了开展反对破坏环境的运动。"
+    },
+    {
+      "word": "adapt to",
+      "pdf_page": 88,
+      "label": "拓展",
+      "definition": "适应"
+    },
+    {
+      "word": "alarmist",
+      "pdf_page": 89,
+      "label": "真题",
+      "english": "This isn’t to be alarmist.",
+      "translation": "这不是危言耸听。"
+    },
+    {
+      "word": "cautious",
+      "pdf_page": 89,
+      "label": "真题",
+      "english": "Employers are more cautious about hiring new staff.",
+      "translation": "雇主对雇佣新员工更加谨慎。"
+    },
+    {
+      "word": "slippery",
+      "pdf_page": 90,
+      "label": "例",
+      "english": "The road is slippery after a heavy storm.",
+      "translation": "大雨后路很滑。"
+    },
+    {
+      "word": "slipper",
+      "pdf_page": 90,
+      "label": "拓展",
+      "phonetic": "/ˈslɪpə(r)/",
+      "definition": "n. 拖鞋"
+    },
+    {
+      "word": "pink slip",
+      "pdf_page": 90,
+      "label": "拓展",
+      "definition": "解聘书"
+    },
+    {
+      "word": "rental environment",
+      "pdf_page": 90,
+      "label": "拓展",
+      "definition": "租赁环境"
+    },
+    {
+      "word": "current news",
+      "pdf_page": 90,
+      "label": "拓展",
+      "definition": "时事"
+    },
+    {
+      "word": "magnifying glass",
+      "pdf_page": 92,
+      "label": "真题",
+      "english": "You really need a magnifying glass to appreciate all the fine detail.",
+      "translation": "你需要放大镜才能欣赏到一切细微之处。",
+      "reason": "原句使用名词短语magnifying glass（放大镜），另存关联材料。"
+    },
+    {
+      "word": "fabrication",
+      "pdf_page": 92,
+      "label": "例",
+      "english": "Her story was a complete fabrication from start to finish.",
+      "translation": "她的叙述从头至尾都是编造出来的。"
+    },
+    {
+      "word": "barely",
+      "pdf_page": 94,
+      "label": "真题",
+      "english": "During their six- to twelve-week voyage, they survived on barely enough food allotted to them.",
+      "translation": "在六到十二周的航行中，他们靠分配给他们的食物勉强维持生计。"
+    },
+    {
+      "word": "embarrassing",
+      "pdf_page": 94,
+      "label": "真题",
+      "english": "It is financially terrifying, psychologically embarrassing.",
+      "translation": "从经济上来说是可怕的，从心理上说是尴尬的。"
+    },
+    {
+      "word": "embarrassment",
+      "pdf_page": 94,
+      "label": "真题",
+      "english": "With them, there’s not the same embarrassment as when buying one carrot in a little greengrocer.",
+      "translation": "有了它们，就不会像在小蔬菜水果店买一根胡萝卜那样尴尬。"
     }
   ]
 }

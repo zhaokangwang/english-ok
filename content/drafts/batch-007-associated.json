@@ -1,4 +1,170 @@
 {
   "method": "manual_visual_transcription",
-  "items": []
+  "items": [
+    {
+      "word": "motivate",
+      "pdf_page": 97,
+      "label": "真题",
+      "english": "Not only are the tasks apparently infinite, the co-workers are much harder to motive.",
+      "translation": "不仅任务无穷无尽，同事们也很难被激励起来。",
+      "status": "quarantined",
+      "reason": "原书此处拼作motive，不是motivate的词形；保留原文，待核对，不进入学习队列。"
+    },
+    {
+      "word": "emotional problems / stress",
+      "pdf_page": 98,
+      "label": "拓展",
+      "definition": "情感问题／压力"
+    },
+    {
+      "word": "rationalization",
+      "pdf_page": 98,
+      "label": "真题",
+      "english": "This seems a justification for neglect of those in need, and a rationalization of exploitation.",
+      "translation": "这种说法似乎为忽视需要帮助的人找到了借口，使剥削合理化。"
+    },
+    {
+      "word": "rationale",
+      "pdf_page": 98,
+      "label": "拓展",
+      "definition": "n. 基本原理；根本原因"
+    },
+    {
+      "word": "notify",
+      "pdf_page": 99,
+      "label": "拓展",
+      "definition": "v. 通报，通知"
+    },
+    {
+      "word": "notify",
+      "pdf_page": 99,
+      "label": "例",
+      "english": "Competition winners will be notified by post.",
+      "translation": "将发信通知竞赛的优胜者。"
+    },
+    {
+      "word": "a statue of Apollo",
+      "pdf_page": 103,
+      "label": "拓展",
+      "definition": "阿波罗的雕像"
+    },
+    {
+      "word": "liberal",
+      "pdf_page": 104,
+      "label": "真题",
+      "english": "At its best, the European project is remarkably liberal.",
+      "translation": "在最好的情况下，欧洲项目是非常自由的。"
+    },
+    {
+      "word": "deliberately",
+      "pdf_page": 104,
+      "label": "真题",
+      "english": "Deep breaths can help, as can speaking more slowly and deliberately.",
+      "translation": "深呼吸会有所帮助，缓慢且更谨慎地讲话也会管用。"
+    },
+    {
+      "word": "devoted",
+      "pdf_page": 104,
+      "label": "真题",
+      "english": "Devoted concertgoers are missing the point.",
+      "translation": "那些忠实的音乐会听众没有领会到问题的关键点。"
+    },
+    {
+      "word": "acquaintance",
+      "pdf_page": 108,
+      "label": "真题",
+      "english": "It does not take a lifelong acquaintance to pick up various software programs.",
+      "translation": "学会各种软件程序并不需要花半生的时间。",
+      "status": "quarantined",
+      "reason": "lifelong acquaintance与原译花半生的时间存在语义差异，保留原文与原译待复核；不是acquaint主词动词例句。",
+      "continuation_pdf_page": 109
+    },
+    {
+      "word": "acquaintance",
+      "pdf_page": 109,
+      "label": "真题",
+      "english": "For a social epidemic to occur, however, each person so affected must then influence his or her own acquaintances.",
+      "translation": "然而，要使一种社会流行现象发生，每个受影响的人必须影响他或她自己的熟人。"
+    },
+    {
+      "word": "option",
+      "pdf_page": 109,
+      "label": "例",
+      "english": "There are various options open to you.",
+      "translation": "你有多种选择。"
+    },
+    {
+      "word": "compulsory disciplines",
+      "pdf_page": 109,
+      "label": "拓展",
+      "definition": "必修课"
+    },
+    {
+      "word": "optional disciplines",
+      "pdf_page": 109,
+      "label": "拓展",
+      "definition": "选修课"
+    },
+    {
+      "word": "self-discipline",
+      "pdf_page": 109,
+      "label": "拓展",
+      "definition": "自律"
+    },
+    {
+      "word": "in principle",
+      "pdf_page": 109,
+      "label": "拓展",
+      "definition": "原则上；大体上"
+    },
+    {
+      "word": "extensive",
+      "pdf_page": 111,
+      "label": "例",
+      "english": "The house has extensive grounds.",
+      "translation": "这栋房子有宽敞的庭院。"
+    },
+    {
+      "word": "extension",
+      "pdf_page": 112,
+      "label": "例",
+      "english": "My home life was becoming no more than an extension of my job.",
+      "translation": "我的家庭生活只不过是我工作的延伸。"
+    },
+    {
+      "word": "attendance",
+      "pdf_page": 112,
+      "label": "真题",
+      "english": "The theatre has broken attendance records for three years in a row.",
+      "translation": "这家剧院已连续三年打破了上座率的纪录。"
+    },
+    {
+      "word": "intentional",
+      "pdf_page": 113,
+      "label": "例",
+      "english": "It is difficult to prove whether their actions were negligent or intentional.",
+      "translation": "很难证明他们的行为是疏忽还是故意的。"
+    },
+    {
+      "word": "unveil",
+      "pdf_page": 114,
+      "label": "例",
+      "english": "They will be unveiling their new models at the Motor Show.",
+      "translation": "他们将在汽车展上首次推出自己的新型汽车。"
+    },
+    {
+      "word": "enclosure",
+      "pdf_page": 114,
+      "label": "真题",
+      "english": "No matter how you enhance enclosures, they do not allow for freedom, a natural diet or adequate exercise.",
+      "translation": "无论你如何改善圈养环境，都不能给它们自由的空间、自然的饮食或充分的运动。"
+    },
+    {
+      "word": "detective",
+      "pdf_page": 115,
+      "label": "例",
+      "english": "A team of around 30 detectives and uniformed officers have been working on the case.",
+      "translation": "一个由大约30名侦探和穿制服的警察组成的小组一直在调查此案。"
+    }
+  ]
 }

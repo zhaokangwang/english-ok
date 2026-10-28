@@ -1,0 +1,217 @@
+{
+  "format_version": 1,
+  "batch_id": "batch-013",
+  "source_id": "src-0001",
+  "source_sha256": "ce735354542374bf39479773e1ca2ce79456292cb310f9fcea61b1ff42a783d5",
+  "engine": "Windows.Media.Ocr",
+  "language": "zh-Hans-CN",
+  "method": "local_ocr_with_visual_review",
+  "owner_pages": [
+    215,
+    234
+  ],
+  "context_pages": [
+    214,
+    235
+  ],
+  "ocr_pages": [
+    215,
+    235
+  ],
+  "pages": [
+    {
+      "pdf_page": 215,
+      "lines": 66,
+      "image_sha256": "1f70d5af6cb1dbdb692debb761839de81e933b14283f52499f200fb23000124c",
+      "coordinates_file": "tmp/pdfs/b13-215.ocr.json",
+      "coordinates_sha256": "6f1a5b2a0185c9259ad4d17ec9246284ed07aff6d148ffdfe6fb5f89285134f7",
+      "text_file": "tmp/pdfs/b13-215.ocr.txt",
+      "text_sha256": "b6810d676cd04c343970070a04d5ccabcf095f45266abcac0011b6780e69770a"
+    },
+    {
+      "pdf_page": 216,
+      "lines": 67,
+      "image_sha256": "ffe44378320303592b0d2f15d94b963f0fe6fc0745adb594ebb31d34792c6609",
+      "coordinates_file": "tmp/pdfs/b13-216.ocr.json",
+      "coordinates_sha256": "23865599952192113c033d9b23c986df3a1ebb8a7ac11c9985dd5af914c241d3",
+      "text_file": "tmp/pdfs/b13-216.ocr.txt",
+      "text_sha256": "941353d45f2ebea6141c3dcf5c67f10309a481896bb3c92823d87c6f3defc39a"
+    },
+    {
+      "pdf_page": 217,
+      "lines": 64,
+      "image_sha256": "4413d575586e667f41b991aabc6ef7c29c57b4f8f8f196d232f7c41a5df458fe",
+      "coordinates_file": "tmp/pdfs/b13-217.ocr.json",
+      "coordinates_sha256": "d79d38b9c03204511738551d9752786d48061bb7819d4b1a7da4058de3796f54",
+      "text_file": "tmp/pdfs/b13-217.ocr.txt",
+      "text_sha256": "2b8ae8f6fdb5007f5ba1f85950d54d1ba776fb5d281a56a8e6a2ab3c2a2686e0"
+    },
+    {
+      "pdf_page": 218,
+      "lines": 67,
+      "image_sha256": "06132ecaaa336f1094fae00c44fdd93b3315757c3a58d73839af266d99e68719",
+      "coordinates_file": "tmp/pdfs/b13-218.ocr.json",
+      "coordinates_sha256": "76851c3a29142f853baf1154f9e5e14395ae0ad0084d56d64de20943d8f27458",
+      "text_file": "tmp/pdfs/b13-218.ocr.txt",
+      "text_sha256": "0174138e71a007037fda256111e6d8c7d95e32b53fa20907e73075d0eb0e1204"
+    },
+    {
+      "pdf_page": 219,
+      "lines": 66,
+      "image_sha256": "da8933073b6ac8e49b26a37527f75003c84297fed3ed4febab9f11912beb019f",
+      "coordinates_file": "tmp/pdfs/b13-219.ocr.json",
+      "coordinates_sha256": "8b2db48a3cfd604f4ce3ea29b80197e192712c08b60830156ecd58172421b4ac",
+      "text_file": "tmp/pdfs/b13-219.ocr.txt",
+      "text_sha256": "84cd56a2acfa8caf8449701218ac573d0f849a74cc169dc4eaeabdce611df10e"
+    },
+    {
+      "pdf_page": 220,
+      "lines": 68,
+      "image_sha256": "b65df66c0bd2a037dff2115f830924552be13052d6f7e100cd10a60714cdefbd",
+      "coordinates_file": "tmp/pdfs/b13-220.ocr.json",
+      "coordinates_sha256": "a59e2658371ca34a4f633a8ddee4f2fb2a34f4f6495a0ce1211267e400708a30",
+      "text_file": "tmp/pdfs/b13-220.ocr.txt",
+      "text_sha256": "13bb17079e705287bfdcebb9fba1f281cfbc622e68d887118ac0405c6291221e"
+    },
+    {
+      "pdf_page": 221,
+      "lines": 71,
+      "image_sha256": "5ecc52fe08a45cefbf92159e59264db79e47f12967389e9eca8bdcf54e462745",
+      "coordinates_file": "tmp/pdfs/b13-221.ocr.json",
+      "coordinates_sha256": "60f119a1b70705510fdb1ec6f81e9ca54e4a7b0cdb379810713d6f5b94831769",
+      "text_file": "tmp/pdfs/b13-221.ocr.txt",
+      "text_sha256": "900235d25b425086c2854fa833dd3e485b6a27b2662b7463e65c6dae78d00900"
+    },
+    {
+      "pdf_page": 222,
+      "lines": 66,
+      "image_sha256": "85e7b25dcb2bf5aa2ee065ea77b4d5f1ec1d39c2ebc54655c59e372d21c741a6",
+      "coordinates_file": "tmp/pdfs/b13-222.ocr.json",
+      "coordinates_sha256": "720c09de99bc3a66f56d30107d359ef8fb8ac15b0ffe049e51b6b723eb151da3",
+      "text_file": "tmp/pdfs/b13-222.ocr.txt",
+      "text_sha256": "5f4120337ee186049d7f2241fc6c2530d1f5348c4bf286d316d5c198d943104e"
+    },
+    {
+      "pdf_page": 223,
+      "lines": 69,
+      "image_sha256": "69429728e393d3751f43604fbbf019dd41495a530940f9478ee2e3ea6b57c379",
+      "coordinates_file": "tmp/pdfs/b13-223.ocr.json",
+      "coordinates_sha256": "f14158ec3c9b10dc57cb80707c248e2c35c314a1b2366a714b5403d39b061aa3",
+      "text_file": "tmp/pdfs/b13-223.ocr.txt",
+      "text_sha256": "f325d218ef6109e67526ff73b2f477ead2fc8ee6e1b4e3442c1ff3ea91a95fb0"
+    },
+    {
+      "pdf_page": 224,
+      "lines": 66,
+      "image_sha256": "7b8594507bd3e93bd2c996bcdd7b6736e3115f0dac4268c48ed128ba6bff5ae1",
+      "coordinates_file": "tmp/pdfs/b13-224.ocr.json",
+      "coordinates_sha256": "5c8de798744664d2f8154063ffeb235aa412e9a749ad8ee08c046d549743ae8b",
+      "text_file": "tmp/pdfs/b13-224.ocr.txt",
+      "text_sha256": "79c7ed1ea5bb42b4d0f7abc5161ab16b1908b333d2308dc6df65534f07af2ef7"
+    },
+    {
+      "pdf_page": 225,
+      "lines": 69,
+      "image_sha256": "7099cc313273efefe09b71b59ed46af8d9254cb6ad28713583dec87371f5ce04",
+      "coordinates_file": "tmp/pdfs/b13-225.ocr.json",
+      "coordinates_sha256": "5e97fd08f0521fb3e6b09f94e81c6f506db7cb13cf5f817333e0666e24af3179",
+      "text_file": "tmp/pdfs/b13-225.ocr.txt",
+      "text_sha256": "aa716bb6d3d6b161fb35dd4a2747416df79775b3ee6bfd2f6c83093969119d75"
+    },
+    {
+      "pdf_page": 226,
+      "lines": 66,
+      "image_sha256": "6b7a35fb85157d3101efd21ad6ef8415e625a8ab8449a39f3e757151dd1d49f4",
+      "coordinates_file": "tmp/pdfs/b13-226.ocr.json",
+      "coordinates_sha256": "f038d5967afd96bcb820b29d6fd0d1bea6e2ead211213374cd1787fd398d8ad2",
+      "text_file": "tmp/pdfs/b13-226.ocr.txt",
+      "text_sha256": "d4780c08cf1445ba4af556962a08b644326ec4ac7389095da5a0d45e10942bd3"
+    },
+    {
+      "pdf_page": 227,
+      "lines": 67,
+      "image_sha256": "ee4b57b627d84a8ab2304a706fa4c056822ef24dc6805f074caa99ad80636624",
+      "coordinates_file": "tmp/pdfs/b13-227.ocr.json",
+      "coordinates_sha256": "74c63db3e1ea6d61aeed934eaeab2062b8c885989f9ff9c6d99fd8ce840cd08b",
+      "text_file": "tmp/pdfs/b13-227.ocr.txt",
+      "text_sha256": "1aa35a280cf16747e539af8b54feada1c9e1824876bb3c0fc999771e826e4962"
+    },
+    {
+      "pdf_page": 228,
+      "lines": 68,
+      "image_sha256": "573cc9ea76212bdb9a31f05f0a53c69818f06721e0c1d4705601aa06904effb3",
+      "coordinates_file": "tmp/pdfs/b13-228.ocr.json",
+      "coordinates_sha256": "e83462c5ab400af3542c846a6890721772ad721d5a4d91d836b85b8b57cb41c8",
+      "text_file": "tmp/pdfs/b13-228.ocr.txt",
+      "text_sha256": "85ca270cd11305c0f04b054fac77e5b691c1e0c0516db7621c3323c7605034b9"
+    },
+    {
+      "pdf_page": 229,
+      "lines": 67,
+      "image_sha256": "d9b338ec3588e2dfe9fbeddd41e22bba646a68be4c80f8dbe8b99049003e9322",
+      "coordinates_file": "tmp/pdfs/b13-229.ocr.json",
+      "coordinates_sha256": "4487020748e48d0228158a86290a638b872ae1abee109e3c56c01ed2ae64382c",
+      "text_file": "tmp/pdfs/b13-229.ocr.txt",
+      "text_sha256": "8a44f41300a2d0bd6aa80d78408ed70c096cf4cc12ca9707b861c1dfa9177a9f"
+    },
+    {
+      "pdf_page": 230,
+      "lines": 69,
+      "image_sha256": "0da6efc78676296f5522877d039bb9d90c44de9bdbdf78c7a39cb9d0c10a438d",
+      "coordinates_file": "tmp/pdfs/b13-230.ocr.json",
+      "coordinates_sha256": "c27d9531f034016300bc1cf0854ce32d75aa7e9301b1c46d5feda97869f1e7f2",
+      "text_file": "tmp/pdfs/b13-230.ocr.txt",
+      "text_sha256": "00f4ffcf8aa754d93af8a437bff68459acc30f9a8b515f8ecaa66889c8aa4e43"
+    },
+    {
+      "pdf_page": 231,
+      "lines": 67,
+      "image_sha256": "3e5e5b0a7736d23d9d2f2f13221f6f3e3647b45141f07836b739da93484e0c1e",
+      "coordinates_file": "tmp/pdfs/b13-231.ocr.json",
+      "coordinates_sha256": "22c33f1d85e974aea386defdfc285a73f102d3b253048dff0afb4a96fa7f8891",
+      "text_file": "tmp/pdfs/b13-231.ocr.txt",
+      "text_sha256": "eb36a77b5a387e512db120ef53f40e09efd466c4deca3089dc22769de898d4e8"
+    },
+    {
+      "pdf_page": 232,
+      "lines": 67,
+      "image_sha256": "8abc457fe3106e5edf24e875ec18f7243dfa6746174b39c886f7eb3e7dedcbdc",
+      "coordinates_file": "tmp/pdfs/b13-232.ocr.json",
+      "coordinates_sha256": "8ffa0ed492d3ab03776b6cf0fc895233bdbf6fb750d0834de38cd6e41acd98e0",
+      "text_file": "tmp/pdfs/b13-232.ocr.txt",
+      "text_sha256": "9299b6c175ef10b5076163b242e9bf833dc82675cd9732962fd6d72eadc09d66"
+    },
+    {
+      "pdf_page": 233,
+      "lines": 63,
+      "image_sha256": "4dc873ebe7e3792caada847bff9df2ea8d8cf05401319361bf4c6dc6c5b279a2",
+      "coordinates_file": "tmp/pdfs/b13-233.ocr.json",
+      "coordinates_sha256": "77fe888531e0a9c71214a4abdc77377dfff561018924e61b2c5891080c14d221",
+      "text_file": "tmp/pdfs/b13-233.ocr.txt",
+      "text_sha256": "0e31b7029624b266c212309e9c5cefcc6630ad2fe7f5116f8328933a4f2495fb"
+    },
+    {
+      "pdf_page": 234,
+      "lines": 2,
+      "image_sha256": "1eadcf0feeac130eb664133e6a6ce0cc36018dc0213e0e3454bcf2333d852a78",
+      "coordinates_file": "tmp/pdfs/b13-234.ocr.json",
+      "coordinates_sha256": "42f8cdfc31f5a5e951bb247bfcb2023f6b34c4bd91e630c61bf1c6502753ddf6",
+      "text_file": "tmp/pdfs/b13-234.ocr.txt",
+      "text_sha256": "ec8383351942025be7b313b4b2f0856599cdc8f26b0bc4f2795a8542d9b66340"
+    },
+    {
+      "pdf_page": 235,
+      "lines": 65,
+      "image_sha256": "009c653fcd47acde1668877af2730d01eb288412719341cb92d553a719821a22",
+      "coordinates_file": "tmp/pdfs/b13-235.ocr.json",
+      "coordinates_sha256": "896d03422ef7fe64ed61e1575126281f292055e956347c4c539938fdc4314f87",
+      "text_file": "tmp/pdfs/b13-235.ocr.txt",
+      "text_sha256": "d53ac595d1a80060b7d44cb9c940b5cd775c5d68713dae3c23e5386c752ad0d1"
+    }
+  ],
+  "notes": [
+    "本机识别，无文档上传。",
+    "OCR文本和坐标为可复用缓存，不直接作为词义和例句映射依据；各页已视觉核对。",
+    "本批主词截至233 instrument；234为扉页，235 basis仅核对续接边界。"
+  ]
+}

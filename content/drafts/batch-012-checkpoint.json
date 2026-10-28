@@ -1,0 +1,82 @@
+{
+  "status": "imported",
+  "completed_pages": [
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214
+  ],
+  "words": 101,
+  "last_word": "alleviate",
+  "start_id": "w2213",
+  "context_pages_reviewed": [
+    215
+  ],
+  "next_word": "ease",
+  "next_pdf_page": 215,
+  "next_id": "w2314",
+  "continuations": [],
+  "merged_parts": [
+    "batch012_pages195_199",
+    "batch012_pages200_204",
+    "batch012_pages205_209",
+    "batch012_pages210_214"
+  ],
+  "saved_part_pages": {
+    "batch012_pages195_199": 199,
+    "batch012_pages200_204": 204,
+    "batch012_pages205_209": 209,
+    "batch012_pages210_214": 214
+  },
+  "note": "第十二批195–214页101个主词已全部发布；第六单元165主词完整，第七单元68词尚未收尾。alleviate原译续215，下一批ease215/w2314。15条待核实例句不入队。第六批23词和第九批153–154缺口保留。",
+  "published_version": "vocabulary-0.12.0",
+  "imported_words": 101,
+  "added_words_this_run": 101,
+  "imported_ready_senses": 139,
+  "verification": {
+    "python_tests": 30,
+    "node_tests": 28,
+    "sqlite_integrity": "ok",
+    "foreign_key_violations": 0
+  },
+  "source_corrections": [
+    {
+      "word": "affirm",
+      "pdf_page": 198,
+      "field": "mnemonic",
+      "note": "按原书补回一再地使它牢固中的一。"
+    }
+  ],
+  "preserved_unfinished_batches": [
+    {
+      "id": "batch-006",
+      "missing_words": 23
+    },
+    {
+      "id": "batch-009",
+      "unprocessed_owner_pages": [
+        153,
+        154
+      ],
+      "next_word": "compatible",
+      "next_pdf_page": 153,
+      "next_id": "w1309"
+    }
+  ]
+}

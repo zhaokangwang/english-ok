@@ -1,0 +1,158 @@
+{
+  "method": "manual_visual_transcription",
+  "items": [
+    {
+      "word": "temporary guest workers",
+      "pdf_page": 195,
+      "label": "拓展",
+      "definition": "临时外籍劳工"
+    },
+    {
+      "word": "conformity",
+      "pdf_page": 196,
+      "label": "例",
+      "english": "It was in conformity to the prevailing practice in the market.",
+      "translation": "这符合市场的普通做法。"
+    },
+    {
+      "word": "well-informed",
+      "pdf_page": 197,
+      "label": "拓展",
+      "definition": "adj. 消息灵通的；见多识广的"
+    },
+    {
+      "word": "ill-informed",
+      "pdf_page": 197,
+      "label": "拓展",
+      "definition": "adj. 消息不灵通的；了解不够的"
+    },
+    {
+      "word": "formula",
+      "pdf_page": 197,
+      "label": "拓展",
+      "definition": "n. 公式；方案"
+    },
+    {
+      "word": "local facilities",
+      "pdf_page": 203,
+      "label": "拓展",
+      "definition": "当地的设施"
+    },
+    {
+      "word": "manufacturer",
+      "pdf_page": 203,
+      "label": "真题",
+      "english": "Either way, one benefit of a “national” organization would be to negotiate better prices, if possible, with drug manufacturers.",
+      "translation": "无论哪种方式，一个全国性组织的好处是，如果有可能的话，与药品制造商谈判更优惠的价格。"
+    },
+    {
+      "word": "defective",
+      "pdf_page": 204,
+      "label": "例",
+      "english": "Her hearing was found to be slightly defective.",
+      "translation": "经检查，她的听力有点缺陷。"
+    },
+    {
+      "word": "effective",
+      "pdf_page": 204,
+      "label": "例",
+      "english": "His hard work is effective.",
+      "translation": "他的努力工作很有成效。"
+    },
+    {
+      "word": "in effect",
+      "pdf_page": 204,
+      "label": "拓展",
+      "definition": "事实上；实际上"
+    },
+    {
+      "word": "take effect",
+      "pdf_page": 204,
+      "label": "拓展",
+      "definition": "开始起作用；见效"
+    },
+    {
+      "word": "perfectly",
+      "pdf_page": 205,
+      "label": "例",
+      "english": "You know perfectly well what I mean.",
+      "translation": "我的意思你是一清二楚的。"
+    },
+    {
+      "word": "utility",
+      "pdf_page": 205,
+      "label": "例",
+      "english": "This information is of the highest utility to a historian.",
+      "translation": "这条信息对历史学家来说是最有用的。"
+    },
+    {
+      "word": "disadvantage",
+      "pdf_page": 205,
+      "label": "拓展",
+      "definition": "n. 缺点，劣势；不利因素"
+    },
+    {
+      "word": "take advantage of",
+      "pdf_page": 205,
+      "label": "拓展",
+      "definition": "利用"
+    },
+    {
+      "word": "cosmic inflation",
+      "pdf_page": 207,
+      "label": "拓展",
+      "definition": "宇宙膨胀说"
+    },
+    {
+      "word": "financial products",
+      "pdf_page": 207,
+      "label": "拓展",
+      "definition": "金融产品"
+    },
+    {
+      "word": "the gap between the Medieval and modern periods",
+      "pdf_page": 210,
+      "label": "拓展",
+      "definition": "中世纪和现代之间的鸿沟"
+    },
+    {
+      "word": "survivor",
+      "pdf_page": 211,
+      "label": "例",
+      "pdf_pages": [
+        211,
+        212
+      ],
+      "english": "Many firms will die, but the survivors will emerge leaner and stronger than before.",
+      "translation": "许多公司将倒闭，但幸存者将变得比以前更加精干和强大。"
+    },
+    {
+      "word": "survival",
+      "pdf_page": 212,
+      "label": "例",
+      "english": "Everybody needs some sleep for survival.",
+      "translation": "每个人都需要睡眠才能生存。"
+    },
+    {
+      "word": "residence",
+      "pdf_page": 212,
+      "label": "例",
+      "english": "They had entered the country and had applied for permanent residence.",
+      "translation": "他们已经入境该国，并申请了永久居住权。"
+    },
+    {
+      "word": "inhabitant",
+      "pdf_page": 213,
+      "label": "例",
+      "english": "We will try to give cheap electric energy and heat to every inhabitant of the world.",
+      "translation": "我们努力向全世界每位居民提供廉价的电能和热能。"
+    },
+    {
+      "word": "relief",
+      "pdf_page": 214,
+      "label": "例",
+      "english": "After the exam, I felt an incredible sense of relief.",
+      "translation": "考试过后，我感到无比轻松。"
+    }
+  ]
+}

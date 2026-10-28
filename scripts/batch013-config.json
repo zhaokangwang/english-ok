@@ -1,0 +1,127 @@
+{
+  "batch_id": "batch-013",
+  "source_id": "src-0001",
+  "start_id": 2314,
+  "owner_pages": [
+    215,
+    234
+  ],
+  "context_pages": [
+    214,
+    235
+  ],
+  "previous_content_version": "vocabulary-0.12.0",
+  "content_version": "vocabulary-0.13.0",
+  "expected_old_words": 1051,
+  "method": "local_ocr_with_visual_review",
+  "parts": [
+    {
+      "module": "batch013_pages215_219",
+      "end_page": 219
+    },
+    {
+      "module": "batch013_pages220_224",
+      "end_page": 224
+    },
+    {
+      "module": "batch013_pages225_229",
+      "end_page": 229
+    },
+    {
+      "module": "batch013_pages230_234",
+      "end_page": 234
+    }
+  ],
+  "unit_ranges": [
+    {
+      "owner_pages": [
+        215,
+        234
+      ],
+      "unit_id": "unit-007"
+    }
+  ],
+  "units": {
+    "new": [],
+    "complete": {
+      "unit-007": true
+    },
+    "note": "第一、二、四、六、七单元主词完整；第三单元164词仍缺第六批23词；第五单元120词仍缺第九批153–154页。"
+  },
+  "expected_first": {
+    "id": "w2314",
+    "spelling": "ease",
+    "pdf_pages": [
+      215
+    ]
+  },
+  "expected_last": {
+    "spelling": "instrument",
+    "pdf_pages": [
+      233
+    ],
+    "id": "w2427"
+  },
+  "expected_next": {
+    "word": "basis",
+    "page": 235
+  },
+  "preserve_batches": {
+    "batch-006": {
+      "status": "partially_imported"
+    },
+    "batch-009": {
+      "status": "partially_imported",
+      "unprocessed_owner_pages": [
+        153,
+        154
+      ]
+    }
+  },
+  "reserved_id_ranges": [
+    [
+      "w0380",
+      "w0402"
+    ],
+    [
+      "w1309",
+      "w1999"
+    ]
+  ],
+  "backup_dir": "runtime/pre-batch013-20261028",
+  "policy": "Windows本机OCR辅助提取，逐页视觉核对。第十三批PDF215 ease至233 instrument；234为第八单元扉页。连续ID从w2314起；词义为编辑拆分，音标未外部词典核对，疑点原文保留但不入学习队列。",
+  "checkpoint_note": "OCR文字及坐标已缓存在tmp/pdfs。仅合并已核对段落，发布前保留旧词库回滚副本。第六批23词及第九批153–154页缺口继续保留。",
+  "coverage": "PDF215 ease至233 instrument共114个新主词，完成第七单元；234为第八单元扉页。下一批basis235/w2428；alleviate续文已属第十二批，不重复导入。",
+  "quality_notes": [
+    "使用Windows.Media.Ocr本机识别辅助整理，并逐页核对原图；完整源释义、例句及原译保留，词义为编辑拆分，音标未外部核对。",
+    "识别原文与词坐标缓存复用；疑点保留原文原译并标pending，不进入学习队列。",
+    "派生和拓展资料另存associated，不混入主词数量。",
+    "第七单元主词收尾完成；第六批23词及第九批153–154页缺口保留。",
+    "旧1051词及其身份、字段、单元归属需逐项验证不变；个人学习记录由独立测试数据库验证兼容性。"
+  ],
+  "plan_note": "第十三批215–234页已完成，第七单元主词完整。下一批从235页basis开始；第六批23词及第九批153–154页缺口保留。",
+  "expected_words": 114,
+  "reviewed_pdf_pages": [
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230,
+    231,
+    232,
+    233,
+    234,
+    235
+  ]
+}

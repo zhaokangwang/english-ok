@@ -1,0 +1,169 @@
+{
+  "method": "manual_visual_transcription",
+  "items": [
+    {
+      "word": "calculation",
+      "pdf_page": 136,
+      "label": "例",
+      "english": "Cathy did a rough calculation.",
+      "translation": "凯茜做了一个粗略的计算。"
+    },
+    {
+      "word": "reap a / the harvest",
+      "pdf_page": 136,
+      "label": "拓展",
+      "definition": "享受成果"
+    },
+    {
+      "word": "overwhelming",
+      "pdf_page": 138,
+      "label": "真题",
+      "english": "Overwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations.",
+      "translation": "这两个人群体中的大多数人认为，今天的年轻人比前几代人更难开始新的生活。"
+    },
+    {
+      "word": "windswept",
+      "pdf_page": 139,
+      "label": "拓展",
+      "definition": "adj. 受大风吹的；当风的"
+    },
+    {
+      "word": "windswept",
+      "pdf_page": 139,
+      "label": "真题",
+      "pdf_pages": [
+        139,
+        140
+      ],
+      "english": "On a recent sunny day, 13,000 chickens roam over Larry Brown’s 40 windswept acres in Shiner, Texas.",
+      "translation": "不久前的一天，艳阳高照，13000只鸡在拉里·布朗位于得克萨斯州希纳市的40英亩向风的露天农场里自由活动着。"
+    },
+    {
+      "word": "in spite of",
+      "pdf_page": 141,
+      "label": "拓展",
+      "definition": "尽管，不管"
+    },
+    {
+      "word": "in spite of",
+      "pdf_page": 141,
+      "label": "真题",
+      "english": "In spite of “endless talk of difference”, American society is an amazing machine for homogenizing people.",
+      "translation": "尽管人们“没完没了地谈论差异”，但美国社会是一台使人们同化的神奇机器。",
+      "reason": "固定短语in spite of为尽管义，未挂到spite主词恶意或怨恨义。"
+    },
+    {
+      "word": "fiercely",
+      "pdf_page": 142,
+      "label": "例",
+      "english": "The chimney was smoking fiercely.",
+      "translation": "烟囱猛烈地冒着烟。"
+    },
+    {
+      "word": "intimidation",
+      "pdf_page": 142,
+      "label": "真题",
+      "english": "It’s more likely to be associated with dominance or intimidation in adversarial situations.",
+      "translation": "在敌对场合，它更可能与控制或恐吓有关。"
+    },
+    {
+      "word": "threaten",
+      "pdf_page": 143,
+      "label": "真题",
+      "english": "The crash was a major reason the U.S. Fish and Wildlife Service (USFWS) decided to formally list the bird as threatened.",
+      "translation": "这种鸟的数量锐减是美国鱼类和野生动物管理局（USFWS）决定正式将其列为受威胁物种的主要原因。"
+    },
+    {
+      "word": "frightened",
+      "pdf_page": 143,
+      "label": "例",
+      "english": "What are you frightened of?",
+      "translation": "你怕什么？"
+    },
+    {
+      "word": "rebellious",
+      "pdf_page": 143,
+      "label": "真题",
+      "english": "The participants filled out questionnaires about how often they did things that were altruistic and positive, like sacrificing their own interests to help a friend, or rebellious and negative, like getting drunk or staying out late.",
+      "translation": "参与者填写了问卷，问卷内容是关于他们做利他的、积极的事情（例如牺牲自己的利益帮助朋友）的频率，以及做叛逆的、消极的事情（例如醉酒或晚归）的频率。"
+    },
+    {
+      "word": "rebellion",
+      "pdf_page": 143,
+      "label": "例",
+      "english": "At the start of the rebellion he pledged to kill his father’s enemies.",
+      "translation": "叛乱开始时，他发誓要杀死他父亲的敌人。",
+      "continuation_pdf_pages": [
+        144
+      ]
+    },
+    {
+      "word": "at stake",
+      "pdf_page": 144,
+      "label": "拓展",
+      "definition": "成败难料；得失都可能；有风险"
+    },
+    {
+      "word": "charitable",
+      "pdf_page": 146,
+      "label": "真题",
+      "english": "Should they become charitable corporations?",
+      "translation": "它们应该成为慈善公司吗？"
+    },
+    {
+      "word": "violence",
+      "pdf_page": 146,
+      "label": "例",
+      "english": "Our organization works with victims of violence.",
+      "translation": "我们的组织与暴力受害者合作。"
+    },
+    {
+      "word": "domestic violence",
+      "pdf_page": 146,
+      "label": "拓展",
+      "definition": "家庭暴力"
+    },
+    {
+      "word": "encouragement",
+      "pdf_page": 148,
+      "label": "真题",
+      "english": "If you have no friends or relatives, try to participate in several online communities, full of people who are always willing to share advice and encouragement.",
+      "translation": "如果你没有朋友或亲戚，试着参加几个在线社区，那里到处都是愿意分享建议和提供鼓励的人。"
+    },
+    {
+      "word": "accomplished",
+      "pdf_page": 149,
+      "label": "例",
+      "english": "Sarah had become accomplished at running the house.",
+      "translation": "萨拉已能老练地操持家务了。"
+    },
+    {
+      "word": "achievement",
+      "pdf_page": 149,
+      "label": "真题",
+      "english": "This is the gap that must be narrowed to close the achievement gap.",
+      "translation": "这正是弥合成就差距所必须缩小的缺口。"
+    },
+    {
+      "word": "qualified",
+      "pdf_page": 150,
+      "label": "例",
+      "english": "She’s extremely well qualified for the job.",
+      "translation": "她完全符合承担这项工作的条件。"
+    },
+    {
+      "word": "elevation",
+      "pdf_page": 150,
+      "label": "例",
+      "english": "The city is at an elevation of 2,000 metres.",
+      "translation": "这座城市海拔2000米。"
+    },
+    {
+      "word": "commercial",
+      "pdf_page": 151,
+      "label": "例",
+      "english": "He did a number of commercials for major brands.",
+      "translation": "他为许多品牌做了许多广告。"
+    }
+  ]
+}

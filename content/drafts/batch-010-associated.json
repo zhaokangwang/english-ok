@@ -1,0 +1,250 @@
+{
+  "method": "manual_visual_transcription",
+  "items": [
+    {
+      "word": "settlement",
+      "pdf_page": 155,
+      "label": "例",
+      "english": "The management and unions have reached a settlement over new working conditions.",
+      "translation": "资方和工会已就新的工作条件达成协议。"
+    },
+    {
+      "word": "dweller",
+      "pdf_page": 155,
+      "label": "真题",
+      "english": "It was specifically to provide city dwellers with spaces for leisure.",
+      "translation": "它专门为城市居民提供了一些休闲之地。"
+    },
+    {
+      "word": "solution",
+      "pdf_page": 156,
+      "label": "例",
+      "english": "There’s no simple solution to this problem.",
+      "translation": "这个问题没有简单的解决办法。"
+    },
+    {
+      "word": "resolution",
+      "pdf_page": 156,
+      "label": "例",
+      "english": "I made a New Year resolution to give up smoking.",
+      "translation": "我决心在新的一年把烟戒掉。"
+    },
+    {
+      "word": "classical",
+      "pdf_page": 157,
+      "label": "例",
+      "english": "They gained some knowledge of classical art and architecture.",
+      "translation": "他们获得了一些古典艺术和建筑方面的知识。"
+    },
+    {
+      "word": "imagine",
+      "pdf_page": 158,
+      "label": "拓展",
+      "definition": "v. 想象，设想"
+    },
+    {
+      "word": "mortality",
+      "pdf_page": 158,
+      "label": "例",
+      "english": "Mortality from lung cancer is still increasing.",
+      "translation": "死于肺癌的人数仍在上升。"
+    },
+    {
+      "word": "incredibly",
+      "pdf_page": 160,
+      "label": "真题",
+      "english": "In fact, creative problem-solving skills are incredibly useful in daily life.",
+      "translation": "事实上，创造性解决问题的能力在日常生活中非常有用。"
+    },
+    {
+      "word": "strike",
+      "pdf_page": 160,
+      "label": "例",
+      "status": "quarantined",
+      "english": "Now utopia has grown unfashionable, as we have gained a deeper appreciation of the range of threats facing us.",
+      "translation": "如今，随着我们对自身面临的一系列威胁有了更加深刻的认识，乌托邦逐渐变得不再流行了。",
+      "reason": "原书列在strike下的第二例不含strike或其屈折词形，未强行映射到主词。"
+    },
+    {
+      "word": "strikingly",
+      "pdf_page": 160,
+      "label": "例",
+      "english": "Her latest novel is strikingly different from her earlier work.",
+      "translation": "她最新的小说与她早期的作品截然不同。"
+    },
+    {
+      "word": "waterproof",
+      "pdf_page": 160,
+      "label": "拓展",
+      "definition": "adj. 防水的"
+    },
+    {
+      "word": "disapprove",
+      "pdf_page": 161,
+      "label": "真题",
+      "status": "quarantined",
+      "english": "More than two-thirds of young Americans disapprove of President Trump’s use of Twitter.",
+      "translation": "超过三分之二的美国年轻人不赞成特朗普总统使用推特。",
+      "reason": "原书在approve下使用反义词disapprove，单独保留，不挂到approve训练例句。"
+    },
+    {
+      "word": "approval",
+      "pdf_page": 161,
+      "label": "例",
+      "english": "It is not easy to get the approval of authorities.",
+      "translation": "得到官方的批准不容易。"
+    },
+    {
+      "word": "primary school",
+      "pdf_page": 162,
+      "label": "拓展",
+      "definition": "小学"
+    },
+    {
+      "word": "elementary study of English",
+      "pdf_page": 162,
+      "label": "拓展",
+      "definition": "英语的基础学习"
+    },
+    {
+      "word": "passionate",
+      "pdf_page": 163,
+      "label": "真题",
+      "english": "If that happens, passionate consumers would try to persuade others to boycott products.",
+      "translation": "如果那种事情发生，激动的消费者将会试图劝服其他人抵制产品。"
+    },
+    {
+      "word": "excited",
+      "pdf_page": 163,
+      "label": "例",
+      "english": "Girls tend to get excited more easily than boys.",
+      "translation": "女孩比男孩更容易激动。"
+    },
+    {
+      "word": "enthusiasm",
+      "pdf_page": 163,
+      "label": "真题",
+      "english": "No disciplines have seized on professionalism with as much enthusiasm as the humanities.",
+      "translation": "没有哪个学科像人文学科那样热衷于专业化。"
+    },
+    {
+      "word": "optimism",
+      "pdf_page": 164,
+      "label": "例",
+      "english": "There are very real grounds for optimism.",
+      "translation": "的确有理由可以乐观。"
+    },
+    {
+      "word": "destruction",
+      "pdf_page": 164,
+      "label": "例",
+      "english": "The earthquake caused loss of life and property destruction.",
+      "translation": "地震造成了生命和财产损失。"
+    },
+    {
+      "word": "destructive",
+      "pdf_page": 164,
+      "label": "例",
+      "english": "Too much happiness can be destructive.",
+      "translation": "乐极生悲。"
+    },
+    {
+      "word": "poisonous",
+      "pdf_page": 165,
+      "label": "例",
+      "english": "This gas is highly poisonous.",
+      "translation": "这种气体有剧毒。"
+    },
+    {
+      "word": "abandon oneself to doing sth.",
+      "pdf_page": 165,
+      "label": "拓展",
+      "definition": "沉溺于做某事"
+    },
+    {
+      "word": "abandon oneself to",
+      "pdf_page": 165,
+      "label": "例",
+      "english": "Please don’t abandon yourself to those games.",
+      "translation": "请不要沉溺于那些游戏。"
+    },
+    {
+      "word": "alcohol/drug abuse",
+      "pdf_page": 166,
+      "label": "拓展",
+      "definition": "酗酒／吸毒"
+    },
+    {
+      "word": "child abuse",
+      "pdf_page": 166,
+      "label": "拓展",
+      "definition": "虐待儿童"
+    },
+    {
+      "word": "contradiction",
+      "pdf_page": 167,
+      "label": "例",
+      "english": "His public speeches are in direct contradiction to his personal lifestyle.",
+      "translation": "他的公开言论与他本人的生活方式恰恰相反。"
+    },
+    {
+      "word": "contradictory",
+      "pdf_page": 167,
+      "label": "例",
+      "english": "The argument is internally contradictory.",
+      "translation": "论据本身自相矛盾。"
+    },
+    {
+      "word": "authoritative",
+      "pdf_page": 168,
+      "label": "例",
+      "english": "She began to resent his authoritative manner.",
+      "translation": "她开始讨厌他的权威态度。"
+    },
+    {
+      "word": "distinguished",
+      "pdf_page": 171,
+      "label": "例",
+      "english": "The college has a very distinguished academic record.",
+      "translation": "这所学院有着非常出色的学术记录。"
+    },
+    {
+      "word": "distinctly",
+      "pdf_page": 171,
+      "label": "例",
+      "english": "He could remember everything very distinctly.",
+      "translation": "他什么事都能记得清清楚楚。"
+    },
+    {
+      "word": "a string of lucrative awards",
+      "pdf_page": 172,
+      "label": "拓展",
+      "definition": "一系列丰厚的奖项"
+    },
+    {
+      "word": "external challenge",
+      "pdf_page": 173,
+      "label": "拓展",
+      "definition": "外界的质疑"
+    },
+    {
+      "word": "the interior of a plate",
+      "pdf_page": 173,
+      "label": "拓展",
+      "definition": "一个板块的内部"
+    },
+    {
+      "word": "occasional",
+      "pdf_page": 175,
+      "label": "例",
+      "english": "He works for us on an occasional basis.",
+      "translation": "他在我们这里做临时工。"
+    },
+    {
+      "word": "on occasion(s)",
+      "pdf_page": 175,
+      "label": "拓展",
+      "definition": "偶尔，偶然，有时"
+    }
+  ]
+}

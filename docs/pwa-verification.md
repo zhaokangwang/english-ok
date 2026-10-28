@@ -10,10 +10,26 @@
 | 2. 本地 PWA 改造 | 通过 | 已增加清单、图标、离线状态、版本检查、缓存、备份分享和构建流程；用户已验收 |
 | 3. 本地自动验收 | 通过 | 33 项 Node 测试、10 组真实 Chromium 浏览器场景通过 |
 | 4. 本地人工验收 | 通过 | 用户确认“没问题了继续做后续工作” |
-| 5. HTTPS 发布 | 进行中 | 已确认 zhaokangwang/english-ok 为公开仓库，main 为默认分支，当前尚未启用 Pages；SSH 读取正常 |
-| 6. iPhone 真机验收 | 未执行 | 等待实际 HTTPS 地址、设备型号和 iOS 版本 |
+| 5. HTTPS 发布 | 通过 | 用户在 Chrome 中配置并触发工作流；build、deploy 成功，实际 HTTPS 资源与离线验收通过 |
+| 6. iPhone 真机验收 | 待用户执行 | 使用下方已验证网址；待填写设备型号、iOS 版本和真机结果 |
 
 当前本地构建：pwa-29034d22a59f6549，词库 vocabulary-0.13.0。19 个发布文件，约 2.1 MB。后续代码或词库变更会生成不同版本，以实际构建输出为准。
+
+发布准备：从提交 3e6fd26 的 Git 归档在 Windows 环境重新构建成功，版本 pwa-5401f4901cb8cf52。不同平台的文本换行会影响字节摘要。按 Linux LF 换行重新计算得到 pwa-14b1c285d93e5914，与实际线上版本一致；词库、WASM 和图标字节不受影响。
+
+## HTTPS 发布及线上验收
+
+- 实际网址：https://zhaokangwang.github.io/english-ok/
+- 发布源码提交：3e6fd2680a9fff72d0375adf36d6241c8d49cb8d。
+- 工作流：https://github.com/zhaokangwang/english-ok/actions/runs/40626320279 。build、deploy 均成功，总耗时 36 秒。
+- 实际应用版本：pwa-14b1c285d93e5914；词库 vocabulary-0.13.0。
+- HTTPS 发布清单内 16 项资源均为成功响应，逐项 SHA-256 与实际下载字节一致。
+- 独立 Chrome 测试上下文中，首次联网加载、Service Worker 接管、词库打开及反馈保存通过。
+- 禁用浏览器网络并关闭页面后，重新打开已缓存的线上网址通过；保留第 1 次反馈，离线继续学习可保存第 2 次反馈。
+- 结果：tmp/pwa-verification/online-results.json；截图：tmp/pwa-verification/online-settings.png。
+- 复现脚本：tests/pwa-online.mjs，参数为实际 HTTPS 网址；PLAYWRIGHT_MODULE、CHROME_PATH 的配置与本地浏览器验收相同。
+
+本次线上验收使用隔离测试记录，没有读取或修改用户真实浏览器中的学习记录。它仍不代替 iPhone 主屏幕安装与 iOS 文件分享测试。
 
 ## 本地代码验收依据
 
@@ -63,7 +79,7 @@ npm run preview:pwa
 
 更完整的离线检查：先完成缓存，再停止预览服务，从同一地址重开检查。这里的 127.0.0.1 是电脑自身地址，不能直接拿给 iPhone 使用。
 
-用户已确认本轮检查没有问题；现进入 GitHub Pages 配置与 HTTPS 发布阶段。
+用户已确认本轮检查没有问题；GitHub Pages 发布与线上自动验收也已完成，现进入 iPhone 真机验收阶段。
 
 ## 真机检查项：全部待测
 
@@ -76,4 +92,4 @@ npm run preview:pwa
 - 系统分享面板导出 JSON 至“文件”，以及实际选择备份恢复。
 - 新版本发布后的安装生命周期及数据保留。
 
-当前未连接或操作用户的 iPhone；桌面 Chromium 测试不能证明以上项目通过。未发布网站，未更改 GitHub 仓库可见性，未提交或推送代码。
+当前未连接或操作用户的 iPhone；桌面 Chromium 测试不能证明以上项目通过。代码已提交并推送，仓库可见性未改变；网站已发布并通过 HTTPS 自动验收。

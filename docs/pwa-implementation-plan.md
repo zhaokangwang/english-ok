@@ -1,6 +1,6 @@
 # English OK：iPhone PWA 试用实施方案
 
-日期：2026-10-28。状态：已进入实施；本地代码、自动验证和人工验收状态以 pwa-verification.md 为准。尚未发布网站。
+日期：2026-10-28。状态：本地人工验收及 HTTPS 发布已完成，iPhone 真机验收待执行；详细状态以 pwa-verification.md 为准。试用网址：https://zhaokangwang.github.io/english-ok/ 。
 
 ## 1. 本期目标和范围
 

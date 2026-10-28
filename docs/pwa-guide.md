@@ -1,5 +1,7 @@
 # English OK PWA 使用与发布说明
 
+已发布试用网址：[English OK](https://zhaokangwang.github.io/english-ok/)。线上加载与离线重开已验证；iPhone 主屏幕安装、系统分享及重启行为仍需真机验收。
+
 ## 本地验收
 
 在项目根目录运行：
@@ -67,3 +69,11 @@ node tests/pwa-browser.mjs
 若环境可以直接解析 playwright 且已安装对应浏览器，可省略上述环境变量。脚本只使用独立临时浏览器上下文、随机端口和测试记录，结果及截图写入 tmp/pwa-verification/，不会读取真实浏览器用户目录。
 
 浏览器测试包含根目录和项目子目录安装、离线重开、备份、更新及失败重试。它不模拟 iOS 系统的主屏幕安装、文件分享面板、重启或存储回收，这些仍由真机验收覆盖。
+
+已部署网站的额外校验可运行：
+
+```powershell
+node tests/pwa-online.mjs https://zhaokangwang.github.io/english-ok/
+```
+
+该检查会下载并核对发布清单中的资源，在独立 Chrome 上下文中检查线上启动、离线重开和学习记录保存。它不发布网站，也不操作真实用户记录。

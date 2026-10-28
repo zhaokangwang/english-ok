@@ -1,5 +1,7 @@
 # English OK · 第一步数据样本
 
+PWA 试用：[打开 English OK](https://zhaokangwang.github.io/english-ok/)。HTTPS 加载、离线重开与学习保存已验证；iPhone 安装方法见 [使用说明](docs/pwa-guide.md)，真机验收状态见 [验收记录](docs/pwa-verification.md)。
+
 当前词库版本 vocabulary-0.13.0：1165个主要词条、2512个拆分词义、2175条例句，其中1607个词义可学习。第一单元165词、第二单元180词、第四单元189词、第六单元165词、第七单元182词主词已完整；第三单元164词仍缺第六批23词；第五单元120词仍缺第九批153–154页。第十三批PDF215 ease至233 instrument新增114词，234为第八单元扉页；下一批从235页basis开始。第九批续接断点compatible153/w1309保留。派生资料和待核实内容另存，音标未作外部词典复核。
 
 ## 先看内容

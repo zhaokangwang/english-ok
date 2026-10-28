@@ -3,8 +3,9 @@ import {createReadStream} from 'node:fs';
 import {stat} from 'node:fs/promises';
 import {resolve,extname,sep} from 'node:path';
 import {networkInterfaces} from 'node:os';
-const root=resolve('web'),host=process.argv.includes('--lan')?'0.0.0.0':'127.0.0.1',port=5173;
-const types={'.html':'text/html; charset=utf-8','.mjs':'text/javascript; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.wasm':'application/wasm','.sql':'text/plain; charset=utf-8','.sqlite':'application/vnd.sqlite3'};
+const pwa=process.argv.includes('--pwa');
+const root=resolve(pwa?'dist/pwa':'web'),host=process.argv.includes('--lan')?'0.0.0.0':'127.0.0.1',port=pwa?5174:5173;
+const types={'.html':'text/html; charset=utf-8','.mjs':'text/javascript; charset=utf-8','.js':'text/javascript; charset=utf-8','.css':'text/css; charset=utf-8','.wasm':'application/wasm','.sql':'text/plain; charset=utf-8','.sqlite':'application/vnd.sqlite3','.webmanifest':'application/manifest+json','.json':'application/json','.png':'image/png','.svg':'image/svg+xml'};
 http.createServer(async(req,res)=>{
   try{
     const url=new URL(req.url,'http://localhost');

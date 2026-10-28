@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "English OK · 语境学词",
+  "short_name": "English OK",
+  "lang": "zh-CN",
+  "description": "在真实语境中理解单词，离线保存学习进度。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#eff8f5",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}

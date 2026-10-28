@@ -5,7 +5,7 @@ const escape=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>'
 let SQL,vocab,learning,store,revision=0,busy=true,revealed=false,activeExample=null,entryFromStudy=false,selectedWord=null,listScroll=0,viewCursor=null;
 const status=(message,error=false)=>{$('#status').textContent=message;$('#status').classList.toggle('error',error);};
 const controls=()=>{
-  document.querySelectorAll('button,select').forEach(x=>x.disabled=busy);
+  document.querySelectorAll('button:not([data-pwa-action]),select').forEach(x=>x.disabled=busy);
   document.querySelectorAll('[data-rating]').forEach(x=>x.disabled=busy||viewCursor!==null||!revealed||!activeExample);
   $('#previous-word').disabled=busy||!learning||(viewCursor??session(learning,vocab).cursor)<=0;
   $('#next-word').disabled=busy||viewCursor===null;
@@ -101,9 +101,23 @@ $('#back-study').onclick=()=>{location.hash='study';};
 $('#more-content').onclick=()=>mutate(()=>appendNewContent(learning,vocab));
 route();
 function download(name,bytes,type){const url=URL.createObjectURL(new Blob([bytes],{type}));const a=document.createElement('a');a.href=url;a.download=name;a.click();setTimeout(()=>URL.revokeObjectURL(url),30000);}
+async function exportFile(name,bytes,type){
+  try{
+    const file=new File([bytes],name,{type});
+    if(navigator.canShare?.({files:[file]})){
+      await navigator.share({files:[file],title:'English OK 学习备份'});
+      status('已交给系统分享面板，请确认备份已保存到“文件”等位置。');
+    }else{
+      download(name,bytes,type);status('已请求下载备份，请在下载列表中确认文件。');
+    }
+  }catch(e){
+    if(e.name==='AbortError'){status('已取消导出。');return;}
+    download(name,bytes,type);status('系统分享不可用，已请求下载，请确认备份文件。');
+  }
+}
 document.querySelectorAll('[data-rating]').forEach(b=>b.onclick=()=>{if(viewCursor!==null)return;return mutate(()=>answer(learning,vocab,b.dataset.rating,globalThis.crypto?.randomUUID?.()??`evt-${Date.now()}-${Math.random().toString(36).slice(2)}`));});
-$('#export').onclick=()=>download(`english-ok-backup-${new Date().toISOString().slice(0,10)}.json`,JSON.stringify(backup(learning,vocab),null,2),'application/json');
-$('#sqlite').onclick=()=>download('learning.sqlite',learning.export(),'application/vnd.sqlite3');
+$('#export').onclick=()=>exportFile(`english-ok-backup-${new Date().toISOString().slice(0,10)}.json`,JSON.stringify(backup(learning,vocab),null,2),'application/json');
+$('#sqlite').onclick=()=>exportFile('learning.sqlite',learning.export(),'application/vnd.sqlite3');
 $('#import').onclick=()=>$('#file').click();
 $('#file').onchange=async()=>{
   const file=$('#file').files[0];$('#file').value='';if(!file)return;

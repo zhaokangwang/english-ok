@@ -6,6 +6,8 @@
     "dev": "node scripts/serve.mjs",
     "dev:lan": "node scripts/serve.mjs --lan",
     "prepare:web": "node scripts/prepare_web.mjs",
+    "prepare:pwa": "node scripts/prepare_pwa.mjs",
+    "preview:pwa": "node scripts/serve.mjs --pwa",
     "test": "node --test tests/*.test.mjs"
   },
   "repository": {
